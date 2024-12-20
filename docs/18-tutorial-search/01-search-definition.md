@@ -17,5 +17,4 @@ This guide will help you understand **Search bar** in APX GIS programme.
 ## **Infographic**
 
 
-![](/img/GEN-SRCH-DEF/search-definition.svg
-)
+![](/img/GEN-SRCH-DEF/search-definition.svg)

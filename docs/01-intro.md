@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Tutorial Introduction
 
-The content of this material responds to a standard APXGIS configuration. It will have the default element types and there may be variants that respond to the adaptations that are made of the system to the client's requirements...
+The content of this material responds to a standard APXGIS configuration. It will have the default element types and there may be variants that respond to the adaptations that are made of the system to the client's requirements.
 
 Each section has the following documents:
 - **Definition:** brief explanation of the concept through an infographic.
