@@ -14,8 +14,8 @@ This guide will help you **Import** data from a CSV file.
 
 ------------
 
-**Version**: 00
-**Date**: April 2024
+**Version**: 5.3
+**Date**: March 2025
 
 ------------
 ## **Step by Step**
