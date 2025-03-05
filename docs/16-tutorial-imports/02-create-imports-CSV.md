@@ -28,4 +28,4 @@ This guide will help you **Import** data from a CSV file.
 ![](/img/15.Imports/Imports13.png)
 ![](/img/15.Imports/Imports14.png)
 ![](/img/15.Imports/Imports15.png)
-![](/img/15.Imports/Imports16.png)
+
