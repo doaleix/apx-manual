@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
 ---
-# Top Main Menu
+# Top Nav Bar
 
-This guide will help you understand the **Top Main Menu**.
+This guide will help you understand the **Top Nav Bar**.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APX-GIS programme.
@@ -94,4 +94,4 @@ In this window, you can change the full name, email address or password. Once yo
 "**Sign out**" option will log the user out of the programme.
 
 
-**Outcome**: Top Main menu described.
+**Outcome**: Top Nav Bar described.

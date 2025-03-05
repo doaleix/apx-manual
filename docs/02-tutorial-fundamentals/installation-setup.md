@@ -2,9 +2,9 @@
 sidebar_position: 5
 ---
 
-# Configure installation
+# Installation Setup
 
-This guide will help you **Configure the Installation** in the programme.
+This guide will help you **Setup your APX Installation**.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.

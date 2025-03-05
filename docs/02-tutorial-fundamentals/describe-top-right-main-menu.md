@@ -1,9 +1,9 @@
 ---
 sidebar_position: 4
 ---
-# Top Right Main Menu
+# Visualization Menu
 
-This guide will help you understand the **Top Right Main Menu**.
+This guide will help you understand the **Visualization Menu**.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.
@@ -63,4 +63,4 @@ Layers should be created following the menu: **Administration &gt; Admin Layers 
 By default all elements are selected, select or deselect the element types you want to see on the map.
 
 
-**Outcome**: Top right main menu described.
+**Outcome**: Visualization menu described.
