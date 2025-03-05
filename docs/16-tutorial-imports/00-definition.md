@@ -30,7 +30,7 @@ The type of files that can be uploaded are:
 # IMPORTS
 
 To start uploading a list of elements, follow the path:  
-**Administration > Import <element>**
+**Administration &gt; Import &lt;element&gt;**
 
 You will find 25 different imports, each with both required and optional field specifications that can be consulted prior to importing.
 
