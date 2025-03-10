@@ -72,9 +72,9 @@ This guide will help you **add a layer** in the programme.
 
 **APX WMS:** accepts styles, responds well with more than 10,000 elements per project per layer
 
-**WMS:** does not accept styles, responds well with more than 10,000 elements per project per layer, certain parameters must be set in order to to work correctly.
+**WMS:** does not accept styles, responds well with more than 10,000 elements per project per layer, certain parameters must be set in order for it to work correctly.
 
-**Special:** only and exclusively for use in the Blockage layer.
+**Special:** only and exclusively to create a Blockage layer.
 
 
 10\. Click "**Allowed type elements**" option.

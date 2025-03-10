@@ -33,7 +33,7 @@ This guide will help you **select the basemap** in APX GIS programme.
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-12-25/c1864e59-fb43-4b35-93ce-d8e11ec215da/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1918,889&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=826,99)
 
 
-4\. By default, the maps available are: Street maps, Google Satellite, Google Roadmap, Open Streetmaps or none.
+4\. By default, the maps available are: none, Open Streetmaps, Google Satellite or Google Roadmap.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-12-25/2e449726-b77a-46ca-8e6d-6b6514e3cf78/screenshot.jpeg?tl_px=0,0&br_px=1918,887&force_format=png&width=1120.0)
 

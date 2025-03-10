@@ -47,7 +47,3 @@ For this example "**C/ d'Aragó, 312, L'Eixample, 08009 Barcelona, Spain**" was 
 If you wish to set an element at this point, right click in the point. (See documentation "**Elements &gt; Create new element (Map)**")
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-10/46f8ec58-be2f-47ff-b4a6-35ac47d1b38b/ascreenshot.jpeg?tl_px=186,0&br_px=1735,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=523,257)
-
-
-**Tip:** Search address done.
-
