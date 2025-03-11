@@ -119,5 +119,14 @@ This guide will help you create a **Role** in APX GIS programme.
   </tr>
 </table>
 
-In the situation where the same resource is assigned in two different roles and both roles are assigned to the same user, the programme logic will be as follows:
+In the situation where the same resource is assigned in two different roles and both roles are assigned to the same user, 
+the programme logic will be as follows:
+
+
 ![](/img/1.Roles/roles-create06.png)
+
+## Main Menu privileges
+
+A list of **interface options** is displayed in the role form to manage the visualization privileges. Options can be either set to **true** or **false** (true by default). These privileges are restrictive meaning that if a user has a set of n roles where at least one has the menu privilege set to false, the user will not be able to see the option. Moreover, if a parent option is restricted, all the child options will not be displayed even if they have the privilege set to **true**.
+
+![](/img/1.Roles/roles-create07.png)
