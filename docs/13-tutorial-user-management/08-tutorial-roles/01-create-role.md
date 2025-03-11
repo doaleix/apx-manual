@@ -30,7 +30,7 @@ This guide will help you create a **Role** in APX GIS programme.
         <p>3. To add a new Role click “<b>+Add</b>>” button.</p>
     </td>
     <td class="main-td">
-      <img src="/img/1.Roles/roles-create02.png" alt="Roles window" width="500"/>
+      <img src="/img/1.Roles/roles-create02.png" alt="Roles window" width="400"/>
     </td>
   </tr>
 </table>
@@ -58,7 +58,7 @@ This guide will help you create a **Role** in APX GIS programme.
          </ol>
     </td>
     <td class="main-td">
-      <img src="/img/1.Roles/roles-create03.png" alt="Roles window" width="500"/>
+      <img src="/img/1.Roles/roles-create03.png" alt="Roles window" width="400"/>
     </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@ This guide will help you create a **Role** in APX GIS programme.
          </ul>
       </td>
     <td class="main-td">
-      <img src="/img/1.Roles/roles-create04.png" alt="Roles window" width="500"/>
+      <img src="/img/1.Roles/roles-create04.png" alt="Roles window" width="400"/>
     </td>
   </tr>
 </table>
@@ -114,7 +114,7 @@ This guide will help you create a **Role** in APX GIS programme.
          </ol>
       </td>
     <td class="main-td">
-      <img src="/img/1.Roles/roles-create05.png" alt="Roles window" width="500"/>
+      <img src="/img/1.Roles/roles-create05.png" alt="Roles window" width="400"/>
     </td>
   </tr>
 </table>

@@ -4,6 +4,7 @@ sidebar_position: 0
 # Introduction
 
 This guide will help you understand **NOI** in APX GIS programme.
+    * Note: This feature does not come with APX's default installation and requires further setup by the helpdesk team.
 
 ------------
 
