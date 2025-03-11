@@ -39,7 +39,7 @@ This guide will help you create a **Role** in APX GIS programme.
 <table>
   <tr>
     <td class="secondary-td">
-        <ol>
+        <ol start="4">
             <li>
                Once the <strong>“+Add”</strong> button has been clicked, the <strong>“Role”</strong> configuration window will open.
             </li>
@@ -63,7 +63,61 @@ This guide will help you create a **Role** in APX GIS programme.
   </tr>
 </table>
 
+<table>
+  <tr>
+      <td class="secondary-td">
+         <ol start="9">
+            <li>
+               The resources section lists the privileges for which access is enabled (<strong>true</strong>) or disabled (<strong>false</strong>).
+            </li>
+         </ol>
+         <p>These privileges are stored in the new role.</p>
+         <p>For this example, when resource "activity" was clicked, 3 options were listed:</p>
+         <ul>
+            <li>
+               <strong>activity_get: true</strong> – will allow user with this role to perform this resource.
+            </li>
+            <li>
+               <strong>activity_get: false</strong> – will deny user with this role to perform this resource.
+            </li>
+            <li>
+               <strong>activity_get: undefined</strong> – resource allowed, unless the user has another role that does not allow the resource.
+            </li>
+         </ul>
+      </td>
+    <td class="main-td">
+      <img src="/img/1.Roles/roles-create04.png" alt="Roles window" width="300"/>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+      <td class="secondary-td">
+         <ol start="10">
+            <li>
+               Each <strong>resource  group</strong> will have 1 or more resources and for each resource 3 options are considered:
+               <ul>
+                  <li>
+                     <strong>true</strong> – allow user with this role to perform this resource. 
+                  </li>
+                  <li>
+                     <strong>false</strong> – will deny user with this role to perform  this resouce.
+                  </li>
+                  <li>
+                     <strong>undefined</strong> – resource allowed, unless the user has another role that has the resource rerestricted.
+                  </li>
+               </ul>
+            </li>
+            <li>
+               Once all the resources are set, click “<strong>Apply</strong>” button.
+            </li>
+         </ol>
+      </td>
+    <td class="main-td">
+      <img src="/img/1.Roles/roles-create05.png" alt="Roles window" width="300"/>
+    </td>
+  </tr>
+</table>
 
-![](/img/1.Roles/roles-create04.png)
-![](/img/1.Roles/roles-create05.png)
+In the situation where the same resource is assigned in two different roles and both roles are assigned to the same user, the programme logic will be as follows:
 ![](/img/1.Roles/roles-create06.png)
