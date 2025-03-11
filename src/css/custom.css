@@ -30,10 +30,24 @@
 }
 
 table {
-  border: none !important;
   border-collapse: collapse;
+  border: none !important;
+}
+
+table tr {
+  border: none !important;
 }
 
 table td, table th {
   border: none !important;
+  padding: 8px; /* Adjust spacing */
+}
+
+/* Specifically remove the top border */
+table tr:first-child td {
+  border-top: none !important;
+}
+
+td p {
+  margin-bottom: 10px; /* Adjust spacing */
 }
