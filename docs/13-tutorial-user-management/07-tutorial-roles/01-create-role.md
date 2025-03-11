@@ -30,11 +30,12 @@ This guide will help you create a **Role** in APX GIS programme.
 <table>
   <tr>
     <td>
-        2. The “Roles” window ( form ) will open showing a list of the default roles and/or any roles previously created. 
-        In this example "admin", "operators", "planner" and "training user" are roles already created.
+        2. The “Roles” window ( form ) will open showing a list of the default roles and/or any roles previously created.
+        In this example "admin", "operators", "planner" and "training user" are roles already created. 
+        3. To add a new Role click “+Add” button.
     </td>
     <td>
-      <img src="/img/1.Roles/roles-create02.png" alt="Roles window" width="1000"/>
+      <img src="/img/1.Roles/roles-create02.png" alt="Roles window" width="2000"/>
     </td>
   </tr>
 </table>
