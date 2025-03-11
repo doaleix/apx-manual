@@ -51,3 +51,11 @@ table tr:first-child td {
 td p {
   margin-bottom: 10px; /* Adjust spacing */
 }
+
+.main-td {
+  width: 70%
+}
+
+.secondary-td {
+  width: 30%;
+}
