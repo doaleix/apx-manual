@@ -30,7 +30,7 @@ This guide will help you create a **Role** in APX GIS programme.
         <p>3. To add a new Role click “+Add” button.</p>
     </td>
     <td class="main-td">
-      <img src="/img/1.Roles/roles-create02.png" alt="Roles window" width="1000"/>
+      <img src="/img/1.Roles/roles-create02.png" alt="Roles window" width="300"/>
     </td>
   </tr>
 </table>
