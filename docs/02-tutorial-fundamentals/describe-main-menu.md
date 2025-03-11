@@ -38,4 +38,5 @@ Additionally, for each available option, an edit button is displayed at the end.
 
 ![](/img/Interface/interface2.png)
 
-It is also possible to customize the visibility of each menu option for a specific user. For more information regarding this, please check the [Roles section](../13-tutorial-user-management/07-tutorial-roles/00-definition.md#roles)
+It is also possible to customize the visibility of each menu option for a specific user. 
+For more information regarding this, please check the [Roles section](../13-tutorial-user-management/07-tutorial-roles/00-definition.md#roles)
