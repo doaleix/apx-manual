@@ -89,8 +89,8 @@ Scrolling down, the list of PIA Elements will be displayed.
 
 * This list shows all PIA elements associated with the NOI, including a total count.
 * Elements can be added or removed using one of the following methods:
-    - **From a B2B route**: Select elements from a B2B route in APX.
-    - **From the Map**: Click on individual elements or select an area on the map to add multiple elements.
+  - **From a B2B route**: Select elements from a B2B route in APX.
+  - **From the Map**: Click on individual elements or select an area on the map to add multiple elements.
 **Note**: The elements selected should be PIA elements.
 
 * Each element register displays the following information
@@ -147,9 +147,9 @@ Within the element form, a new tab is available to manage evidence captures.  Th
 ![](/img/Noi/noi-screens07.png)
 
 * **Lifecycle**: Evidence captures have an internal lifecycle controlled by a set of statuses:
-    - **Not ready**: The evidence capture is not ready to be sent to OpenReach.
-    - **Ready**: The evidence capture is uploaded into the apx system and is ready to be sent to OpenReach.
-    - **Sent**: The evidence capture is uploaded into the apx system and has been successfully submitted to OpenReach using the Transflex API.
+  - **Not ready**: The evidence capture is not ready to be sent to OpenReach.
+  - **Ready**: The evidence capture is uploaded into the apx system and is ready to be sent to OpenReach.
+  - **Sent**: The evidence capture is uploaded into the apx system and has been successfully submitted to OpenReach using the Transflex API.
 If a photo is re-uploaded, the "Not Ready" status is reset for the evidence capture field.
 
 ![](/img/Noi/noi-screens08.png)
