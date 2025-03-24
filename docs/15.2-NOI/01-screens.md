@@ -36,7 +36,7 @@ To get to the NOI menu go to **Operations** &gt **Admin Noi**.
 - **Reservation Number**: Displays the PIA NOI number from OpenReach, or “-” if not registered.  
 - **NOI opening date**: The date OpenReach provided the NOI number, or “-” if not registered.  
 - **NOI completion date**: The date the NOI was completed in OpenReach, or “-”.  
-- **# Elements**: Total PIA elements associated with the NOI.  
+- **Elements**: Total PIA elements associated with the NOI.  
 - **Actions**: Button to display the NOI details screen.  
 
 ### Filters  
@@ -77,7 +77,7 @@ The **NOI Details** screen enables the creation and management of a NOI, includi
 - **Roles**: Lists the roles that have permission to view and manage the NOI. At least one role is required.  
 - **Last Status Change**: Displays the date of the most recent status change. This field is **read-only**.  
 - **Expiration Date**: Displays the expiration date returned by OR. This field is **read-only**.  
-- **# Active Blockages**: Displays the number of active blockages related to the OR PIA elements. This field is **read-only**.  
+- **Active Blockages**: Displays the number of active blockages related to the OR PIA elements. This field is **read-only**.  
 - **Reservation Number**: Assigned by OR when the status changes from **INIT** to **ACKNOWLEDGED**. This field is **read-only**.  
 - **Extension Reason**: Displays a list of reasons accepted by OR to send the extension request. This field only appears once the NOI is **ACKNOWLEDGED**.  
 
