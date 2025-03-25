@@ -74,7 +74,7 @@ This guide will help you **add a layer** in the programme.
 
 **WMS:** does not accept styles, responds well with more than 10,000 elements per project per layer, certain parameters must be set in order for it to work correctly.
 
-**Special:** only and exclusively to create a Blockage layer.
+**Special:** Used only to create a Blockage layer or an Alarm layer.
 
 
 10\. Click "**Allowed type elements**" option.
