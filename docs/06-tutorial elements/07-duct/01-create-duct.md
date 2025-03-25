@@ -140,24 +140,15 @@ Please refer to the documentation "**Element types &gt; Codifiers**".
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/88f3fed2-7a56-4adc-9729-e3a37d733abb/ascreenshot.jpeg?tl_px=6,0&br_px=1725,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=524,286)
 
-
-18\. Element window will be opened (Duct), click "**Status**" field and a drop down menu will be shown. The "**Status**" field is assigned to all elements. For this example "**Active**" status was selected.
-
-To edit or add values to "**Status**" field follow the menu:
-
-"**Administration&gt;Codifiers&gt;Element state**".
-
-Please refer to the documentation "**Element types &gt; Codifiers**".
-
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/abb4630e-1db2-42ca-925b-93b849d74803/user_cropped_screenshot.jpeg?tl_px=0,15&br_px=836,656&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=769,393)
 
 
-19\. To continue entering the element information, click "**Duct Details**" option.
+18\. To continue entering the element information, click "**Duct Details**" option.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/23ad218e-486e-432a-90f3-13186e54bb8c/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=829,653&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=28,534)
 
 
-20\. Within the information group "**Details**" the fields to be filled in are:
+19\. Within the information group "**Details**" the fields to be filled in are:
 
 **Measured length.** This field is auto populated.
 
@@ -179,7 +170,7 @@ The available colors have to be previously registered following the path "**Admi
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/a99a0497-4c8d-4f43-bc42-99cc86a08ad5/user_cropped_screenshot.jpeg?tl_px=0,59&br_px=848,829&force_format=png&width=1120.0)
 
 
-21\. Within the information group "**Details**" the fields to be filled in are:
+20\. Within the information group "**Details**" the fields to be filled in are:
 
 **Depth.** This field is numeric.
 
@@ -202,7 +193,7 @@ Please refer to the documentation "**Element types &gt; Codifiers**".
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/aaba67a5-1276-42f4-8ce7-a9d00ab92260/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=834,458&force_format=png&width=860)
 
 
-22\. Within the information group "**Details**" the fields to be filled in are:
+21\. Within the information group "**Details**" the fields to be filled in are:
 
 **Shape**:
 
@@ -215,7 +206,7 @@ Please refer to the documentation "**Element types &gt; Codifiers**".
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/8981d6ea-563d-42c0-865c-f009de8ddabf/user_cropped_screenshot.jpeg?tl_px=0,204&br_px=841,684&force_format=png&width=860)
 
 
-23\. Within the information group "**Elements**" the following actions may be carried out:
+22\. Within the information group "**Elements**" the following actions may be carried out:
 
 1. **Add new Subduct**: Please refer to the path "**Element &gt; Subduct &gt; Add new Subduct"** of this manual.
 2. **Add new Microduct:** Please refer to the path "**Element &gt; Microduct &gt; Add new Microduct"** of this manual.
@@ -226,6 +217,15 @@ For this example a subduct and microduct were created previously.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/4d7ab184-8dd2-420b-bfa6-4c5364d35bb1/user_cropped_screenshot.jpeg?tl_px=0,204&br_px=843,684&force_format=png&width=860)
 
+23\. Within the information group "**Distribution**" a duct distribution can be selected from the drop down.
+
+![](/img/6.Elements/create-duct01.png)
+
+* New duct distributions can be created by an Admin in **Administration &gt Duct distribution**.
+
+* Following the diagram, the distribution can be reorganized with a simple drag and drop mechanism.
+
+![](/img/6.Elements/create-duct02.png)
 
 24\. Within the information group "**Cut at element**" the action **Look for Anchor Elements** can be performed. Please refer to the following documentation of this manual :
 
