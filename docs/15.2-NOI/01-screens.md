@@ -14,7 +14,7 @@ This section will help you understand the different screens (forms) in the **NOI
 
 ## NOI Menu Entry and Fields  
 
-To get to the NOI menu go to **Operations** &gt **Admin Noi**.
+To get to the NOI menu go to **Operations** &gt **Admin NOI**.
 
 ![](/img/Noi/noi-screens01.png)
 

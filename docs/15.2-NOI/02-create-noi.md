@@ -19,7 +19,7 @@ This guide will help you create a **NOI**.
 ------------
 ## **Step by Step**
 
-To get to the NOI menu go to **Operations** &gt **Admin Noi**.
+To get to the NOI menu go to **Operations** &gt **Admin NOI**.
 
 ![](/img/Noi/noi-screens01.png)
 
@@ -68,7 +68,7 @@ To add elements to the NOI there are two possible methods.
 
 ![](/img/Noi/noi-create09.png)
 
-* As soon as a route is selected it will be added to the **Noi Elements** list.
+* As soon as a route is selected it will be added to the **NOI Elements** list.
 
 ![](/img/Noi/noi-create10.png)
 
