@@ -15,6 +15,6 @@ In APX, the end users(customers) of a network can be represented in different le
 
 Starting from Splitter Boxes Ports, the Customer Identification Methods in APX are the following:
 - Free Text Entry
-- <u>**[Client Selection](02-clients.md)**</u> from Predefined List
+- [Client Selection](02-clients.md) from Predefined List
 - Association via <u>[UPRN](03-uprns.md)</u> (Unique Property Reference Number)
-- <u>[ONT](04-ONTS.md)</u>-based Customer Association (Subscriber-linked ONTs)
+- [ONT](04-ONTS.md)-based Customer Association (Subscriber-linked ONTs)
