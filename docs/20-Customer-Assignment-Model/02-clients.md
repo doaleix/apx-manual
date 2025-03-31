@@ -12,6 +12,8 @@ This guide will help you understand how to Assing Customers using the **Clients*
 
 ------------
 
+## Client Selection
+
 End customers can be assigned in a Splitterbox port as Clients.
 
 Go to a Splitter box and select the "**Client**" tab.
@@ -50,7 +52,7 @@ The screen will show the list of existing clients, simply click on one of the cl
 
 ![](/img/Customer-Assignment-Model/CAM-client06.png)
 
-The four fields of the form are free text, the "**Name**" and the "**Email**" fields are mandatory, but only the "**Email**" mut be unique.
+The four fields of the form are free text, only the "**Name**" is mandatory and must be unique.
 When filled up the "**Apply**" button will illuminate allowing to save the new client.
 
 ![](/img/Customer-Assignment-Model/CAM-client07.png)
