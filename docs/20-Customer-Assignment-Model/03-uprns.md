@@ -12,7 +12,7 @@ This guide will help you understand how to Assing Customers by **UPRN**.
 
 ------------
 
-End customers can be assigned in a Splitterbox port as by solely referencing the UPRN.
+End customers can be assigned in a Splitterbox port by solely referencing the UPRN.
 
 It is very similar to the process described in the previous <u>[section](02-clients.md#client-selection)</u>
 
@@ -30,7 +30,7 @@ It is also possible to select a UPRN fromm the map by selecting the third radio 
 
 ![](/img/Customer-Assignment-Model/CAM-uprn04.png)
 
-The screen will instantly switch to map selection view to select a UPRN.
+The screen will instantly switch to map selection mode to select a UPRN.
 
 ![](/img/Customer-Assignment-Model/CAM-uprn05.png)
 
