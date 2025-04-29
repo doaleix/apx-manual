@@ -8,21 +8,70 @@ This guide will help you understand the **Customer Assignment Model** of APX GIS
 ------------
 
 **Version**: 5.3
-**Date**: March 2025
+**Date**: April 2025
 
 ------------
-In APX, the end users(customers) of a network can be represented in different levels of complexity depending on the needs of each company.
 
-Starting from Splitter Boxes Ports, the Customer Identification Methods in APX are the following:
-- Free Text Entry
-- With <u>[Client Selection](02-clients.md)</u> from Predefined List
-- Association via <u>[UPRN](03-uprns.md)</u> (Unique Property Reference Number)
-- By <u>[ONT](04-ONTS.md)</u>-based Customer Association (Subscriber-linked ONTs)
+This section is aimed at improving the management of splitterbox clients, giving users greater visibility and control over client connections through a designed edit screen and a set of configuration parameters. In parallel, we will describe how ONTs interact with serviceable nodes, resulting in a more robust and accurate inventory and service relationship management. Finally, the screens — **ONT Import** and **ONT SED** — will be described for user interaction with ONT elements and simple bulk and individual operations.
 
-This information can be found in either the Splitterbox screen, in the "**Clients**" tab:
+## Key Concepts
 
-![](/img/Customer-Assignment-Model/CAM-client01.png)
 
-Or in the UPRN screen in the "**ONTs**" tab:
+- **Each ONT is assigned to a unique splitterbox client port**  
+  Enforces a strict one-to-one relationship.  
 
-![](/img/Customer-Assignment-Model/CAM-uprn01.png)
+- **Support for UPRNs distributed across multiple nodes**  
+  A single UPRN can have ONTs serviced by different nodes.
+
+- **Node-level UPRN placeholders**  
+  Nodes can register a UPRN as a client without a serviced ONT.
+
+- **ONT relocation to other UPRNs via API & import**  
+  Supports ONT moves during import/API operations.
+
+- **Automation of client interactions**  
+  Interactions among `clients`, `ports`, and interconnections are automated via trigger logic.
+
+- **ONT activity tracking**  
+  All user and system changes related to ONTs are logged with full context.
+
+
+---
+
+## API
+
+### Get ONTs (Modified)
+- Fixes project ID filter bug.
+- New fields:
+  - `active_service`
+  - `starting_service_date`
+  - `ending_service_date`
+  - `subscriber_code`
+  - `integration_name`
+
+### Add ONT (Modified)
+- Endpoint changed: `POST /api/ont/`
+- New validations: subscriber, UPRN, Node
+- New fields:
+  - `id_cadastral`
+  - `active_service`
+  - `starting_service_date`
+  - `ending_service_date`
+  - `subscriber_code`
+  - `node_code`
+  - `port_index`
+  - `new_port`
+
+### Update ONT (Modified)
+- Validations: subscriber, UPRN, ONT
+- Can modify ONT serial and UPRN
+- Fields same as **Add ONT**
+
+### Delete ONT (Modified)
+- New query parameters:
+  - `redirect_uprn` (default: false)
+  - `delete_interconnections` (default: false)
+
+---
+
+
