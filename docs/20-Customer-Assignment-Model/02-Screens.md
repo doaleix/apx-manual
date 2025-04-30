@@ -27,7 +27,7 @@ This guide will describe the screens involved in **Customer Assignment Model**.
   - `STARTING_SERVICE_DATE`
   - `ENDING_SERVICE_DATE`
 
-![](/img/Customer-Assignment-Model/CAM-screens01.png)
+![](/img/Customer-Assignment-Model/CAM-screens01.PNG)
 
 ### ONT SED
 - The menu point can be found under the “Network summary” section of the menu with the text “ONT List”. Displays the list of all ONTs with meaningful information and allows the filtering and export of the results.
@@ -50,7 +50,7 @@ This guide will describe the screens involved in **Customer Assignment Model**.
 - Export:
   - CSV with the list of results displayed on the screen, with the same information fields
 
-![](/img/Customer-Assignment-Model/CAM-screens02.png)
+![](/img/Customer-Assignment-Model/CAM-screens02.PNG)
 ---
 
 ## ONT Form
@@ -59,17 +59,17 @@ This guide will describe the screens involved in **Customer Assignment Model**.
 - Add ONT: Users pick node/port manually
 - Delete ONT: Modal for reassigning or freeing client
 
-![](/img/Customer-Assignment-Model/CAM-screens03.png)
+![](/img/Customer-Assignment-Model/CAM-screens03.PNG)
 ---
 
 ## Splitterbox Clients 
 - **New ONT**: When adding a new ONT, if nodes are already pointing to the UPRN, after user confirmation, the frontend displays a list of available nodes and ports for the user to choose from and associate with the ONT. Additionally, there is the option to create a new port in the selected node if there are no available ports.
 
-![](/img/Customer-Assignment-Model/CAM-screens04.png)
+![](/img/Customer-Assignment-Model/CAM-screens04.PNG)
 
 - **Delete ONT**: Deleting an ONT associated with a node displays a new modal to select the behaviour of the associated client. The user can decide to delete the interconnections and reassign the client to the parent UPRN (otherwise, the client is freed).
 
-![](/img/Customer-Assignment-Model/CAM-screens05.png)
+![](/img/Customer-Assignment-Model/CAM-screens05.PNG)
 
 The splitterbox clients tab inside the splitterbox form allows a more accurate search and edition to make sure that all the clients end up in the desired port.
 
@@ -78,9 +78,9 @@ To achieve this, the tab displays the list of clients in a read-only format, and
 The frontend keeps a copy of the original state of the clients to be displayed in the previsualization section of the modification screen and stores the list of clients with all the applied changes. 
 
 
-![](/img/Customer-Assignment-Model/CAM-screens06.png)
+![](/img/Customer-Assignment-Model/CAM-screens06.PNG)
 
-![](/img/Customer-Assignment-Model/CAM-screens07.png)
+![](/img/Customer-Assignment-Model/CAM-screens07.PNG)
 
 ---
 
@@ -89,7 +89,7 @@ The frontend keeps a copy of the original state of the clients to be displayed i
 - Range-based fetch and multiselector
 - Fetch ONTs by location
 
-![](/img/Customer-Assignment-Model/CAM-screens08.png)
+![](/img/Customer-Assignment-Model/CAM-screens08.PNG)
 ---
 
 ## Filter Search
@@ -101,7 +101,7 @@ The frontend keeps a copy of the original state of the clients to be displayed i
   - **Range**: Distance in meters
   - **Type**: Dropdown: "Client", "UPRN", "ONT"
 
-![](/img/Customer-Assignment-Model/CAM-screens09.png)
+![](/img/Customer-Assignment-Model/CAM-screens09.PNG)
 
 ### Results
 
@@ -120,7 +120,7 @@ The results section displays a paginated table with the results ordered by dista
 - Behavior controlled by `networkclient_client.delete_interconnections`
 - Confirmation if ONT already connected
 
-![](/img/Customer-Assignment-Model/CAM-screens10.png)
+![](/img/Customer-Assignment-Model/CAM-screens10.PNG)
 ---
 
 ## Previsualization
@@ -131,7 +131,7 @@ The results section displays a paginated table with the results ordered by dista
   - **Edit free client text**
   - **Clear port**
 
-![](/img/Customer-Assignment-Model/CAM-screens11.png)
+![](/img/Customer-Assignment-Model/CAM-screens11.PNG)
 
 ---
 
