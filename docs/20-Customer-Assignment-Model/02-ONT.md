@@ -1,13 +1,14 @@
 ---
 sidebar_position: 2
 ---
-## Screens
+## By ONT
 
-This guide will describe the screens involved in **Customer Assignment Model**.
+This guide will describe the screens involved in **Customer Assignment Model** by ONT.
+
 ------------
 
 **Version**: 5.3
-**Date**: April 2025
+**Date**: May 2025
 
 ------------
 
@@ -175,3 +176,9 @@ When `PORT` is specified:
 - **ONT**:
   - Already assigned → `FORCE_CHANGES=true` to move
   - Port in use → `FORCE_CHANGES=true`, unless it matches parent UPRN
+
+## Alarms
+
+A new is displayed on alarmed ONTs with the detailed alarm information retrieved from the third-party integration origin flattened JSON data.
+
+![](/img/Customer-Assignment-Model/CAM-screens12.PNG)

@@ -1,9 +1,9 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
-# By ONTs
+# By Subscribers
 
-This guide will help you understand how to Assing Customers by **ONT**.
+This guide will describe the screens involved in **Customer Assignment Model** by Subscribers.
 
 ------------
 
