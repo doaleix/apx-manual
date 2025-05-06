@@ -181,4 +181,4 @@ When `PORT` is specified:
 
 A new is displayed on alarmed ONTs with the detailed alarm information retrieved from the third-party integration origin flattened JSON data.
 
-![](/img/Customer-Assignment-Model/CAM-screens12.PNG)
+![](/img/Customer-Assignment-Model/CAM-screens12.png)

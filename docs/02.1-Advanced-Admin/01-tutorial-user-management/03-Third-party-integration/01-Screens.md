@@ -15,13 +15,13 @@ This guide will help you understand the different **Screens** for thid party int
 
 This menu point can be found under the Administration” section of the menu with the text “Third party config”. The screen displays the list of all available third-party integrations in a table with the columns “Name” and “API URL”.
 
-![](/img/Customer-Assignment-Model/thirdPI-screens01.png)
+![](/img/Third-party-integrations/thirdPI-screens01.png)
 
 ### Limitations
 
 The system is designed to have at most one of each of the available integrations, preventing multiple fetches from the same data and possible data overrides. If the user reaches the limit the add button will be hidden and a new alert will be displayed.
 
-![](/img/Customer-Assignment-Model/thirdPI-screens02.png)
+![](/img/Third-party-integrations/thirdPI-screens02.png)
 
 ### Actions
 
@@ -58,10 +58,10 @@ Displays the list of the third-party integration functionalities displaying mean
 * Manual Sync (Edit): The user schedules the next execution interval of the functionality to the current time. This option will be blocked until the next execution is started.
 
 **NEW**
-![](/img/Customer-Assignment-Model/thirdPI-screens03.png)
+![](/img/Third-party-integrations/thirdPI-screens03.png)
 
 **EDIT**
-![](/img/Customer-Assignment-Model/thirdPI-screens04.png)
+![](/img/Third-party-integrations/thirdPI-screens04.png)
 
 ## Third-party Integration functionality form
 
@@ -87,22 +87,22 @@ Displays the extended information of the third-party integration functionality.
 * Cancel: Closes the actual form and returns to [the third-party integration form](#third-party-integration-form).
 
 **NEW**
-![](/img/Customer-Assignment-Model/thirdPI-screens05.png)
+![](/img/Third-party-integrations/thirdPI-screens05.png)
 
 **EDIT**
-![](/img/Customer-Assignment-Model/thirdPI-screens06.png)
+![](/img/Third-party-integrations/thirdPI-screens06.png)
 
 ## Third-party Integration dashboard
 
 This menu point can be found under the **Administration** section of the menu with the text “Third party dashboard”. Displays the dashboard of all the available integrations. There is an accordion “integrations” that displays a table with a quick overview of the integrations created in the apx system. Each table row is clickable and redirects to the [the third-party integration form](#third-party-integration-form). Moreover, there is another accordion “integration details”, which presents an accordion tab for each integration with detailed information on the functionalities, logs, ONTs, subscribers and alarms.
 
-![](/img/Customer-Assignment-Model/thirdPI-screens07.png)
+![](/img/Third-party-integrations/thirdPI-screens07.png)
 
 ### Functionalities
 
 Functionalities information of the third-party integration.
 
-![](/img/Customer-Assignment-Model/thirdPI-screens08.png)
+![](/img/Third-party-integrations/thirdPI-screens08.png)
 
 ### Fields
 
@@ -122,7 +122,7 @@ Functionalities information of the third-party integration.
 
 Paginated table of logs of the third-party integration.
 
-![](/img/Customer-Assignment-Model/thirdPI-screens09.png)
+![](/img/Third-party-integrations/thirdPI-screens09.png)
 
 ### Fields
 
@@ -152,13 +152,13 @@ Paginated table of logs of the third-party integration.
 
 Displays extended information on the functionality execution
 
-![](/img/Customer-Assignment-Model/thirdPI-screens10.png)
+![](/img/Third-party-integrations/thirdPI-screens10.png)
 
 ## ONTs
 
 Paginated table of ONTs related to the third-party integration.
 
-![](/img/Customer-Assignment-Model/thirdPI-screens11.png)
+![](/img/Third-party-integrations/thirdPI-screens11.png)
 
 ### Fields
 
@@ -188,7 +188,7 @@ Paginated table of ONTs related to the third-party integration.
 
 Paginated table of subscribers related to the third-party integration.
 
-![](/img/Customer-Assignment-Model/thirdPI-screens12.png)
+![](/img/Third-party-integrations/thirdPI-screens12.png)
 
 ## Fields
 
@@ -218,7 +218,7 @@ Paginated table of subscribers related to the third-party integration.
 
 Paginated table of alarms related to the third-party integration.
 
-![](/img/Customer-Assignment-Model/thirdPI-screens13.png)
+![](/img/Third-party-integrations/thirdPI-screens13.png)
 
 ### Fields
 
