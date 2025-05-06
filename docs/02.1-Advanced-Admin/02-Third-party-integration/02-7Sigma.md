@@ -27,10 +27,10 @@ The following fields have been used to successfully retrieve the data. The numbe
 * Endpoint: /report/subscribers
 * Headers: 
 
-`{`
-  `"accept": "application/json",`
-  `"X-API-Key": "{{api_token}}"`
-`}`
+`{
+  "accept": "application/json",
+  "X-API-Key": "{{api_token}}"
+}`
 
 * Params:
 
