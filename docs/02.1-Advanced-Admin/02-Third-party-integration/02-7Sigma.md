@@ -36,10 +36,12 @@ The following fields have been used to successfully retrieve the data. The numbe
 
 * Params:
 
-`{`
-  `"cursor": 0,`
-  `"result-size": 1000`
-`}`
+```
+{
+  "cursor": 0,
+  "result-size": 1000
+}
+```
 
 ## ONT's functionality
 
@@ -51,18 +53,21 @@ The number of estimated ONTs fetched from the 7Sigma endpoint is around 30000 re
 
 * Headers: 
 
-`{`
-`  "accept": "application/json",`
-`  "X-API-Key": "{{api_token}}"`
-`}`
+```
+{
+  "accept": "application/json",
+  "X-API-Key": "{{api_token}}"
+}
+```
 
 * Params:
 
-`{`
-`  "limit": 1000,`
-`  "offset": 0`
-`}`
-
+```
+{
+  "limit": 1000,
+  "offset": 0
+}
+```
 
 ## Alarm's functionality
 
@@ -72,17 +77,21 @@ The following fields have been used to successfully fetch the data.
 
 * Headers: 
 
-`{`
-`  "accept": "application/json",`
-`  "X-API-Key": "{{api_token}}"`
-`}`
+```
+{
+  "accept": "application/json",
+  "X-API-Key": "{{api_token}}"
+}
+```
 
 * Params:
 
-`{`
-`  "limit": 1000,`
-`  "offset": 0,`
-`  "alarm_state": "severe"`
-`}`
+```
+{
+  "limit": 1000,
+  "offset": 0,
+  "alarm_state": "severe"
+}
+```
 
 
