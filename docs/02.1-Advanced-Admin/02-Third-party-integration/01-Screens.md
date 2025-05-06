@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Definition
+# Basic Setup
 
 This guide will help you understand the different **Screens** for thid party integrations in APX.
 
