@@ -20,9 +20,11 @@ This guide will help you update a **User** in the programme.
 
 1. To update a user follow the path: 
 **Administration** &gt **User management** 
+
 ![](/img/2.Users/UsersUpdate1.png)
 
 2. “**Users management**” window (form) will be opened If your user ID has the proper privileges to do a user’s update. Click the user to be updated. In this example user “**Flavia Idun**” was selected. 
+
 ![](/img/2.Users/UsersUpdate2.png)
 
 3. **“User”** window ( form ) will open in order to allow changing any of the fields:
@@ -46,6 +48,6 @@ e. **Login**. When a user is created, a Login is assigned to that user.
 
 f. **Projects**
     
-    [Toggle] = Desselect all
-    [Select  All]
+  [Toggle] = Desselect all
+  [Select  All]
     
