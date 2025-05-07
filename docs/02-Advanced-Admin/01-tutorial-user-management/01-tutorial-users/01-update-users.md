@@ -48,6 +48,7 @@ e. **Login**. When a user is created, a Login is assigned to that user.
 
 f. **Projects**
     
-  [Toggle] = Desselect all
-  [Select  All]
+    * [Toggle] = Desselect all
+
+    * [Select All]
     
