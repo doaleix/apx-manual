@@ -140,7 +140,7 @@ Please refer to the documentation (**Element types &gt; Codifiers**)
 
 16\. Next option is "**Connected ducts**".
 
-If there are connected ducts assigned to the Central Node, they will be shown at this point. For this example no ducts are connected.
+If there are connected ducts assigned to the Chamber, they will be shown at this point. For this example no ducts are connected.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/406b1a2f-5d61-4390-a879-6b3c5986cff2/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=860,885&force_format=png&width=1088)
 
@@ -158,12 +158,12 @@ If there are connected ducts assigned to the Central Node, they will be shown at
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/16b1eb7e-6319-4a11-a84b-eeb8bdd0e7d6/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=860,886&force_format=png&width=1088)
 
 
-19\. Click "**Sections / Prisms**" to upload additional files.
+19\. Click "**Sections / Prisms**" to upload pictures from different angles of the chamber.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/bbd62cab-590a-425a-b23d-b79cef0bec3e/ascreenshot.jpeg?tl_px=0,67&br_px=1238,760&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=84,277)
 
 
-20\. To add aditional info, click "**+Choose**" button for C(Current), N(North), S(South ), E(East), W(West).
+20\. Click "**+Choose**" button for C(Center), N(North), S(South ), E(East), W(West).
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/bbb3129b-62dd-4a72-956b-cdcc799b0ef7/screenshot.jpeg?tl_px=0,0&br_px=860,887&force_format=png&width=1086)
 
@@ -173,18 +173,12 @@ If there are connected ducts assigned to the Central Node, they will be shown at
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/03a03fee-232e-4a9a-a1f3-c38df6bbcb5d/ascreenshot.jpeg?tl_px=0,0&br_px=1719,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=69,313)
 
 
-22\. If you need to add Joints or Spliterr boxes, you should:
+22\. If you need to add Joints or Splitter boxes, you should:
 
 1. Click "**Joints/Splitter Boxes**" dropdown and then
-2. Click "**+Add Joint**" or "**Add Splitter Box**" button and a window,  corresponding to the element you wish to add, will be displayed and you mus introduce the basic info of the element (Id, description and Layer)).
+2. Click "**+Add Joint**" or "**Add Splitter Box**" button and a window,  corresponding to the element you wish to add, will be displayed and you must introduce the basic info of the element (Id, description and Layer).
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/dfa10bb7-10d9-42e9-8991-2619595b6f21/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1528,790&force_format=png&width=1120.0)
-
-
-**Tip:** To illustrate the addition of the joint in the chamber, the display window of the joint element is as follows
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/433d2563-9032-4eb9-8355-24d102695e2f/screenshot.jpeg?tl_px=0,0&br_px=570,889&force_format=png&width=718)
-
 
 23\. If you need to add "**Network clients**", you should:
 
