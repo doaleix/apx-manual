@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 ---
-# By Subscribers
+# Subscribers
 
 This guide will describe the screens involved in **Customer Assignment Model** by Subscribers.
 
