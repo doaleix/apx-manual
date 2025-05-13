@@ -25,9 +25,16 @@ This guide will help you create a **Role** in APX GIS programme.
 <table>
   <tr>
     <td class="secondary-td">
-        <p>2. The “<b>Roles</b>” window ( form ) will open showing a list of the default roles and/or any roles previously created.</p>
-        <p>In this example "admin", "operators", "planner" and "training user" are roles already created.</p>      
-        <p>3. To add a new Role click “<b>+Add</b>>” button.</p>
+        <ul>
+         <li>
+            <p>2. The “<b>Roles</b>” window ( form ) will open showing a list of the default roles and/or any roles previously created.</p>
+         </li>
+         <li>
+            <p>In this example "admin", "operators", "planner" and "training user" are roles already created.</p>      
+         </li>
+         <li>
+            <p>3. To add a new Role click “<b>+Add</b>>” button.</p>
+         </li>
     </td>
     <td class="main-td">
       <img src="/img/1.Roles/roles-create02.png" alt="Roles window" width="400"/>
@@ -69,11 +76,11 @@ This guide will help you create a **Role** in APX GIS programme.
 <table>
   <tr>
       <td class="secondary-td">
-         <ol start="9">
+         <ul>
             <li>
-               The resources section lists the privileges for which access is enabled (<strong>true</strong>) or disabled (<strong>false</strong>).
+               9. The resources section lists the privileges for which access is enabled (<strong>true</strong>) or disabled (<strong>false</strong>).
             </li>
-         </ol>
+         </ul>
          <p>These privileges are stored in the new role.</p>
          <p>For this example, when resource "activity" was clicked, 3 options were listed:</p>
          <ul>
@@ -96,7 +103,7 @@ This guide will help you create a **Role** in APX GIS programme.
 <table>
   <tr>
       <td class="secondary-td">
-         <ol start="10">
+         <ul>
             <li>
                Each <strong>resource  group</strong> will have 1 or more resources and for each resource 3 options are considered:
                <ul>
@@ -114,7 +121,7 @@ This guide will help you create a **Role** in APX GIS programme.
             <li>
                Once all the resources are set, click “<strong>Apply</strong>” button.
             </li>
-         </ol>
+         </ul>
       </td>
     <td class="main-td">
       <img src="/img/1.Roles/roles-create05.png" alt="Roles window" width="400"/>
