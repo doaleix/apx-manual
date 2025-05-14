@@ -27,4 +27,4 @@ This guide will help you update a **Role** in APX GIS programme.
 
 2. Modify the fields described in the <u>[previuos section](01-create-role.md#step-by-step)</u> as required.
 
-**Note**: The action button described in step **7** <i>"Set all layers to this role"</i> will now be enabled.
+**Note**: The action button described in **step 7** <i>"Set all layers to this role"</i> will now be enabled.

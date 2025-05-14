@@ -64,7 +64,7 @@ This guide will help you create a **Role** in APX GIS programme.
                8.1. If you need to set this new role in B2B routes, select the box. This behavior will take place when <strong>“Apply”</strong> button is clicked (does not work retroactively).
             </li>
             <li>
-               8.2. If a single sing on is integrated this check box will appear to define a role as default when the application needs to create a new user with external credentials.
+               8.2. If a single sing on is integrated, this check box will appear to define a role as default when the application needs to create a new user with external credentials.
             </li>
          </ul>
     </td>

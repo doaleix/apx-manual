@@ -15,8 +15,8 @@ This guide will help you create a **Project** in the programme.
 
 ------------
 
-**Version**: 00
-**Date**: April 2024
+**Version**: 5.3
+**Date**: May 2025
 
 ------------
 ## **Step by Step**
@@ -107,11 +107,15 @@ The different statuses are defined by the client and can be edited via the menu 
 
 ![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01-STP-18.png)
 
-19\. Click "**Apply**" button.
+19\. If the installation is integrated with the OpenID Single Sign On a checkbox will appear to indicate if the project has to be included by default to users created via OpenID
+
+![](/img/MNG-PRO-CRE-01/oidc_project.png)
+
+20\. Click "**Apply**" button.
 
 ![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01-STP-19.png)
 
-20\. Click "**Close**" button.
+21\. Click "**Close**" button.
 
 ![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01-STP-20.png)
 
