@@ -82,6 +82,8 @@ In this example **APX DEMO** is the name of the company.
 
 In this window, you can change the full name, email address or password. Once you have made the desired changes, press the "**Apply**" button.
 
+**Note**: It is possible that these fields are greyed out and ReadOnly if an admin has disabled the privileges of that user to modify the credentials or the user has been created automatically via OpenID Connect.
+
  **Whenever you make changes in APX-GIS you must refresh the browser.**
 
 ![](/img/GEN-MEN-01/GEN-MEN-01-STP-11.png)
