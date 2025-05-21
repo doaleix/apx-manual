@@ -72,6 +72,6 @@ f. **Projects**
 
 * [Select All]
     
-**Note**: If the user has been created automatically via OpenID Connect the credentials will be ReadOnly and can't be modified in APX. See <u>[Sing-in-chapter](../../../01-tutorial-fundamentals/sign-in.md#sign-in-with-sso)</u> for more information about OIDC.
+**Note**: If the user has been created automatically via OpenID Connect the credentials will be ReadOnly and can't be modified in APX. See <u>[Sing in chapter](../../../01-tutorial-fundamentals/sign-in.md#introduction)</u> for more information about OIDC.
 
 ![](/img/2.Users/UsersUpdate5.png)
