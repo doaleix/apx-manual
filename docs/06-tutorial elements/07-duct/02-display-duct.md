@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# **Step by Step**
+# Display Duct
 
 This guide will help you display a **duct** in the programme.
 
@@ -19,7 +19,7 @@ This guide will help you display a **duct** in the programme.
 
 ------------
 
-## Display Duct
+## Step by step
 
 1\. Navigate to your APX and log in.
 

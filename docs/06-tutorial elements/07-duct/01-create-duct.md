@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# **Step by Step**
+# Introduction
 
 This guide will help you create and update a **duct** in the programme.
 
@@ -18,7 +18,10 @@ This guide will help you create and update a **duct** in the programme.
 **Date**: May 2025
 
 ------------
+
 ## Add Duct
+
+### Step by step
 
 1\. Navigate to your APX and log in.
 
@@ -105,6 +108,8 @@ For this example the "**id**" field was automatically filled and for the descrip
 If the layer was not selected, go to the top right of the screen and select the layer to wich the element was assigned. 
 
 ## Update Duct
+
+### Step by step
 
 1\. Click the element that has been created **(Duct)**.
 
