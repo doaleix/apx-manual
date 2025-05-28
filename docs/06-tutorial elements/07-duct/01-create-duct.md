@@ -206,7 +206,7 @@ For this example a subduct and microduct were created previously.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/4d7ab184-8dd2-420b-bfa6-4c5364d35bb1/user_cropped_screenshot.jpeg?tl_px=0,204&br_px=843,684&force_format=png&width=860)
 
-### **Distribution**"
+### **Distribution**
 
 A duct distribution can be selected from the drop down.
 
@@ -218,7 +218,7 @@ A duct distribution can be selected from the drop down.
 
 ![](/img/6.Elements/create-duct02.png)
 
-* Subducts can be unassigned by drag and drop it in the <i>**Subducts unassigned**</i> section and viceversa.
+* A Subduct can be unassigned by drag and droping it to the <i>**Subducts unassigned**</i> section and viceversa.
 
 ![](/img/6.Elements/create-duct03.png)
 

@@ -14,7 +14,7 @@ This guide will help you understand how to manage the different **Duct distribut
 
 APX allows to store information on how the subducts are arranged inside a duct. Different arrangements can be stored and managed by an admin and chosen from a dropdown in each duct.
 
-# Step by step
+## Step by step
 
 First, to see all created distributions go to **Administration** &gt **Duct distribution**
 
@@ -49,11 +49,11 @@ The form will have the following fields:
 
 ![](/img/duct-distribution/duct-distribution-04.png)
 
-## Rearanging Slots
+## Rearranging Slots
 
-When any number of rows, columns or slots is modified, the distribution will be rearanged in numerical ascending order.
+When any number of rows, columns or slots is modified, the distribution will be rearranged in numerical ascending order.
 
-**Tip**: Make sure you have the right numbers in the matrix before starting to rearange the slots or you will lose any progress done when you modify the matrix.
+**Tip**: Make sure you have the right numbers in the matrix before starting to rearrange the slots or you will lose any progress done when you modify the matrix.
 
 To assign a slot to an empty space simply click on the slot you want to move and it will turn green.
 
