@@ -119,6 +119,16 @@ If a route cannot be calculated based on the specified criteria and elements:
 
 * The user is returned to the initial form view.
 
-* A message appears with a light red background informing the user that a route could not be calculated with the specified parameters.
+* A yellow background message appears, informing the user that no route could be calculated with the given parameters.
 
 ![](/img/Route-calc/routes-calc-12.png)
+
+## Route Error
+
+If there is any other error that precludes APX from calculating the route:
+
+* The user is returned to the initial form view.
+
+* A message appears with a light red background informing the user that a route could not be calculated with the specified parameters.
+
+![](/img/Route-calc/routes-calc-13.png)
