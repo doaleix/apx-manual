@@ -52,8 +52,6 @@ The following fields have been used to successfully retrieve the data.
 
 The following fields have been used to successfully fetch the data.
 
-The number of estimated ONTs fetched from the 7Sigma endpoint is around 30000 registers.
-
 * Endpoint: /report/sweep/ont
 
 * Headers: 
