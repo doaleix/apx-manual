@@ -52,7 +52,7 @@ The following fields have been used to successfully retrieve the data.
 
 The following fields have been used to successfully fetch the data.
 
-* Endpoint: /report/sweep/ont
+* Endpoint: /customer_with_ppg
 
 * Headers: 
 
