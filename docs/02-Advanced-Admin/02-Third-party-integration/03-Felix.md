@@ -25,15 +25,17 @@ The Felix integration configuration has been tested using the following specific
 
 ## Subscriber's functionality
 
-The following fields have been used to successfully retrieve the data. The number of estimated subscribers fetched from the 7Sigma endpoint is around 27000 registers.
+The following fields have been used to successfully retrieve the data. 
+**Note**: We are using the same data since the subscriber and ONT data are provided from the same endpoint. 
 
-* Endpoint: /report/subscribers
+* Endpoint: /customer_with_ppg
+
 * Headers: 
 
 ```
 {
   "accept": "application/json",
-  "X-API-Key": "{{api_token}}"
+  "Authorization": "Basic {{api_token}}"
 }
 ```
 
@@ -63,39 +65,17 @@ The number of estimated ONTs fetched from the 7Sigma endpoint is around 30000 re
 }
 ```
 
-* Params:
-
-```
-{
-  "limit": 1000,
-  "offset": 0
-}
-```
-
-
 ## Alarm's functionality
 
 The following fields have been used to successfully fetch the data.
 
-* Endpoint: /report/sweep/ont
+* Endpoint: /customer_technical_info_report
 
 * Headers: 
 
 ```
 {
   "accept": "application/json",
-  "X-API-Key": "{{api_token}}"
+  "Authorization": "Basic {{api_token}}"
 }
 ```
-
-* Params:
-
-```
-{
-  "limit": 1000,
-  "offset": 0,
-  "alarm_state": "severe"
-}
-```
-
-
