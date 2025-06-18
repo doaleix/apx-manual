@@ -11,7 +11,7 @@ This guide will help you understand the different **Screens** for thid party int
 **Date**: May 2025
 
 ------------
-## **Third-party Integration list**
+## Third-party Integration list
 
 This menu point can be found under the Administration” section of the menu with the text “Third party config”. The screen displays the list of all available third-party integrations in a table with the columns “Name” and “API URL”.
 
@@ -25,15 +25,15 @@ The system is designed to have at most one of each of the available integrations
 
 ### Actions
 
-* Click Row: The user navigates to the third-party [integration form](#third-party-integration-form) to edit an existing subscriber.
-* Add: The user navigates to the third-party [integration form](#third-party-integration-form) to create a new integration.
+* Click Row: The user navigates to the third-party [integration form](#edit) to edit an existing subscriber.
+* Add: The user navigates to the third-party [integration form](#new) to create a new integration.
 * Close: Closes the actual form.
 
 ## Third-party Integration form
 
 Displays the extended information of the third-party integration.
 
-### Fields
+**Fields**
 
 * Name (required): Integration name
 * Type (required): Integration type
@@ -48,7 +48,7 @@ Displays the extended information of the third-party integration.
 
 Displays the list of the third-party integration functionalities displaying meaningful information and allowing some actions on them. This component is only available in edition mode.
 
-### Actions
+**Actions**
 
 * Apply: Create or edit an integration 
 * Delete config (Edit): Deletes the integration. All the elements created by the integration will be unassigned and maintained in the APX system.
@@ -57,17 +57,19 @@ Displays the list of the third-party integration functionalities displaying mean
 * Click functionality row (Edit): The user navigates to the third-party integration functionality form to edit an existing functionality
 * Manual Sync (Edit): The user schedules the next execution interval of the functionality to the current time. This option will be blocked until the next execution is started.
 
-**NEW**
+#### NEW
+
 ![](/img/Third-party-integrations/thirdPI-screens03.png)
 
-**EDIT**
+#### EDIT
+
 ![](/img/Third-party-integrations/thirdPI-screens04.png)
 
 ## Third-party Integration functionality form
 
 Displays the extended information of the third-party integration functionality.
 
-### Fields
+**Fields**
 
 * Name (required): Functionality name
 * Type (required): Functionality type
@@ -80,16 +82,18 @@ Displays the extended information of the third-party integration functionality.
 * Sync elements: True to synchronise relationships in origin (calculate subscribers when fetching ONTs and ONTs when fetching subscribers), false to fetch only the elements without the synchronised relationships, in this case, APX relationships of existing elements will be preserved.
 * Overwrite info: True if the user wants to update the APX existing data with the origin data. False if the user wants to ignore updates from the origin source.
 
-### Actions
+**Actions**
 
 * Apply: Create or edit a functionality 
 * Delete functionality (Edit): Deletes the functionality.
 * Cancel: Closes the actual form and returns to [the third-party integration form](#third-party-integration-form).
 
 **NEW**
+
 ![](/img/Third-party-integrations/thirdPI-screens05.png)
 
 **EDIT**
+
 ![](/img/Third-party-integrations/thirdPI-screens06.png)
 
 ## Third-party Integration dashboard
@@ -104,7 +108,7 @@ Functionalities information of the third-party integration.
 
 ![](/img/Third-party-integrations/thirdPI-screens08.png)
 
-### Fields
+**Fields**
 
 * Name: Third-party functionality name
 * Type: Third-party functionality type
@@ -114,17 +118,17 @@ Functionalities information of the third-party integration.
 * Next exec: UTC timestamp of the next execution
 * Action: Button to manually trigger the next execution to the current time
 
-### Actions
+**Actions**
 
 * Manual Sync: Set the value of the functionality's next execution to the current time
 
-### Logs
+## Logs
 
 Paginated table of logs of the third-party integration.
 
 ![](/img/Third-party-integrations/thirdPI-screens09.png)
 
-### Fields
+**Fields**
 
 * Functionality: Third-party functionality name
 * Status: Third-party functionality status (RUNNING/PARTIAL/ERROR/SUCCESS)
@@ -135,13 +139,13 @@ Paginated table of logs of the third-party integration.
 * Updated: Third-party functionality execution updated elements
 * Deleted: Third-party functionality execution deleted elements
 
-### Actions
+**Actions**
 
 * Apply filter: Refresh the paginated table with all the filters applied
 * Click row: User opens the log detail modal
 * Table navigation: The user can navigate to the previous/next page or the first/last page
 
-### Filters
+**Filters**
 
 * Functionality Name: Case-insensitive filter by functionality name containing the term.
 * Status: Filter by allowed status
@@ -154,13 +158,19 @@ Displays extended information on the functionality execution
 
 ![](/img/Third-party-integrations/thirdPI-screens10.png)
 
+### Download logs
+
+The third-party integration dashboard allows the user to download the list of all the logs for each functionality in CSV format. The action is triggered by clicking a new button at the bottom of the integration log information modal.
+
+![](/img/Third-party-integrations/thirdPI-screens15.png)
+
 ## ONTs
 
 Paginated table of ONTs related to the third-party integration.
 
 ![](/img/Third-party-integrations/thirdPI-screens11.png)
 
-### Fields
+**Fields**
 
 * ial: Unique serial identifier of the ONT device
 * Model: ONT model
@@ -169,13 +179,13 @@ Paginated table of ONTs related to the third-party integration.
 * Created on: Timestamp of ONT creation
 * Modified on: Timestamp of ONT last edition
 
-### Actions
+**Actions**
 
 * Apply filter: Refresh the paginated table with all the filters applied
 * Click row: The user navigates to the UPRN form where the ONT is placed
 * Table navigation: The user can navigate to the previous/next page or the first/last page
 
-### Filters
+**Filters**
 
 * Serial: Case-insensitive filter by serial containing the term.
 * Model: Case-insensitive filter by model containing the term.
@@ -184,13 +194,33 @@ Paginated table of ONTs related to the third-party integration.
 * Created on: Date filter by ONT creation date
 * Modified on: Date filter by ONT last edit date
 
+### Special layer
+
+It is possible to create new ont layers that display the affected UPRNs.
+To configure a special layer with the param name **TYPE** set to **ONT**. 
+
+UPRNs in this layer have three possible styles: 
+
+* A red triangle when the ont status is **ALL_ALARMED** (all the ONTs are alarmed)
+* An orange triangle when the ont status is **PARTIAL_ALARMED** (a subset of ONTs are alarmed)
+* A green triangle when the ont status is **HEALTHY** (no alarms). 
+
+The ont special layer admits up to 3 parameters:
+
+* **TYPE** (_required_): This parameter should be set to ONT
+* **INTEGRATION** (_optional_): Case-sensitive name of the integration that created the ONT. If not specified, the layer will display all the ONTs.
+* **STATUS** (_optional_): Filter to display only the UPRNs with a given ont status; if not specified, the layer will display all the UPRNs with ONTs. The accepted statuses are: HEALTHY, PARTIAL_ALARMED, ALL_ALARMED. The value of status should be a string of statuses separated by commas, for example: HEALTHY, PARTIAL_ALARMED
+
+![](/img/Third-party-integrations/thirdPI-screens14.png)
+
+
 ## Subscribers
 
 Paginated table of subscribers related to the third-party integration.
 
 ![](/img/Third-party-integrations/thirdPI-screens12.png)
 
-## Fields
+**Fields**
 
 * Name: Subscriber full name
 * Address: Subscriber address
@@ -199,13 +229,13 @@ Paginated table of subscribers related to the third-party integration.
 * Created on: Subscriber creation date
 * Modified on: Subscriber last edition date
 
-## Actions
+**Actions**
 
 * Apply filter: Refresh the paginated table with all the filters applied
 * Click row: The user navigates to the subscriber form
 * Table navigation: The user can navigate to the previous/next page or the first/last page
 
-## Filters
+**Filters**
 
 * Name: Case-insensitive filter by subscriber name containing the term.
 * Address: Case-insensitive filter by subscriber address containing the term.
@@ -220,20 +250,20 @@ Paginated table of alarms related to the third-party integration.
 
 ![](/img/Third-party-integrations/thirdPI-screens13.png)
 
-### Fields
+**Fields**
 
 * Serial: Serial of the alarmed ONT device
 * UPRN: UPRN code where the device is placed
 * Alarm code: Alarm code
 * Alarm stamp: Alarm stamp
 
-### Actions
+**Actions**
 
 * Apply filter: Refresh the paginated table with all the filters applied
 * Click row: The user navigates to the UPRN form where the device is placed
 * Table navigation: The user can navigate to the previous/next page or the first/last page
 
-### Filters
+**Filters**
 
 * Serial: Case-insensitive filter by serial containing the term.
 * UPRN: Case-insensitive filter by UPRN code containing the term.

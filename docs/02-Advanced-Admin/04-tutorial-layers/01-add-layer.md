@@ -13,8 +13,8 @@ This guide will help you **add a layer** in the programme.
 
 ------------
 
-**Version**: 00
-**Date**: March 2024
+**Version**: 5.3
+**Date**: June 2025
 
 ------------
 ## **Step by Step**
@@ -57,24 +57,21 @@ This guide will help you **add a layer** in the programme.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-12-26/c0a3a8c0-920b-4ab8-b976-7c25cfa660b9/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=506,179)
 
+### Layer types
+
+Different options will be shown in the dropdown:
+
+* **Normal**: accepts styles, responds well with less than 10,000 elements per project per layer.
+
+* **APX WMS:** accepts styles, responds well with more than 10,000 elements per project per layer
+
+* **WMS:** does not accept styles, responds well with more than 10,000 elements per project per layer, certain parameters must be set in order for it to work correctly.
+
+**Special:** Used only to create a <u>[Blockage layer](../../13-Blockages/03-set-layer.md)</u> or a [ONT layer](../../02-Advanced-Admin/02-Third-party-integration/01-Screens.md#special-layer).
 
 9\. Select "**Normal**" layer type.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-12-26/396e34fa-e3a1-4f0c-8f62-ab7a9a6eefe4/screenshot.jpeg?tl_px=0,0&br_px=1912,883&force_format=png&width=1120.0)
-
-
-**Alert:** 
-
-
-**Description of layer types.**
-
-**Normal**: accepts styles, responds well with less than 10,000 elements per project per layer.
-
-**APX WMS:** accepts styles, responds well with more than 10,000 elements per project per layer
-
-**WMS:** does not accept styles, responds well with more than 10,000 elements per project per layer, certain parameters must be set in order for it to work correctly.
-
-**Special:** Used only to create a Blockage layer or an Alarm layer.
 
 
 10\. Click "**Allowed type elements**" option.
