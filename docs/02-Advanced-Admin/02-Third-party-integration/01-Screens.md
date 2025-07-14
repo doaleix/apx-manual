@@ -213,6 +213,28 @@ The ont special layer admits up to 3 parameters:
 
 ![](/img/Third-party-integrations/thirdPI-screens14.png)
 
+### Map styling
+
+ONTs can affect map styles different than other elements in two manners:
+
+#### Conditional style
+
+To set up the UPRN vectorial visual style using @ByField the field "ont_status" can be selected as an option and the possible values are the following:
+
+* NONE: UPRN does not have any ont
+* HEALTHY: UPRN has ONTs, and none of them are alarmed
+* PARTIAL_ALARMED: UPRN has ONTs and some of them are alarmed, but not all.
+* ALL_ALARMED: UPRN has ONT,s, and all of them are alarmed.
+
+#### Built in UPRN WMS layer
+
+The UPRNs assigned to the built in WMS layer pointing to the apx uprn.map file will display with a circle those UPRNs that have ONTs. The colour of the circle depends on the ont status of the UPRN
+
+* HEALTHY → green
+* PARTIAL_ALARMED → orange
+* ALL_ALARMED → red
+
+![](/img/Third-party-integrations/thirdPI-screens16.png)
 
 ## Subscribers
 

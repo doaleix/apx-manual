@@ -67,7 +67,7 @@ Different options will be shown in the dropdown:
 
 * **WMS:** does not accept styles, responds well with more than 10,000 elements per project per layer, certain parameters must be set in order for it to work correctly.
 
-**Special:** Used only to create a <u>[Blockage layer](../../13-Blockages/03-set-layer.md)</u> or a [ONT layer](../../02-Advanced-Admin/02-Third-party-integration/01-Screens.md#special-layer).
+* **Special:** Used only to create a <u>[Blockage layer](../../13-Blockages/03-set-layer.md)</u> or a <u>[ONT layer](../../02-Advanced-Admin/02-Third-party-integration/01-Screens.md#special-layer).</u>
 
 9\. Select "**Normal**" layer type.
 
