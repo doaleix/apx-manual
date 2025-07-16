@@ -85,6 +85,8 @@ The menu shows 3 main parts:
 
 - **Create a Service button** — Appears in the footer of the component only if the collection is composed of elements (no sub-collections), and the element types are valid for creating a service: they are either cables or elements that can serve as cable endpoints. When clicked, the system attempts to create a Service from the elements in the active collection. The P2P Service creation form opens, the route is pre-filled, and a message is shown if any elements could not be included in the service.
 
+![](/img/GEN-MEN-02/Element-collection-09.png)
+
 ## **Step by Step**
 
 1\. To pull down the top right menu click on the square shape at the top right of the screen.
@@ -99,5 +101,18 @@ And then selecting the collection from the list:
 
 ![](/img/GEN-MEN-02/Element-collection-04.png)
 
-3\. Elements can be added to the current selection from different places.
+3\. Elements can be added to the current selection from different places. They can either be added one by one from the pop-up in the map:
+
+![](/img/GEN-MEN-02/Element-collection-05.png)
+
+Or in bulk from the route calculator, a box2box route or a P2P service:
+
+![](/img/GEN-MEN-02/Element-collection-06.png) ![](/img/GEN-MEN-02/Element-collection-07.png) ![](/img/GEN-MEN-02/Element-collection-08.png)
+
+
+4\. Once all desired elements have been added to the selection it can be saved for future reference by pressing the `"Save As"` button.
+
+
+![](/img/GEN-MEN-02/Element-collection-10.png)
+
 
