@@ -6,7 +6,7 @@ sidebar_position: 2
 
 This guide will help you **add element type to layer** in the programme.
 
-## **Standard roles allowed to perform the following steps in the programme **
+**Standard roles allowed to perform the following steps in the programme**
 
 1.	**Administrator**
 2.  **Planner**
@@ -70,5 +70,5 @@ If an element type exists in the layer, that element cannot be removed from the 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-12-26/b7fa4710-673e-4eef-be69-2d68089de8e9/ascreenshot.jpeg?tl_px=0,0&br_px=1719,887&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=246,523)
 
 
-**Tip:** Allowed element types added to the layer.
+**Outcome:** Allowed element types added to the layer.
 

@@ -6,7 +6,7 @@ sidebar_position: 6
 
 This guide will help you understand how **descoped elements are used in layers**.
 
-## **Standard roles allowed to perform the following steps in the programme **
+**Standard roles allowed to perform the following steps in the programme**
 
 1.	**Administrator**
 2.  **Planner**
@@ -19,7 +19,6 @@ This guide will help you understand how **descoped elements are used in layers**
 ------------
 ## **Overview**
 
-![](/img/DescopedElements/1.png)
 ![](/img/DescopedElements/DescopedElements.png)
 ![](/img/DescopedElements/DescopedElements(2).png)
 ![](/img/DescopedElements/DescopedElements(3).png)

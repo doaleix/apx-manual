@@ -6,7 +6,7 @@ sidebar_position: 3
 
 This guide will help you **add element to layer** in the programme.
 
-## **Standard roles allowed to perform the following steps in the programme **
+**Standard roles allowed to perform the following steps in the programme**
 
 1.	**Administrator**
 2.  **Planner**
@@ -40,7 +40,7 @@ This guide will help you **add element to layer** in the programme.
 **Alert:** Please note that if no project is selected, the element to be added will be placed in the default project.
 
 
-4\. [[Place the mouse pointer over the map option (top right side).]]
+4\. Place the mouse pointer over the map option (top right side).
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-12-28/8af547e1-82df-4bf5-ac98-77388dd2a114/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1913,888&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=1069,20)
 
@@ -95,6 +95,6 @@ Position the pointer where you want to place the element and click over the posi
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-12-28/a554f3f3-d2b7-4b78-9f35-56f3956f2271/ascreenshot.jpeg?tl_px=0,0&br_px=1719,887&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=169,517)
 
 
-**Tip:** The element was created assigned to a Project and a Layer.
+**Outcome:** The element was created assigned to a Project and a Layer.
 
 

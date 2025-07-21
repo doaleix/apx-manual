@@ -6,7 +6,7 @@ sidebar_position: 5
 
 This guide will help you **display elements of a layer** in the programme.
 
-## **Standard roles allowed to perform the following steps in the programme **
+**Standard roles allowed to perform the following steps in the programme**
 
 1.	**Administrator**
 2.  **Planner**
@@ -42,7 +42,7 @@ This guide will help you **display elements of a layer** in the programme.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-25/4cf704b5-f53b-4018-a186-629bf5ca4d93/ascreenshot.jpeg?tl_px=993,90&br_px=1819,551&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=402,204)
 
-
-**Tip:** Layers selected and elements belonging to those layers displayed.
+6
+**Outcome:** Layers selected and elements belonging to those layers displayed.
 
 

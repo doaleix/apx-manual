@@ -6,7 +6,7 @@ sidebar_position: 4
 
 This guide will help you **delete a layer** in the programme.
 
-## **Standard roles allowed to perform the following steps in the programme **
+**Standard roles allowed to perform the following steps in the programme**
 
 1.	**Administrator**
 2.  **Planner**
@@ -67,4 +67,4 @@ This guide will help you **delete a layer** in the programme.
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-12-28/6a3f7ff9-7a91-45d5-bdab-d024d732eaa4/ascreenshot.jpeg?tl_px=0,0&br_px=1719,887&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=234,523)
 
 
-**Tip:** The layer has been deleted.
+**Outcome:** The layer has been deleted.
