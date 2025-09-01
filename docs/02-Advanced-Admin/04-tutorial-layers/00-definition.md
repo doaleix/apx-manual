@@ -47,7 +47,7 @@ To explore the layers available within a project:
 
 ## 🧩 Understanding Layer Contents
 
-Once a layer is selected, it reveals the elements grouped under it. Each layer has specific **element types** assigned. More details in the [Add element type](./02-add-elemtype-layer.md) chapter.
+Once a layer is selected, it reveals the elements grouped under it. Each layer has specific **element types** assigned. More details in the <u>[Add element type](./02-add-elemtype-layer.md)</u> chapter.
 
 ### The Map index
 
