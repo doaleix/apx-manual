@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# Specific cable features
 
 This guide will show features specific to **cables**. For general usage, creation, update and delete of cables please refer to the <u>[duct section](../07-duct/01-create-duct.md)</u>
 
