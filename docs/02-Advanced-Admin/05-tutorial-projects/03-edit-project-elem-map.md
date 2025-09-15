@@ -6,7 +6,7 @@ sidebar_position: 3
 
 This guide will help you edit a **Project** in the programme by adding an element via Map.
 
-## **Standard roles allowed to perform the following steps in the programme **
+## Standard roles allowed to perform the following steps in the programme **
 
 1.	**Administrator**
 2.  **Planner**

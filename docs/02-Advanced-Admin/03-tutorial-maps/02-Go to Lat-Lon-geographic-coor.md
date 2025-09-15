@@ -5,7 +5,7 @@ sidebar_position: 2
 
 This guide will help you **go to a location in the map** using geographical coordenates in APX GIS programme.
 
-## **Standard roles allowed to perform the following steps in the programme **
+## Standard roles allowed to perform the following steps in the programme **
 
 1.	**Administrator**
 2.  **Planner**

@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Introduction
 
-This guide will help you create and update a **duct** in the programme.
+This guide will help you create and update a **duct** in the programme. It will also serve as an example for any linear element such as cables.
 
-## **Standard roles allowed to perform the following steps in the programme **
+**Standard roles allowed to perform the following steps in the programme **
 
 1.	**Administrator**
 2.  **Planner**
@@ -139,7 +139,7 @@ Please refer to the documentation "**Element types &gt; Codifiers**".
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/23ad218e-486e-432a-90f3-13186e54bb8c/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=829,653&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=28,534)
 
 
-### **Details**
+#### Details
 
 The fields to be filled in are:
 
@@ -193,7 +193,7 @@ Please refer to the documentation "**Element types &gt; Codifiers**".
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/8981d6ea-563d-42c0-865c-f009de8ddabf/user_cropped_screenshot.jpeg?tl_px=0,204&br_px=841,684&force_format=png&width=860)
 
 
-### **Elements**
+#### Elements
 
 The following actions may be carried out:
 
@@ -206,7 +206,7 @@ For this example a subduct and microduct were created previously.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/4d7ab184-8dd2-420b-bfa6-4c5364d35bb1/user_cropped_screenshot.jpeg?tl_px=0,204&br_px=843,684&force_format=png&width=860)
 
-### **Distribution**
+#### Distribution
 
 A duct distribution can be selected from the drop down.
 
@@ -222,7 +222,7 @@ A duct distribution can be selected from the drop down.
 
 ![](/img/6.Elements/create-duct03.png)
 
-### **Cut at element**
+#### Cut at element
 
 The action **Look for Anchor Elements** can be performed. Please refer to the following documentation of this manual :
 
@@ -233,20 +233,20 @@ The action **Look for Anchor Elements** can be performed. Please refer to the fo
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/eb6d464d-037f-46ad-a720-e41ab2ecb3be/user_cropped_screenshot.jpeg?tl_px=0,26&br_px=1238,719&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=28,277)
 
 
-### **Blockages**
+#### Blockages
 
 You will be able to add Blockages. 
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/a27432bb-2501-4a8f-a0ca-ab548d612975/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1238,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=20,199)
 
-### **Projects**
+#### Projects
 
 If you need to assign the element to another project, click "**Projects**" dropdown and you will see the current project (Selected in the firsts steps of this document) click "**Add to project**" button.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/6a6191a8-452e-443c-aa78-b23022c393ca/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1719,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=460,305)
 
 
-### **Documents**
+#### Documents
 
 If you need to add specific documents to the central node, you may add documents by:
 

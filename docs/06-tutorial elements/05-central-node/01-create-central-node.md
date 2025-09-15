@@ -6,7 +6,7 @@ sidebar_position: 1
 
 This guide will help you create a **central node** in the programme.
 
-## **Standard roles allowed to perform the following steps in the programme **
+## Standard roles allowed to perform the following steps in the programme **
 
 1.	**Administrator**
 2.  **Planner**

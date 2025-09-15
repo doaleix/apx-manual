@@ -6,7 +6,7 @@ sidebar_position: 2
 
 This guide will help you delete a **Role** in APX GIS programme.
 
-## **Standard roles allowed to perform the following steps in the programme **
+## Standard roles allowed to perform the following steps in the programme **
 
 1.	**Administrator**
 

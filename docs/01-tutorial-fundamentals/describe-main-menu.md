@@ -39,7 +39,7 @@ Additionally, for each available option, an edit button is displayed at the end.
 ![](/img/Interface/interface2.png)
 
 It is also possible to customize the visibility of each menu option for a specific user. 
-For more information regarding this, please check the [Roles section](../02-Advanced-Admin/01-tutorial-user-management/02-tutorial-roles/01-create-role.md#main-menu-privileges)
+For more information regarding this, please check the <u>[Roles section](../02-Advanced-Admin/01-tutorial-user-management/02-tutorial-roles/01-create-role.md#main-menu-privileges)</u>
 
 ## Main Map
 
