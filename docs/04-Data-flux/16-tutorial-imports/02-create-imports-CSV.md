@@ -6,7 +6,7 @@ sidebar_position: 2
 
 This guide will help you **Import** data from a CSV file.
 
-## Standard roles allowed to perform the following steps in the programme **
+** Standard roles allowed to perform the following steps in the programme **
 
 1.	**Administrator**
 2.	**Planner**

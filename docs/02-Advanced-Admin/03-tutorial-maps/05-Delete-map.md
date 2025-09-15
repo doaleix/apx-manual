@@ -5,7 +5,7 @@ sidebar_position: 5
 
 This guide will help you **delete a map** in APX GIS programme.
 
-## Standard roles allowed to perform the following steps in the programme **
+** Standard roles allowed to perform the following steps in the programme **
 
 1.	**Administrator**
 2.  **Planner**

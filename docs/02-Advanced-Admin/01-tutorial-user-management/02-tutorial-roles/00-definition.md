@@ -17,7 +17,7 @@ This guide will help you understand **Roles** in APX GIS programme.
 
 Users can have one or more roles and each of those have a set of privileges that can be enabled (true), disabled (false) or undefined. Roles are assigned to users, forming a hierarchy that enables users to perform specific activities.
 
-### Standard APX-GIS Roles
+#** Standard APX-GIS Roles
 
 - **Administrator**: Has full configuration access, including the entire administration menu (Roles, Element types, Imports), as well as planner and operator tasks.
 - **Planner**: Can create and manage projects, define element types, and configure planning details.

@@ -9,7 +9,7 @@ This guide will help you manage **Element counters** for the whole installation.
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.
 
-## Standard roles allowed to perform the following steps in the programme **
+** Standard roles allowed to perform the following steps in the programme **
 
 1.	**Administrator**
 

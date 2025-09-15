@@ -5,7 +5,7 @@ sidebar_position: 1
 
 This guide will help you **select the basemap** in APX GIS programme.
 
-## Standard roles allowed to perform the following steps in the programme **
+** Standard roles allowed to perform the following steps in the programme **
 
 1.	**Administrator**
 2.  **Planner**

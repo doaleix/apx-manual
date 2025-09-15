@@ -6,7 +6,7 @@ sidebar_position: 3
 
 This guide will help you delete a **Simple Style** in APX GIS.
 
-## Standard roles allowed to perform the following steps in the programme **
+** Standard roles allowed to perform the following steps in the programme **
 
 1.	**Administrator**
 2.	**Planner**
