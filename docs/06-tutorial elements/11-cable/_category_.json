@@ -1,0 +1,8 @@
+{
+    "label": "Cable",
+    "position": 11,
+    "link": {
+      "type": "generated-index",
+      "description": "Features specific to cables"
+    }
+}
