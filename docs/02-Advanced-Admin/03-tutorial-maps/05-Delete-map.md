@@ -34,7 +34,7 @@ This guide will help you **delete a map** in APX GIS programme.
 
 4\. A pop up will appear with a "**confirmation window**", click "**Confirm**" button to delete the map.
 
-![](/img/3.Maps/delete_map_2)
+![](/img/3.Maps/delete_map_2.png)
 
 
 **Outcome:** The selected map has been deleted.
