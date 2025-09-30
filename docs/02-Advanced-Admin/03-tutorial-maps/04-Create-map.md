@@ -8,8 +8,6 @@ This guide will help you **add a map** in APX GIS programme.
 ** Standard roles allowed to perform the following steps in the programme **
 
 1.	**Administrator**
-2.  **Planner**
-3.  **Operator**
 
 ------------
 
