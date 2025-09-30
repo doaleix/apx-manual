@@ -19,27 +19,23 @@ This guide will help you **add a map** in APX GIS programme.
 ------------
 ## **Step by Step**
 
-1\. Navigate to [https://app.apx-gis.net/#/](https://app.apx-gis.net/#/)
-
-
-2\. Click "**Administration**" option and then click "**Admin Cartography Layers**" option.
+1\. Click "**Administration**" menu and then click "**Admin Maps**" submenu.
 
 ![](/img/3.Maps/create_map_1.png)
 
-
-3\. Appears a form like normal layers. Click "**Add Button**".
+2\. A form with all existing maps will appear. Click "**Add Button**".
 
 ![](/img/3.Maps/create_map_2.png)
 
-4\. Set up a name for the layer and choose a type from the dropdown field. Only **image** and **WMS** options need params.
+3\. Set up a name for the map and choose a type from the dropdown field. Only **image** and **WMS** options need params.
 
 ![](/img/3.Maps/create_map_3.png)
 
-5\. If you choose **image** type you must add and type the params name with its value.
+4\. If you choose **image** type you must add and type the params name with its value.
 
 ![](/img/3.Maps/create_map_4.png)
 
-6\. If you choose **WMS** type, the list of mandatory parameters is:
+5\. If you choose **WMS** type, the list of mandatory parameters is:
 
 · TRANSPARENT  
 · CRS (for now we only support EPSG:4326)  
@@ -53,7 +49,7 @@ APX has a helper in order to set up these fields. Just click on **Edit** button.
 ![](/img/3.Maps/create_map_5.png)
 
 
-7\. Type the URL and click on **Fetch Capabilities** button. Choose the desired format of the dropdown field and the layers that you want. All this fields will appear as non editable fields in the previous form. When setted all parameters just click on **Apply** button.
+6\. Type the URL and click on **Fetch Capabilities** button. Choose the desired format of the dropdown field and the layers that you want. All this fields will appear as non editable fields in the previous form. When setted all parameters just click on **Apply** button.
 
 ![](/img/3.Maps/create_map_6.png)
 

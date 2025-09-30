@@ -30,23 +30,23 @@ This guide will help you **Setup your APX Installation**.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-03.png)
 
-### Fields
+## Fields
 
 "**Code**" this number is given by the programme for the installation.
 
-4\. Click "**Name**", to set up the installation name, this name will be displayed on the top right corner, next to the company logo. For this example it was typed "**Company name**".
+Click "**Name**", to set up the installation name, this name will be displayed on the top right corner, next to the company logo. For this example it was typed "**Company name**".
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-04.png)
 
-5\. Click "**Choose**" button to select the company logo for the installation.
+Click "**Choose**" button to select the company logo for the installation.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-05.png)
 
-6\. File explorer window will be opened. Search for the logo you want to use and click "**Open**" button.
+File explorer window will be opened. Search for the logo you want to use and click "**Open**" button.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-06.png)
 
-7\. Click "**Lang**" dropdown (Language) to select the installation language (1) and click one of options. For this example, **English** language was selected (2).
+Click "**Lang**" dropdown (Language) to select the installation language (1) and click one of options. For this example, **English** language was selected (2).
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-07.png)
 
@@ -54,7 +54,7 @@ In APX versions 5.3.x and older there is another field for Alternative projectio
 
 ![](/img/MNG-INS-CNF-01/alt-proj-01.png)
 
-8\. To go to the alternative projection screen click the "**Edit**" button
+To go to the alternative projection screen click the "**Edit**" button
 
 In the alternative projection screen, users can search by the projection name or the SRID code. 
 
@@ -72,9 +72,9 @@ And in the map pop up that comes up with a left mouse click
 
 ![](/img/MNG-INS-CNF-01/alt-proj-05.png)
 
-### Advanced settings
+## Advanced settings
 
-#### Params
+### Params
 
 9\. Click "**Params**" button to display all the parameters.
 
@@ -87,53 +87,45 @@ These parameters are set according to the needs of the particular installation o
 
 Click "**Close**" button to close "**Params**" window.
 
-#### Map Setup
+### Map Center Setup
 
-11\. Click "**Map setup**" button to add or delete maps.
+Click "**Map Center Setup**" button.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-10.png)
 
-12\. The "**Map Setup**" window will be shown. 
+The "**Map Center Setup**" window will be shown. This screen purpose is to set a default initial location and zoom when the application starts up.
 
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-11.png)
-To add a map, click the "**Reference cartography**" dropdown (1) and then select the map type (2), for this example "**Google Maps ROADMAP**".
+To set it, first go to the desired location  by scrolling through the map and select the appropiate zoom.
 
+Then click the **get current values** button.
 
-13\. You must click "**Plus (+)**" button after selecting the map type.
+![](/img/MNG-INS-CNF-01/alt-proj-07.png)
 
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-12.png)
+After the values have been updated remember to hit the **Apply** button to save the changes.  
 
-14\. The confirmation window is opened. Type the name that identifies the map to be added (1), for this example "**Google Maps Roadmap**" and press the "**OK**" button (2).
+### Themes
 
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-13.png)
-
-15\. The map has been added to the "**Reference Cartography**" section.
-
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-14.png)
-
-#### Themes
-
-16\. Click "**Themes**" button. Themes are created to define the style in which you want to display an element. They are temporary or informative states of the elements.
+Click "**Themes**" button. Themes are created to define the style in which you want to display an element. They are temporary or informative states of the elements.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-15.png)
 
-17\. Click "**Add**" button to add a new Theme.
+Click "**Add**" button to add a new Theme.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-16.png)
 
-18\. Click "**Roles**" dropdown to select the roles that will have access to the Theme to be created.
+Click "**Roles**" dropdown to select the roles that will have access to the Theme to be created.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-17.png)
 
-19\. Click the **selection box** of the role (s). For this example "**admin**" role.
+Click the **selection box** of the role (s). For this example "**admin**" role.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-18.png)
 
-20\. Click "**Name**" text field (1). Type the name of the "**Theme**" to be created (2), for this example "**Theme-01**" and click "**Apply**" button (3).
+Click "**Name**" text field (1). Type the name of the "**Theme**" to be created (2), for this example "**Theme-01**" and click "**Apply**" button (3).
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-19.png)
 
-21\. Click "Close" button.
+Click "Close" button.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-20.png)
 
