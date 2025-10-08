@@ -29,8 +29,8 @@ All map styles are created and managed from the **Administration > Map Styles** 
 
 The Map styles screen is divided in two tabs:
 
-- <u>**[User defined](#user-defined)**</u>
-- <u>**[System](#system)**</u>
+- <u>[User defined](#user-defined)</u>
+- <u>[System](#system)</u>
 
 ![](/img/9.Styles/styles02.png)
 
