@@ -29,8 +29,8 @@ All map styles are created and managed from the **Administration > Map Styles** 
 
 The Map styles screen is divided in two tabs:
 
-- <u>[User defined](#user-defined)</u>
-- <u>[System](#system)</u>
+- **[User defined](#user-defined)**
+- **[System](#system)**
 
 ![](/img/9.Styles/styles02.png)
 
@@ -38,9 +38,9 @@ The Map styles screen is divided in two tabs:
 
 Each style defines the visual properties of an element, out of three types:
 
-- <u>**[Nodes](#nodes)**</u>
-- <u>**[Links](#links)**</u>
-- <u>**[Polygon](#polygons)**</u>
+- **[Nodes](#nodes)**
+- **[Links](#links)**
+- **[Polygon](#polygons)**
 
 To create a new style click the **+Add** button and a "**new**" blank form will open.
 
@@ -99,11 +99,9 @@ This styles are used to define all other kinds of styling of the application in 
 
 There are three different styles to be described here:
 
-- Project style
-- Element from hig
-- <u>**[Project-style](#project-style)**</u>
-- <u>**[Element form highlight](#element-form-highlight)**</u>
-- <u>**[Third-party integration alarm](#third-party-integration-alarm)**</u>
+- **[Project-style](#project-style)**
+- **[Element form highlight](#element-form-highlight)**
+- **[Third-party integration alarm](#third-party-integration-alarm)**
 
 ### Project Style
 
