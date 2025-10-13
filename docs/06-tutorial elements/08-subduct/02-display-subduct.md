@@ -28,24 +28,24 @@ This guide will help you display a **subduct** in the programme.
 
 Click "**Select Project**" option
 
-![](static/img/downloads/02-display-subduct_1.jpeg)
+![](/img/downloads/02-display-subduct_1.jpeg)
 
 
 3\. Select the project. For this example "**valls-project**" was selected.
 
-![](static/img/downloads/02-display-subduct_2.jpeg)
+![](/img/downloads/02-display-subduct_2.jpeg)
 
 
 4\. **Important:** Sub-ducts are always inside the ducts. It is therefore necessary to know which duct is the one that has assigned the subduct element to be displayed. 
 
 Click on the duct element on the map.
 
-![](static/img/downloads/02-display-subduct_3.jpeg)
+![](/img/downloads/02-display-subduct_3.jpeg)
 
 
 5\. The **pop up elements window** will be displayed, click the route id of the subduct. For this example "**SD-035**" was selected.
 
-![](static/img/downloads/02-display-subduct_4.jpeg)
+![](/img/downloads/02-display-subduct_4.jpeg)
 
 
 6\. Subduct element window will be displayed. Fields displayed:
@@ -56,7 +56,7 @@ Click on the duct element on the map.
 - Length
 - Color
 
-![](static/img/downloads/02-display-subduct_5.jpeg)
+![](/img/downloads/02-display-subduct_5.jpeg)
 
 
 7\. Subduct element window will be displayed.  Fields displayed:
@@ -66,19 +66,19 @@ Click on the duct element on the map.
 - Fibre Cables (If existed)
 - Ducts
 
-![](static/img/downloads/02-display-subduct_6.jpeg)
+![](/img/downloads/02-display-subduct_6.jpeg)
 
 
 8\. Subduct element window will be displayed. Fields displayed:
 
 - Project
 
-![](static/img/downloads/02-display-subduct_7.jpeg)
+![](/img/downloads/02-display-subduct_7.jpeg)
 
 
 9\. Click "**Close**" button.
 
-![](static/img/downloads/02-display-subduct_8.jpeg)
+![](/img/downloads/02-display-subduct_8.jpeg)
 
 
 **Tip:** Subduct displayed successfully.

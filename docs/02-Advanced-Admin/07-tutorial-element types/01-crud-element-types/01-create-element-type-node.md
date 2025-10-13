@@ -25,17 +25,17 @@ This guide will help you create a **Node Element type** in the programme.
 
 2\. Click "**Administration**" option.
 
-![](static/img/downloads/01-create-element-type-node_1.jpeg)
+![](/img/downloads/01-create-element-type-node_1.jpeg)
 
 
 3\. Click "**Element types**" option.
 
-![](static/img/downloads/01-create-element-type-node_2.jpeg)
+![](/img/downloads/01-create-element-type-node_2.jpeg)
 
 
 4\. Click "**Add**" button.
 
-![](static/img/downloads/01-create-element-type-node_3.jpeg)
+![](/img/downloads/01-create-element-type-node_3.jpeg)
 
 
 5\. The new element type window will open. From this point you must enter the data corresponding to the new element you are creating.
@@ -44,7 +44,7 @@ Click "**Name**" field and type the name. This name is used to identify the elem
 
 For this example, "major-cabinet-north" was typed.
 
-![](static/img/downloads/01-create-element-type-node_4.jpeg)
+![](/img/downloads/01-create-element-type-node_4.jpeg)
 
 
 6\. Click "**Type**" dropdown and select a type for the element.
@@ -57,36 +57,36 @@ For this example, "major-cabinet-north" was typed.
 
 Select "**Node**" type.
 
-![](static/img/downloads/01-create-element-type-node_5.jpeg)
+![](/img/downloads/01-create-element-type-node_5.jpeg)
 
 
 7\. Click "**Title**" field and type the tilte. This title is to display an element's reference or name that the user will see in the programme. The best practice is to use lower case and no spaces and use a similar string as the "Name" field.
 
  For this example, "major-cabinet-north" was typed.
 
-![](static/img/downloads/01-create-element-type-node_6.jpeg)
+![](/img/downloads/01-create-element-type-node_6.jpeg)
 
 
 8\. Click "**Descriptive icon**" field and the available icons will be display for selection. Click the appropriate icon.
 
-![](static/img/downloads/01-create-element-type-node_7.jpeg)
+![](/img/downloads/01-create-element-type-node_7.jpeg)
 
 
 9\. Click "**Unique Codes**" option.
 
-![](static/img/downloads/01-create-element-type-node_8.jpeg)
+![](/img/downloads/01-create-element-type-node_8.jpeg)
 
 
 10\. Click "**Map**" option and then select "**Show in map**" option.
 
-![](static/img/downloads/01-create-element-type-node_9.jpeg)
+![](/img/downloads/01-create-element-type-node_9.jpeg)
 
 
 11\. Click "**default**" &gt; "**Style**".
 
 We need to specify to the system how we want the element type to appear when it is placed on the map. In other words, we are defining a **Style** for a **default** Theme. (See Themes documentation).
 
-![](static/img/downloads/01-create-element-type-node_10.jpeg)
+![](/img/downloads/01-create-element-type-node_10.jpeg)
 
 
 12\. **One way to assign a Map Style is:**
@@ -97,34 +97,34 @@ We need to specify to the system how we want the element type to appear when it 
 
 For this example "**default triangle**" was typed.
 
-![](static/img/downloads/01-create-element-type-node_11.jpeg)
+![](/img/downloads/01-create-element-type-node_11.jpeg)
 
 
 13\. **Another way to assign a Map Style is:**
 
 **Option 2:** If you do not want to assign a predefined Map Style, you are able to do it on the way. Click on the "**default Style**" field and type a name for the map. For this example "**major cabinet**" was typed.
 
-![](static/img/downloads/01-create-element-type-node_12.jpeg)
+![](/img/downloads/01-create-element-type-node_12.jpeg)
 
 
 14\. **Option 2:** Click "**Edit**" button.
 
-![](static/img/downloads/01-create-element-type-node_13.jpeg)
+![](/img/downloads/01-create-element-type-node_13.jpeg)
 
 
 15\. **Option 2:** The new Map Style window will open. Click "**Type**" dropdown and select **Node**.
 
-![](static/img/downloads/01-create-element-type-node_14.jpeg)
+![](/img/downloads/01-create-element-type-node_14.jpeg)
 
 
 16\. **Option 2:** Click "**icon**" field and select an icon. The selected icon is the one that will be posted on the map anytime a new element type is created.
 
-![](static/img/downloads/01-create-element-type-node_15.jpeg)
+![](/img/downloads/01-create-element-type-node_15.jpeg)
 
 
 17\. **Option 2:** Click "**apply**" button.
 
-![](static/img/downloads/01-create-element-type-node_16.jpeg)
+![](/img/downloads/01-create-element-type-node_16.jpeg)
 
 
 **Tip:** At this point the default style has been assigned.
@@ -132,7 +132,7 @@ For this example "**default triangle**" was typed.
 
 18\. Click "**Add/Edit**" option.
 
-![](static/img/downloads/01-create-element-type-node_17.jpeg)
+![](/img/downloads/01-create-element-type-node_17.jpeg)
 
 
 19\. Remember that an element can be added to the project and layer by right clicking on the map or by following the menu "**Operations &gt; New element**". When creating a new element type, in this section you define where the element can be added from:
@@ -145,7 +145,7 @@ Map, menu or both options.
 - Display type in map selector -
 - Display in popup -
 
-![](static/img/downloads/01-create-element-type-node_18.jpeg)
+![](/img/downloads/01-create-element-type-node_18.jpeg)
 
 
 20\. Click "**Relations**" option.As a node element type, the relations that can be defined are:
@@ -153,22 +153,22 @@ Map, menu or both options.
 - Maximum conected links -
 - Can be end of -
 
-![](static/img/downloads/01-create-element-type-node_19.jpeg)
+![](/img/downloads/01-create-element-type-node_19.jpeg)
 
 
 21\. Click "**Apply**" button.
 
-![](static/img/downloads/01-create-element-type-node_20.jpeg)
+![](/img/downloads/01-create-element-type-node_20.jpeg)
 
 
 22\. A program message will apear, indicating the changes are running in the background. Click "**Close**" button.
 
-![](static/img/downloads/01-create-element-type-node_21.jpeg)
+![](/img/downloads/01-create-element-type-node_21.jpeg)
 
 
 23\. Click "**Close**" button.
 
-![](static/img/downloads/01-create-element-type-node_22.jpeg)
+![](/img/downloads/01-create-element-type-node_22.jpeg)
 
 
 **Tip:** Node element type created.

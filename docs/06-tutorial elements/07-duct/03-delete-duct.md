@@ -27,44 +27,44 @@ This guide will help you delete a **duct** in the programme.
 
 Click "**Select Project**" option.
 
-![](static/img/downloads/03-delete-duct_1.jpeg)
+![](/img/downloads/03-delete-duct_1.jpeg)
 
 
 3\. Select the project. For this example "**valls-project**" was selected.
 
-![](static/img/downloads/03-delete-duct_2.jpeg)
+![](/img/downloads/03-delete-duct_2.jpeg)
 
 
 4\. Look in the map for the duct you wish to delete. Click "Duct" on the map.
 
-![](static/img/downloads/03-delete-duct_3.jpeg)
+![](/img/downloads/03-delete-duct_3.jpeg)
 
 
 5\. The **pop up element window** will be displayed and all the elements near the location you clicked will be listed. For this example "**Duct-valls-033**" was selected.
 
-![](static/img/downloads/03-delete-duct_4.jpeg)
+![](/img/downloads/03-delete-duct_4.jpeg)
 
 
 6\. The **Duct element window** will be displayed. Click "**Delete**" button.
 
-![](static/img/downloads/03-delete-duct_5.jpeg)
+![](/img/downloads/03-delete-duct_5.jpeg)
 
 
 7\. A confirmation window will be displayed. Click "**Yes**" button.
 
-![](static/img/downloads/03-delete-duct_6.jpeg)
+![](/img/downloads/03-delete-duct_6.jpeg)
 
 
 8\. **Important!** If the **Duct** you need to delete contains a **Cable**, you will need to delete the cable first and them the duct. In the Operating error window click "**Close**" button.
 
-![](static/img/downloads/03-delete-duct_7.jpeg)
+![](/img/downloads/03-delete-duct_7.jpeg)
 
 
 9\. Whether or not the duct contains **subducts** or **microducts**, it can be deleted and subducts or microducts assigned to it will be removed.
 
 The deletion process will take effect and all the windows closed.
 
-![](static/img/downloads/03-delete-duct_8.jpeg)
+![](/img/downloads/03-delete-duct_8.jpeg)
 
 
 **Tip:** Duct deleted successfully.

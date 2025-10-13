@@ -30,12 +30,12 @@ This guide will help you create and update a **duct** in the programme. It will 
 
 Click "**Select Project**" option.
 
-![](static/img/downloads/01-create-duct_1.jpeg)
+![](/img/downloads/01-create-duct_1.jpeg)
 
 
 3\. Select the project. For this example "**valls-project**" was selected.
 
-![](static/img/downloads/01-create-duct_2.jpeg)
+![](/img/downloads/01-create-duct_2.jpeg)
 
 
 4\. To place the elements in the project, there are two options available to do it:
@@ -47,28 +47,28 @@ Click "**Select Project**" option.
 
 For this example, click "**Operations**" option.
 
-![](static/img/downloads/01-create-duct_3.jpeg)
+![](/img/downloads/01-create-duct_3.jpeg)
 
 
 5\. Click "**New Duct**" option.
 
-![](static/img/downloads/01-create-duct_4.jpeg)
+![](/img/downloads/01-create-duct_4.jpeg)
 
 
 6\. The programme will show a top navbar **( \* )** requesting to define a location.
 
 Click the desired location.
 
-![](static/img/downloads/01-create-duct_5.jpeg)
+![](/img/downloads/01-create-duct_5.jpeg)
 
 
 7\. The ducts are represented by straight lines. The system prompts you to enter the starting point and all the vertices through which the duct passes.
 
-![](static/img/downloads/01-create-duct_6.jpeg)
+![](/img/downloads/01-create-duct_6.jpeg)
 
 8\. To define the end of the duct, click twice the last point.
 
-![](static/img/downloads/01-create-duct_7.jpeg)
+![](/img/downloads/01-create-duct_7.jpeg)
 
 
 9\. The duct creation form will be displayed.
@@ -85,22 +85,22 @@ When creating an element, the basic fields are requested:
 
 For this example the "**id**" field was automatically filled and for the description it was typed "DUCT-VALLS-31".
 
-![](static/img/downloads/01-create-duct_8.jpeg)
+![](/img/downloads/01-create-duct_8.jpeg)
 
 
 10\. Click "**Layer**" field.
 
-![](static/img/downloads/01-create-duct_9.jpeg)
+![](/img/downloads/01-create-duct_9.jpeg)
 
 
 11\. Select the layer or layers you need to assign the element. For this example "**north-planning**" was selected.
 
-![](static/img/downloads/01-create-duct_10.jpeg)
+![](/img/downloads/01-create-duct_10.jpeg)
 
 
 13\. Click "**Apply**" button.
 
-![](static/img/downloads/01-create-duct_11.jpeg)
+![](/img/downloads/01-create-duct_11.jpeg)
 
 
 **Tip:** If the layer to which you are assigning the element is not active, the program will send you a message indicating that you will not be able to see the element unless you activate it.
@@ -113,12 +113,12 @@ If the layer was not selected, go to the top right of the screen and select the 
 
 1\. Click the element that has been created **(Duct)**.
 
-![](static/img/downloads/01-create-duct_12.jpeg)
+![](/img/downloads/01-create-duct_12.jpeg)
 
 
 2\. A "**pop up**" will appear. Click the duct to update, for this example "- **DUCT-VALLS-31**" was selected.
 
-![](static/img/downloads/01-create-duct_13.jpeg)
+![](/img/downloads/01-create-duct_13.jpeg)
 
 
 3\. The element window will be opened (Duct), click "**Status**" field and a drop down menu will be shown. The "**Status**" field is assigned to all elements. For this example "**Active**" status was selected.
@@ -129,14 +129,14 @@ To edit or add values to "**Status**" field follow the menu:
 
 Please refer to the documentation "**Element types &gt; Codifiers**".
 
-![](static/img/downloads/01-create-duct_14.jpeg)
+![](/img/downloads/01-create-duct_14.jpeg)
 
-![](static/img/downloads/01-create-duct_15.jpeg)
+![](/img/downloads/01-create-duct_15.jpeg)
 
 
 4\. To continue entering element information, click "**Duct Details**" option.
 
-![](static/img/downloads/01-create-duct_16.jpeg)
+![](/img/downloads/01-create-duct_16.jpeg)
 
 
 #### Details
@@ -160,7 +160,7 @@ The available colors have to be previously registered following the path "**Admi
 
 **Operator.** This field is a codifier, which means that we must assign values beforehand so that they can be selected in this field.
 
-![](static/img/downloads/01-create-duct_17.jpeg)
+![](/img/downloads/01-create-duct_17.jpeg)
 
 **Depth.** This field is numeric.
 
@@ -180,7 +180,7 @@ Please refer to the documentation "**Element types &gt; Codifiers**".
 
 **Disposition**: This field is alphanumeric (Numbers and letters allowed).
 
-![](static/img/downloads/01-create-duct_18.jpeg)
+![](/img/downloads/01-create-duct_18.jpeg)
 
 **Shape**:
 
@@ -190,7 +190,7 @@ Please refer to the documentation "**Element types &gt; Codifiers**".
 
 **Diameter**. This field is numeric.
 
-![](static/img/downloads/01-create-duct_19.jpeg)
+![](/img/downloads/01-create-duct_19.jpeg)
 
 
 #### Elements
@@ -204,7 +204,7 @@ The following actions may be carried out:
 
 For this example a subduct and microduct were created previously.
 
-![](static/img/downloads/01-create-duct_20.jpeg)
+![](/img/downloads/01-create-duct_20.jpeg)
 
 #### Distribution
 
@@ -230,20 +230,20 @@ The action **Look for Anchor Elements** can be performed. Please refer to the fo
 - Elements &gt; Subduct &gt; Cut Subduct
 - Elements &gt; Microduct &gt; Cut Microduct
 
-![](static/img/downloads/01-create-duct_21.jpeg)
+![](/img/downloads/01-create-duct_21.jpeg)
 
 
 #### Blockages
 
 You will be able to add Blockages. 
 
-![](static/img/downloads/01-create-duct_22.jpeg)
+![](/img/downloads/01-create-duct_22.jpeg)
 
 #### Projects
 
 If you need to assign the element to another project, click "**Projects**" dropdown and you will see the current project (Selected in the firsts steps of this document) click "**Add to project**" button.
 
-![](static/img/downloads/01-create-duct_23.jpeg)
+![](/img/downloads/01-create-duct_23.jpeg)
 
 
 #### Documents
@@ -253,12 +253,12 @@ If you need to add specific documents to the central node, you may add documents
 1. Clicking "**Documents**" dropdown.
 2. Clicking "**+ Choose**" button.
 
-![](static/img/downloads/01-create-duct_24.jpeg)
+![](/img/downloads/01-create-duct_24.jpeg)
 
 
 Click "**Apply**" button.
 
-![](static/img/downloads/01-create-duct_25.jpeg)
+![](/img/downloads/01-create-duct_25.jpeg)
 
 
 **Outcome** Duct will be updated with all the detailed information.

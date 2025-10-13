@@ -27,12 +27,12 @@ This guide will help you display a **microduct** in the programme.
 
 Click "**Select Project**" option.
 
-![](static/img/downloads/03-delete-microduct_1.jpeg)
+![](/img/downloads/03-delete-microduct_1.jpeg)
 
 
 3\. Select the project. For this example "**valls-project**" was selected.
 
-![](static/img/downloads/03-delete-microduct_2.jpeg)
+![](/img/downloads/03-delete-microduct_2.jpeg)
 
 
 4\. **Important:** **Microducts** are always inside the **Subducts** and **Ducts**. 
@@ -41,7 +41,7 @@ It is therefore necessary to know which **Duct** is the one that has assigned th
 
 Click on the duct element on the map.
 
-![](static/img/downloads/03-delete-microduct_3.jpeg)
+![](/img/downloads/03-delete-microduct_3.jpeg)
 
 
 5\. The **pop up elements window** will be opened.
@@ -50,14 +50,14 @@ Click the description of the **Duct** containing the **Microduct** to be deleted
 
 For this example "**- Duct-valls-036**" was clicked.
 
-![](static/img/downloads/03-delete-microduct_4.jpeg)
+![](/img/downloads/03-delete-microduct_4.jpeg)
 
 
 6\. Element window will be displayed (Duct).
 
 Click "**Elements**" dropdown.
 
-![](static/img/downloads/03-delete-microduct_5.jpeg)
+![](/img/downloads/03-delete-microduct_5.jpeg)
 
 
 7\. In the Element section you will see:
@@ -66,7 +66,7 @@ Click "**Elements**" dropdown.
 2. Microducts
 3. Cables
 
-![](static/img/downloads/03-delete-microduct_6.jpeg)
+![](/img/downloads/03-delete-microduct_6.jpeg)
 
 
 Alert: Remember:
@@ -77,34 +77,34 @@ Alert: Remember:
 
 8\. For this example, two cables need to be removed/taken off before deleting the microduct.
 
-![](static/img/downloads/03-delete-microduct_7.jpeg)
+![](/img/downloads/03-delete-microduct_7.jpeg)
 
 
 9\. Click "**Cancel**" button.
 
-![](static/img/downloads/03-delete-microduct_8.jpeg)
+![](/img/downloads/03-delete-microduct_8.jpeg)
 
 
 10\. Click on the map, the location of the cables. 
 
-![](static/img/downloads/03-delete-microduct_9.jpeg)
+![](/img/downloads/03-delete-microduct_9.jpeg)
 
 
 11\. Pop up element window will be opened. Click the description of the cable you need to delete/take out.
 
 For this example "- **Cable-valls-FC1052**" was clicked.
 
-![](static/img/downloads/03-delete-microduct_10.jpeg)
+![](/img/downloads/03-delete-microduct_10.jpeg)
 
 
 12\. The **element window** (Fibre Cable) will be displayed, click "**Delete**" button.
 
-![](static/img/downloads/03-delete-microduct_11.jpeg)
+![](/img/downloads/03-delete-microduct_11.jpeg)
 
 
 13\. Confirmation window will be opened. Click "**Yes**" button.
 
-![](static/img/downloads/03-delete-microduct_12.jpeg)
+![](/img/downloads/03-delete-microduct_12.jpeg)
 
 
 14\. Repeat steps 10 to 13, depending on the number of fible cables you have. Leave the microduct free of cables in order to be deleted.
@@ -112,24 +112,24 @@ For this example "- **Cable-valls-FC1052**" was clicked.
 
 15\. Click on the map the location of the duct containing the microduct to be deleted. 
 
-![](static/img/downloads/03-delete-microduct_13.jpeg)
+![](/img/downloads/03-delete-microduct_13.jpeg)
 
 
 16\. Since the microduct is free of cables, you are able to delete it. 
 
 For this example "- **Microduct-valls-MD-004**" was selected.
 
-![](static/img/downloads/03-delete-microduct_14.jpeg)
+![](/img/downloads/03-delete-microduct_14.jpeg)
 
 
 17\. Element window (Microduct) will be displayed, click "**Delete**" button.
 
-![](static/img/downloads/03-delete-microduct_15.jpeg)
+![](/img/downloads/03-delete-microduct_15.jpeg)
 
 
 18\. Confirmation window will be diaplayed. Click "**Yes**" button.
 
-![](static/img/downloads/03-delete-microduct_16.jpeg)
+![](/img/downloads/03-delete-microduct_16.jpeg)
 
 
 **Tip:** Microduct deleted successfully

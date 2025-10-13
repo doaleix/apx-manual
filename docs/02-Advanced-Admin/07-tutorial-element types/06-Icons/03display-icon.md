@@ -24,16 +24,16 @@ This guide will help you display list of available **icons**.
 
 2\. Click "**Administration**" dropdown.
 
-![](static/img/downloads/03display-icon_1.jpeg)
+![](/img/downloads/03display-icon_1.jpeg)
 
 
 3\. Click "Icons"
 
-![](static/img/downloads/03display-icon_2.jpeg)
+![](/img/downloads/03display-icon_2.jpeg)
 
 
 4\. The "**Icons**" window show all the icons available at the time. Click "**Close**" button to go back to main window.
 
-![](static/img/downloads/03display-icon_3.jpeg)
+![](/img/downloads/03display-icon_3.jpeg)
 
 **Outcome:** Icons available displayed.

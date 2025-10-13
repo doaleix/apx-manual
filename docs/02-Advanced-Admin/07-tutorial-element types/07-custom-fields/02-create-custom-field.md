@@ -24,24 +24,24 @@ This guide will help you add a new **Custom field**.
 
 2\. Click "**Administration**" drop down.
 
-![](static/img/downloads/02-create-custom-field_1.jpeg)
+![](/img/downloads/02-create-custom-field_1.jpeg)
 
 
 3\. Click "**Custom fields**" option. 
 
-![](static/img/downloads/02-create-custom-field_2.jpeg)
+![](/img/downloads/02-create-custom-field_2.jpeg)
 
 
 4\. The "**Custom fields**" window will be opened, click "**Add**" button.
 
-![](static/img/downloads/02-create-custom-field_3.jpeg)
+![](/img/downloads/02-create-custom-field_3.jpeg)
 
 
 5\. Click "**Name**" dropdown and a list of element's names will be display.
 
 "**Name**" is the word or words by which the system identifies each element within its logic and table management.
 
-![](static/img/downloads/02-create-custom-field_4.jpeg)
+![](/img/downloads/02-create-custom-field_4.jpeg)
 
 
 **Alert:** The Element Types configured by default in the system have the following "**Names**".
@@ -49,78 +49,78 @@ This guide will help you add a new **Custom field**.
 If a new "**Element Type**" has been created, verify the "**Name**" through the path:
 **Administration &gt; Element Type&gt; new name "Element type".**
 
-![](static/img/downloads/02-create-custom-field_5.png)
+![](/img/downloads/02-create-custom-field_5.png)
 
 
 6\. Click "**Title**" field and type the title for the "**Custom field**" you wish to add. For this example "**Part number**" was typed.
 
-![](static/img/downloads/02-create-custom-field_6.jpeg)
+![](/img/downloads/02-create-custom-field_6.jpeg)
 
 
 7\. Click "**Apply**" button.
 
-![](static/img/downloads/02-create-custom-field_7.jpeg)
+![](/img/downloads/02-create-custom-field_7.jpeg)
 
 
 8\. Click "**Part number"** field.
 
-![](static/img/downloads/02-create-custom-field_8.jpeg)
+![](/img/downloads/02-create-custom-field_8.jpeg)
 
 
 9\. Click "**Add**" button.
 
-![](static/img/downloads/02-create-custom-field_9.jpeg)
+![](/img/downloads/02-create-custom-field_9.jpeg)
 
 
 10\. Click "**Fieldname**" field and type the name you wish to assign. For this example "**Partnumber**" was typed.
 
-![](static/img/downloads/02-create-custom-field_10.jpeg)
+![](/img/downloads/02-create-custom-field_10.jpeg)
 
 
 11\. Click "**Label**" field and type the word or words you wish to be displayed when this new "**Custom field**" appears. For this example "**Part number**" was typed.
 
-![](static/img/downloads/02-create-custom-field_11.jpeg)
+![](/img/downloads/02-create-custom-field_11.jpeg)
 
 
 12\. The "**Order**"field will be filled automatically.
 
-![](static/img/downloads/02-create-custom-field_12.jpeg)
+![](/img/downloads/02-create-custom-field_12.jpeg)
 
 
 13\. If you want to select a group, click on the "**Group**" field and select it, otherwise leave it blank.
 
-![](static/img/downloads/02-create-custom-field_13.jpeg)
+![](/img/downloads/02-create-custom-field_13.jpeg)
 
 
 14\. Click this dropdown to select the type of the field, i.e. numerical, string, numbers and letters.
 
-![](static/img/downloads/02-create-custom-field_14.jpeg)
+![](/img/downloads/02-create-custom-field_14.jpeg)
 
 
 15\. The "**Field Type**" window will be displayed. Select the most appropriate type for the new field you are creating. For this example it was "**Numeric**" field type selected.
 
-![](static/img/downloads/02-create-custom-field_15.png)
+![](/img/downloads/02-create-custom-field_15.png)
 
 **Tip:** Review the definition section for more information regarding custom field's type.
 
 
 16\. Since the type selected was "**Numeric**", you have to define a minimum and maximum value. Click "Min" field and type the maximum value, for this example "**999999999**" was typed.
 
-![](static/img/downloads/02-create-custom-field_16.jpeg)
+![](/img/downloads/02-create-custom-field_16.jpeg)
 
 
 17\. Click "**Apply**" button.
 
-![](static/img/downloads/02-create-custom-field_17.jpeg)
+![](/img/downloads/02-create-custom-field_17.jpeg)
 
 
 18\. Click "**Close**" button.
 
-![](static/img/downloads/02-create-custom-field_18.jpeg)
+![](/img/downloads/02-create-custom-field_18.jpeg)
 
 
 19\. Click "**Apply**" button.
 
-![](static/img/downloads/02-create-custom-field_19.jpeg)
+![](/img/downloads/02-create-custom-field_19.jpeg)
 
 **Tip:** Custom field created.

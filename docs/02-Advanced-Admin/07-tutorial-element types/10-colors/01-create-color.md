@@ -24,27 +24,27 @@ This guide will help you set a new **Color** in the programme.
 
 2\. Click "**Administration**" option.
 
-![](static/img/downloads/01-create-color_1.jpeg)
+![](/img/downloads/01-create-color_1.jpeg)
 
 
 3\. Click "**Colors**" option.
 
-![](static/img/downloads/01-create-color_2.jpeg)
+![](/img/downloads/01-create-color_2.jpeg)
 
 
 4\. Click "**+Add**". button.
 
-![](static/img/downloads/01-create-color_3.jpeg)
+![](/img/downloads/01-create-color_3.jpeg)
 
 
 5\. Click "**Name**" field and type the name of the new color. for this example "**Orange**" was typed.
 
-![](static/img/downloads/01-create-color_4.jpeg)
+![](/img/downloads/01-create-color_4.jpeg)
 
 
 6\. Step
 
-![](static/img/downloads/01-create-color_5.jpeg)
+![](/img/downloads/01-create-color_5.jpeg)
 
 
 7\. The color selector allows you to:
@@ -55,22 +55,22 @@ This guide will help you set a new **Color** in the programme.
 
 3. Enter the **RGB** color code.
 
-![](static/img/downloads/01-create-color_6.jpeg)
+![](/img/downloads/01-create-color_6.jpeg)
 
 
 8\. Select the color following the previous step. For this example an orange color was selected.
 
-![](static/img/downloads/01-create-color_7.jpeg)
+![](/img/downloads/01-create-color_7.jpeg)
 
 
 9\. Click "**Apply**" button.
 
-![](static/img/downloads/01-create-color_8.jpeg)
+![](/img/downloads/01-create-color_8.jpeg)
 
 
 10\. Click "**Close**" button.
 
-![](static/img/downloads/01-create-color_9.jpeg)
+![](/img/downloads/01-create-color_9.jpeg)
 
 
 **Tip:** New color set.

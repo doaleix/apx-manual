@@ -24,17 +24,17 @@ This guide will help you update a  **Color** in the programme.
 
 2\. Click "**Administration**" option.
 
-![](static/img/downloads/02-edit-color_1.jpeg)
+![](/img/downloads/02-edit-color_1.jpeg)
 
 
 3\. Click "**Colors**" option.
 
-![](static/img/downloads/02-edit-color_2.jpeg)
+![](/img/downloads/02-edit-color_2.jpeg)
 
 
 4\. Click the color you need to edit. For this example orenge color was selected.
 
-![](static/img/downloads/02-edit-color_3.jpeg)
+![](/img/downloads/02-edit-color_3.jpeg)
 
 
 5\. The color window will open. At this point you are able to:
@@ -44,7 +44,7 @@ This guide will help you update a  **Color** in the programme.
 
 For this example option 2  was selected: Color field was cliked.
 
-![](static/img/downloads/02-edit-color_4.jpeg)
+![](/img/downloads/02-edit-color_4.jpeg)
 
 
 6\. Change the color using the color selector by:
@@ -55,17 +55,17 @@ For this example option 2  was selected: Color field was cliked.
 
 3. Typing the **RGB** color code.
 
-![](static/img/downloads/02-edit-color_5.jpeg)
+![](/img/downloads/02-edit-color_5.jpeg)
 
 
 7\. Click "**Apply**" button.
 
-![](static/img/downloads/02-edit-color_6.jpeg)
+![](/img/downloads/02-edit-color_6.jpeg)
 
 
 8\. Click "**Close**" button.
 
-![](static/img/downloads/02-edit-color_7.jpeg)
+![](/img/downloads/02-edit-color_7.jpeg)
 
 
 **Tip:** Color updated.

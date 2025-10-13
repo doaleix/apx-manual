@@ -28,12 +28,12 @@ This guide will help you display a **duct** in the programme.
 
 Click "**Select Project**" option.
 
-![](static/img/downloads/02-display-duct_1.jpeg)
+![](/img/downloads/02-display-duct_1.jpeg)
 
 
 3\. Select the project. For this example "**valls-project**" was selected.
 
-![](static/img/downloads/02-display-duct_2.jpeg)
+![](/img/downloads/02-display-duct_2.jpeg)
 
 
 4\. For this example we will use the **search bar** to find the element.
@@ -43,19 +43,19 @@ Click "**Select Project**" option.
 
 For this example, the element "**Duct-vall-035**" was searched for and selected.
 
-![](static/img/downloads/02-display-duct_3.jpeg)
+![](/img/downloads/02-display-duct_3.jpeg)
 
 
 5\. A **pop up window** for the element you selected will be shown in the map.
 
 For this example "- **Duct-vall-035**" pop up window was displayed and then clcked the **Duct description**.
 
-![](static/img/downloads/02-display-duct_4.jpeg)
+![](/img/downloads/02-display-duct_4.jpeg)
 
 
 6\. The "**Duct**" form will be displayed. From this point you can navigate to see the details and any other duct information.
 
-![](static/img/downloads/02-display-duct_5.jpeg)
+![](/img/downloads/02-display-duct_5.jpeg)
 
 
 **Outcome:** Duct displayed successfully.

@@ -26,7 +26,7 @@ This guide will help you edit a **Project** in the programme by adding an elemen
 
 2\. Click "**project**" dropdown and select the project to which you want to add the element. For this example "**north-distribution**" project was selected.
 
-![](static/img/downloads/02-edit-project-elem-menu_1.jpeg)
+![](/img/downloads/02-edit-project-elem-menu_1.jpeg)
 
 
 **Important:** The following steps will show you how to add an element from the "**Operations**" menu. Remember that if configured, you can add an element directly from the map (see Add element from map).
@@ -34,14 +34,14 @@ This guide will help you edit a **Project** in the programme by adding an elemen
 
 3\. Click "**Operations**" option. 
 
-![](static/img/downloads/02-edit-project-elem-menu_2.jpeg)
+![](/img/downloads/02-edit-project-elem-menu_2.jpeg)
 
 
 4\. Find the element type you need to add and click it. For this example "**New Cable**" was selected.
 
 Under the Operations menu you will find all available element types to be added via the menu. If an element type is not listed in the menu, try adding it directly on the map (see Add element from map).
 
-![](static/img/downloads/02-edit-project-elem-menu_3.jpeg)
+![](/img/downloads/02-edit-project-elem-menu_3.jpeg)
 
 
 **Important** Depending on the item to be added, instructions will be displayed. The following steps show the way to add a fibre cable.
@@ -49,37 +49,37 @@ Under the Operations menu you will find all available element types to be added 
 
 5\. Information message "**Please define Fibre Cable path**" will be shown in a top bar. Start by defining the first point of the cable and so on, the last point should be a point already marked.
 
-![](static/img/downloads/02-edit-project-elem-menu_4.jpeg)
+![](/img/downloads/02-edit-project-elem-menu_4.jpeg)
 
 
 6\. Define several points as needed by clicking in each point.
 
-![](static/img/downloads/02-edit-project-elem-menu_5.jpeg)
+![](/img/downloads/02-edit-project-elem-menu_5.jpeg)
 
 
 7\. Define several points as needed by clicking in each point.
 
-![](static/img/downloads/02-edit-project-elem-menu_6.jpeg)
+![](/img/downloads/02-edit-project-elem-menu_6.jpeg)
 
 
 8\. To define the last point, click over a previous point. In this example, the last point was clicked twice.
 
-![](static/img/downloads/02-edit-project-elem-menu_7.jpeg)
+![](/img/downloads/02-edit-project-elem-menu_7.jpeg)
 
 
 9\. Click "**Description**" field and type the desciption. For this example,  "**north distribution project**" was typed.
 
-![](static/img/downloads/02-edit-project-elem-menu_8.jpeg)
+![](/img/downloads/02-edit-project-elem-menu_8.jpeg)
 
 
 10\. Click "**Size**" field and type the size of the cable. For this
 
-![](static/img/downloads/02-edit-project-elem-menu_9.jpeg)
+![](/img/downloads/02-edit-project-elem-menu_9.jpeg)
 
 
 11\. Click "**Layer**" field to select the layer in wich you need to assign the element. For this example "**north-distribution**" was selected.
 
-![](static/img/downloads/02-edit-project-elem-menu_10.jpeg)
+![](/img/downloads/02-edit-project-elem-menu_10.jpeg)
 
 
 **Alert:** If no layer is selected, the element will be set in the default layer.
@@ -87,7 +87,7 @@ Under the Operations menu you will find all available element types to be added 
 
 12\. Click "**Apply**" button.
 
-![](static/img/downloads/02-edit-project-elem-menu_11.jpeg)
+![](/img/downloads/02-edit-project-elem-menu_11.jpeg)
 
 
 **Tip:** Element added to project from menu.

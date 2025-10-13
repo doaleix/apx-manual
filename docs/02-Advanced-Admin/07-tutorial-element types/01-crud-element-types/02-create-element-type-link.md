@@ -24,17 +24,17 @@ This guide will help you create a **Link Element type** in the programme.
 
 2\. Click "**Administration**" option.
 
-![](static/img/downloads/02-create-element-type-link_1.jpeg)
+![](/img/downloads/02-create-element-type-link_1.jpeg)
 
 
 3\. Click "**Element types**" option.
 
-![](static/img/downloads/02-create-element-type-link_2.jpeg)
+![](/img/downloads/02-create-element-type-link_2.jpeg)
 
 
 4\. Element types window will open, click "**\+Add**" button.
 
-![](static/img/downloads/02-create-element-type-link_3.jpeg)
+![](/img/downloads/02-create-element-type-link_3.jpeg)
 
 
 5\. The new element type window will open. From this point you must enter the data corresponding to the new element you are creating.
@@ -44,7 +44,7 @@ This guide will help you create a **Link Element type** in the programme.
 
  For this example "**south-link**" was typed.
 
-![](static/img/downloads/02-create-element-type-link_4.jpeg)
+![](/img/downloads/02-create-element-type-link_4.jpeg)
 
 
 6\. Click "**Type**" dropdown and select a type for the element.
@@ -59,7 +59,7 @@ The "**Polygon**" element is set by drawing the lines that define its shape (no 
 
 Select "**Link**" type.
 
-![](static/img/downloads/02-create-element-type-link_5.jpeg)
+![](/img/downloads/02-create-element-type-link_5.jpeg)
 
 
 7\. Click "**Title**" field and type the tilte. This title is used to display an element's reference or name that the user will see in the programme. The best practice is to use lower case and no spaces and use a similar string as the "**Name**" field.
@@ -67,27 +67,27 @@ Select "**Link**" type.
 \
  For this example, "**south-link**" was typed.
 
-![](static/img/downloads/02-create-element-type-link_6.jpeg)
+![](/img/downloads/02-create-element-type-link_6.jpeg)
 
 
 8\. Click "**Descriptive icon**" field and the available icons will be display for selection. Click the appropriate icon.
 
-![](static/img/downloads/02-create-element-type-link_7.jpeg)
+![](/img/downloads/02-create-element-type-link_7.jpeg)
 
 
 9\. Click "**Unique Codes**" checkbox.
 
-![](static/img/downloads/02-create-element-type-link_8.jpeg)
+![](/img/downloads/02-create-element-type-link_8.jpeg)
 
 
 10\. Click "**Map options**" option.
 
-![](static/img/downloads/02-create-element-type-link_9.jpeg)
+![](/img/downloads/02-create-element-type-link_9.jpeg)
 
 
 11\. Click "**Show in map**" option.
 
-![](static/img/downloads/02-create-element-type-link_10.jpeg)
+![](/img/downloads/02-create-element-type-link_10.jpeg)
 
 
 12\. One way to assign a **Map Style** is:
@@ -96,39 +96,39 @@ Select "**Link**" type.
 
  **Administration &gt; Map Styles** (See Map Styles documentation)
 
-![](static/img/downloads/02-create-element-type-link_11.jpeg)
+![](/img/downloads/02-create-element-type-link_11.jpeg)
 
 
 13\. Another way to assign a **Map Style** is:
 
 **Option 2**: If you do not want to assign a previous Map Style, you are able to do it on the way. Click on the default Style field and type a name for the map. For this example "**newfacade**" was typed.
 
-![](static/img/downloads/02-create-element-type-link_12.jpeg)
+![](/img/downloads/02-create-element-type-link_12.jpeg)
 
 
 14\. **Option 2:** Click the "**Edit**" button.
 
-![](static/img/downloads/02-create-element-type-link_13.jpeg)
+![](/img/downloads/02-create-element-type-link_13.jpeg)
 
 
 15\. **Option 2:** The new Map Style window will open. Click "**Type**" dropdown and select **Link**.
 
-![](static/img/downloads/02-create-element-type-link_14.jpeg)
+![](/img/downloads/02-create-element-type-link_14.jpeg)
 
 
 16\. **Option 2:** Click "**Color**" field and select the color.
 
-![](static/img/downloads/02-create-element-type-link_15.jpeg)
+![](/img/downloads/02-create-element-type-link_15.jpeg)
 
 
 17\. **Option 2:** Click "**Width**" field and selec the width.
 
-![](static/img/downloads/02-create-element-type-link_16.jpeg)
+![](/img/downloads/02-create-element-type-link_16.jpeg)
 
 
 18\. **Option 2:** Click "**Apply**" button.
 
-![](static/img/downloads/02-create-element-type-link_17.jpeg)
+![](/img/downloads/02-create-element-type-link_17.jpeg)
 
 
 **Tip:** The map style at this pont has beed defined.
@@ -136,7 +136,7 @@ Select "**Link**" type.
 
 19\. Click "**Add/Edit**" option.
 
-![](static/img/downloads/02-create-element-type-link_18.jpeg)
+![](/img/downloads/02-create-element-type-link_18.jpeg)
 
 
 20\. Remember that an element can be added to the project and layer by right clicking on the map or by following the menu "**Operations &gt; New element**". 
@@ -151,39 +151,39 @@ Add url -
 Display type in map selector -
 Display in popup -
 
-![](static/img/downloads/02-create-element-type-link_19.jpeg)
+![](/img/downloads/02-create-element-type-link_19.jpeg)
 
 
 21\. Click "**Relations**" option.
 
-![](static/img/downloads/02-create-element-type-link_20.jpeg)
+![](/img/downloads/02-create-element-type-link_20.jpeg)
 
 
 22\. As a link element type, the relation that can be defined id: 
 
 Can end in -
 
-![](static/img/downloads/02-create-element-type-link_21.jpeg)
+![](/img/downloads/02-create-element-type-link_21.jpeg)
 
 
 23\. For this example "**Central Node**" was selected.
 
-![](static/img/downloads/02-create-element-type-link_22.jpeg)
+![](/img/downloads/02-create-element-type-link_22.jpeg)
 
 
 24\. Click "**Apply**" button.
 
-![](static/img/downloads/02-create-element-type-link_23.jpeg)
+![](/img/downloads/02-create-element-type-link_23.jpeg)
 
 
 25\. Click "**Close**" button.
 
-![](static/img/downloads/02-create-element-type-link_24.jpeg)
+![](/img/downloads/02-create-element-type-link_24.jpeg)
 
 
 26\. Click "**Close**" button.
 
-![](static/img/downloads/02-create-element-type-link_25.jpeg)
+![](/img/downloads/02-create-element-type-link_25.jpeg)
 
 
 **Tip:** Link element type created.

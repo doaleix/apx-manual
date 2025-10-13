@@ -23,32 +23,32 @@ This guide will help you delete a **Custom field** definition.
 
 2\. Click "**Administration**" option.
 
-![](static/img/downloads/04-delete-custon-field_1.jpeg)
+![](/img/downloads/04-delete-custon-field_1.jpeg)
 
 
 3\. Click "**Custom fields**" option.
 
-![](static/img/downloads/04-delete-custon-field_2.jpeg)
+![](/img/downloads/04-delete-custon-field_2.jpeg)
 
 
 4\. The "**Custom fields**" window will be display, selec the custom field to be deleted. For this example "**splicebox part number**" was selected.
 
-![](static/img/downloads/04-delete-custon-field_3.jpeg)
+![](/img/downloads/04-delete-custon-field_3.jpeg)
 
 
 5\. The specific custom field window will show the parameters set for the field. Click "**Delete**" button.
 
-![](static/img/downloads/04-delete-custon-field_4.jpeg)
+![](/img/downloads/04-delete-custon-field_4.jpeg)
 
 
 6\. A confirmation window will open. Click "**Yes**" button to confirm deletion.
 
-![](static/img/downloads/04-delete-custon-field_5.jpeg)
+![](/img/downloads/04-delete-custon-field_5.jpeg)
 
 
 7\. Click "**Close**" button.
 
-![](static/img/downloads/04-delete-custon-field_6.jpeg)
+![](/img/downloads/04-delete-custon-field_6.jpeg)
 
 
 **Tip:** Custon field deleted.

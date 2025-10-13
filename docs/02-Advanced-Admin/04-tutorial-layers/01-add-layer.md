@@ -25,37 +25,37 @@ This guide will help you **add a layer** in the programme.
 
 2\. Click "**Administration**" option.
 
-![](static/img/downloads/01-add-layer_1.jpeg)
+![](/img/downloads/01-add-layer_1.jpeg)
 
 
 3\. Click "**Admin layers**" option.
 
-![](static/img/downloads/01-add-layer_2.jpeg)
+![](/img/downloads/01-add-layer_2.jpeg)
 
 
 4\. Click "**\+ Add**" button.
 
-![](static/img/downloads/01-add-layer_3.jpeg)
+![](/img/downloads/01-add-layer_3.jpeg)
 
 
 5\. Click "**Name**" field and type the layer's name. For this example "north-design" was typed.
 
-![](static/img/downloads/01-add-layer_4.jpeg)
+![](/img/downloads/01-add-layer_4.jpeg)
 
 
 6\. Click "**Roles**" field and select the roles that will have access to the layer. For this example, "admin" role was selected.
 
-![](static/img/downloads/01-add-layer_5.jpeg)
+![](/img/downloads/01-add-layer_5.jpeg)
 
 
 7\. Close "**Roles**" option.
 
-![](static/img/downloads/01-add-layer_6.jpeg)
+![](/img/downloads/01-add-layer_6.jpeg)
 
 
 8\. Click "**Type**" option.
 
-![](static/img/downloads/01-add-layer_7.jpeg)
+![](/img/downloads/01-add-layer_7.jpeg)
 
 ### Layer types
 
@@ -71,32 +71,32 @@ Different options will be shown in the dropdown:
 
 9\. Select "**Normal**" layer type.
 
-![](static/img/downloads/01-add-layer_8.jpeg)
+![](/img/downloads/01-add-layer_8.jpeg)
 
 
 10\. Click "**Allowed type elements**" option.
 
-![](static/img/downloads/01-add-layer_9.jpeg)
+![](/img/downloads/01-add-layer_9.jpeg)
 
 
 11\. Select the elements that will be allowed in the layer being created.
 
-![](static/img/downloads/01-add-layer_10.jpeg)
+![](/img/downloads/01-add-layer_10.jpeg)
 
 
 12\. Click "**X**" or close.
 
-![](static/img/downloads/01-add-layer_11.jpeg)
+![](/img/downloads/01-add-layer_11.jpeg)
 
 
 13\. Click "**Apply**" button.
 
-![](static/img/downloads/01-add-layer_12.jpeg)
+![](/img/downloads/01-add-layer_12.jpeg)
 
 
 14\. Click "**Close**" button.
 
-![](static/img/downloads/01-add-layer_13.jpeg)
+![](/img/downloads/01-add-layer_13.jpeg)
 
 
 **Tip:** The layer has been created.

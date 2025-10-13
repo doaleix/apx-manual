@@ -24,32 +24,32 @@ This guide will help you delete a  **Color** in the programme.
 
 2\. Click "**Administration**" option.
 
-![](static/img/downloads/03-delete-color_1.jpeg)
+![](/img/downloads/03-delete-color_1.jpeg)
 
 
 3\. Click "**Colors**" option.
 
-![](static/img/downloads/03-delete-color_2.jpeg)
+![](/img/downloads/03-delete-color_2.jpeg)
 
 
 4\. Selec the color you wish to delete. For this example "**Orange**" was selected.
 
-![](static/img/downloads/03-delete-color_3.jpeg)
+![](/img/downloads/03-delete-color_3.jpeg)
 
 
 5\. Click "**Delete**" button.
 
-![](static/img/downloads/03-delete-color_4.jpeg)
+![](/img/downloads/03-delete-color_4.jpeg)
 
 
 6\. A confirmation window will open. Click "**Yes**" button.
 
-![](static/img/downloads/03-delete-color_5.jpeg)
+![](/img/downloads/03-delete-color_5.jpeg)
 
 
 7\. The color was removed from the list of colors. Click "**Close**" button.
 
-![](static/img/downloads/03-delete-color_6.jpeg)
+![](/img/downloads/03-delete-color_6.jpeg)
 
 
 **Tip:** Color deleted.

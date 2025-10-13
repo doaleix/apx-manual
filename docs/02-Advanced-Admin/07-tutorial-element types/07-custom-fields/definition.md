@@ -7,7 +7,7 @@ sidebar_position: 1
 ## **Infographic**
 
 
-![](static/img/downloads/definition_1.png)
+![](/img/downloads/definition_1.png)
 
 
-![](static/img/downloads/definition_2.png)
+![](/img/downloads/definition_2.png)

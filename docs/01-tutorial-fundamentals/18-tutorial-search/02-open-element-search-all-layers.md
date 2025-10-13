@@ -22,7 +22,7 @@ This guide will help you **open element** from search results selecting "**All l
 
 2\. Go to search bar and click "**dropdown**" button.
 
-![](static/img/downloads/02-open-element-search-all-layers_1.jpeg)
+![](/img/downloads/02-open-element-search-all-layers_1.jpeg)
 
 
 3\. The three options available are:
@@ -33,12 +33,12 @@ This guide will help you **open element** from search results selecting "**All l
 
 For this example "**Search elements in All layers**" field was selected.
 
-![](static/img/downloads/02-open-element-search-all-layers_2.jpeg)
+![](/img/downloads/02-open-element-search-all-layers_2.jpeg)
 
 
 4\. Type the name of the elemnt you wish to search. For this exampe "**north**" was typed.
 
-![](static/img/downloads/02-open-element-search-all-layers_3.jpeg)
+![](/img/downloads/02-open-element-search-all-layers_3.jpeg)
 
 
 5\. Find the element and click over the left icon (window icon).
@@ -46,19 +46,19 @@ For this example "**Search elements in All layers**" field was selected.
 - If you click over "**window icon**", the element window will be displayed.
 - If you click over the **element´s name**, you will be redirected in the map to the position of the element.
 
-![](static/img/downloads/02-open-element-search-all-layers_4.jpeg)
+![](/img/downloads/02-open-element-search-all-layers_4.jpeg)
 
 
 6\. "**Element window**" will be shown. For this example "**Subduct**" window was displayed.
 
-![](static/img/downloads/02-open-element-search-all-layers_5.jpeg)
+![](/img/downloads/02-open-element-search-all-layers_5.jpeg)
 
 
 7\. In case you need to make changes and you have the role to do so, in this window you can edit the necessary fields.
 
 Click "**Close**" button.
 
-![](static/img/downloads/02-open-element-search-all-layers_6.jpeg)
+![](/img/downloads/02-open-element-search-all-layers_6.jpeg)
 
 
 **Tip:** Element display and found by Searching bar.

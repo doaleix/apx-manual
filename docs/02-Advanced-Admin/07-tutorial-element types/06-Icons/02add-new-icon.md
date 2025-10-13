@@ -24,42 +24,42 @@ This guide will help you add a new **Icon**.
 
 2\. Click "**Administration**" drop down.
 
-![](static/img/downloads/02add-new-icon_1.jpeg)
+![](/img/downloads/02add-new-icon_1.jpeg)
 
 
 3\. Click "**Icons**" option.
 
-![](static/img/downloads/02add-new-icon_2.jpeg)
+![](/img/downloads/02add-new-icon_2.jpeg)
 
 
 4\. Click "**Choose**" button.
 
-![](static/img/downloads/02add-new-icon_3.jpeg)
+![](/img/downloads/02add-new-icon_3.jpeg)
 
 
 5\. The file search window will open. Browse for the icon file to be added. For this example "**newCabinet.png**" will be the new icon.
 
-![](static/img/downloads/02add-new-icon_4.png)
+![](/img/downloads/02add-new-icon_4.png)
 
 
 6\. Select the file and click "**Save**" button.
 
-![](static/img/downloads/02add-new-icon_5.jpeg)
+![](/img/downloads/02add-new-icon_5.jpeg)
 
 
 7\. Click "**Upload**" button.
 
-![](static/img/downloads/02add-new-icon_6.jpeg)
+![](/img/downloads/02add-new-icon_6.jpeg)
 
 
 8\. Verify that the new icon is added at the end of the list. For this example "**newCabinet**" (Name of icon  = name of the file).
 
-![](static/img/downloads/02add-new-icon_7.jpeg)
+![](/img/downloads/02add-new-icon_7.jpeg)
 
 
 9\. Close "**Icons**" window, click "**Close**" button.
 
-![](static/img/downloads/02add-new-icon_8.jpeg)
+![](/img/downloads/02add-new-icon_8.jpeg)
 
 
 **Tip:** New icon added.

@@ -24,42 +24,42 @@ This guide will help you display a **Custom field** definition.
 
 2\. Click "**Administration**" option.
 
-![](static/img/downloads/03-display-custom fld-definition_1.jpeg)
+![](/img/downloads/03-display-custom fld-definition_1.jpeg)
 
 
 3\. Click "**Custom fields**" option.
 
-![](static/img/downloads/03-display-custom fld-definition_2.jpeg)
+![](/img/downloads/03-display-custom fld-definition_2.jpeg)
 
 
 4\. The list of all custom fields defined will be displayed. Select the custom field to be consulted, for  this example "**Part number**" was selected.
 
-![](static/img/downloads/03-display-custom fld-definition_3.jpeg)
+![](/img/downloads/03-display-custom fld-definition_3.jpeg)
 
 
 5\. Select the field to be displayed. For this example "**partnumber**" was selected.
 
-![](static/img/downloads/03-display-custom fld-definition_4.jpeg)
+![](/img/downloads/03-display-custom fld-definition_4.jpeg)
 
 
 6\. The "**fields window**" will show the parameters set  for the Custom Field.
 
-![](static/img/downloads/03-display-custom fld-definition_5.jpeg)
+![](/img/downloads/03-display-custom fld-definition_5.jpeg)
 
 
 7\. Click "**Close**" button.
 
-![](static/img/downloads/03-display-custom fld-definition_6.jpeg)
+![](/img/downloads/03-display-custom fld-definition_6.jpeg)
 
 
 8\. Click "**Close**" button.
 
-![](static/img/downloads/03-display-custom fld-definition_7.jpeg)
+![](/img/downloads/03-display-custom fld-definition_7.jpeg)
 
 
 9\. Click "**Close**" button.
 
-![](static/img/downloads/03-display-custom fld-definition_8.jpeg)
+![](/img/downloads/03-display-custom fld-definition_8.jpeg)
 
 
 **Tip:** Custon Field definition displayed.

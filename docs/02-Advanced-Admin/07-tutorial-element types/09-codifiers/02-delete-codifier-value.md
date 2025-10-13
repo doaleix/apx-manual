@@ -24,48 +24,48 @@ This guide will help you delete a **Codifier's value** in the programme.
 
 2\. Click "**Administration**" option.
 
-![](static/img/downloads/02-delete-codifier-value_1.jpeg)
+![](/img/downloads/02-delete-codifier-value_1.jpeg)
 
 
 3\. Click "**Codifiers**" option
 
-![](static/img/downloads/02-delete-codifier-value_2.jpeg)
+![](/img/downloads/02-delete-codifier-value_2.jpeg)
 
 
 4\. The "**Element Codifiers**" window will be shown. Select the Codifier which value you want to delete, For this example, "**Cable Manufacturer**" was selected.
 
-![](static/img/downloads/02-delete-codifier-value_3.jpeg)
+![](/img/downloads/02-delete-codifier-value_3.jpeg)
 
 
 5\. The codifier window will be opened and the values for the codifier will be listed. Select the value you wish to delete.
 
 For this example "**Cable Manufacturer**" codifier winbdow was opened and "**Southwire company**" was selected.
 
-![](static/img/downloads/02-delete-codifier-value_4.jpeg)
+![](/img/downloads/02-delete-codifier-value_4.jpeg)
 
 
 6\. The Code and description  of the selected codifier value will be show. 
 
 Click "**Delete**" button.
 
-![](static/img/downloads/02-delete-codifier-value_5.jpeg)
+![](/img/downloads/02-delete-codifier-value_5.jpeg)
 
 
 7\. A confirmation window will be shown. Click "**Yes**" button.
 
-![](static/img/downloads/02-delete-codifier-value_6.jpeg)
+![](/img/downloads/02-delete-codifier-value_6.jpeg)
 
 
 8\. You can verify that the value for that codifier was deleted.
 
 Click "**Close**" button.
 
-![](static/img/downloads/02-delete-codifier-value_7.jpeg)
+![](/img/downloads/02-delete-codifier-value_7.jpeg)
 
 
 9\. Click "**Close**" button.
 
-![](static/img/downloads/02-delete-codifier-value_8.jpeg)
+![](/img/downloads/02-delete-codifier-value_8.jpeg)
 
 
 **Tip:** A value for a codifier deleted.

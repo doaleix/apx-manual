@@ -28,57 +28,57 @@ This guide will help you update a **Codifier** value of an **Element**.
 
 2\. Click "**Administration**" option.
 
-![](static/img/downloads/03-assign-codifier-element_1.jpeg)
+![](/img/downloads/03-assign-codifier-element_1.jpeg)
 
 
 3\. Click "**Codifiers**" option.
 
-![](static/img/downloads/03-assign-codifier-element_2.jpeg)
+![](/img/downloads/03-assign-codifier-element_2.jpeg)
 
 
 4\. Click the codifier according to the elemet type you wish to add a codifier valu. For this example "**Splitter Box Type**" element codifier was selected..
 
-![](static/img/downloads/03-assign-codifier-element_3.jpeg)
+![](/img/downloads/03-assign-codifier-element_3.jpeg)
 
 
 5\. Verify that the codifier has values assigned. If not please refer to "**Element Types &gt; Codifiers &gt; Create new values for a Codifier**". For this example, the codifier "**Splitter box type**" has values asigned.
 
-![](static/img/downloads/03-assign-codifier-element_4.jpeg)
+![](/img/downloads/03-assign-codifier-element_4.jpeg)
 
 
 6\. Click "**Close**" button.
 
-![](static/img/downloads/03-assign-codifier-element_5.jpeg)
+![](/img/downloads/03-assign-codifier-element_5.jpeg)
 
 
 7\. At this point, values assigned to the codifier "**Splitter box type**" exist. Search for the element to which you wish to assign the codifier value and click it.
 
-![](static/img/downloads/03-assign-codifier-element_6.jpeg)
+![](/img/downloads/03-assign-codifier-element_6.jpeg)
 
 
 8\. Click over the name of the element type you wish to assign the codifier value. for this example splitter box"- **nopg-splitter-20**" was clicked.
 
-![](static/img/downloads/03-assign-codifier-element_7.jpeg)
+![](/img/downloads/03-assign-codifier-element_7.jpeg)
 
 
 9\. Click "**Details**" option.
 
-![](static/img/downloads/03-assign-codifier-element_8.jpeg)
+![](/img/downloads/03-assign-codifier-element_8.jpeg)
 
 
 10\. Find the codifier you want to assign, for this example "**Type**" codifier was selected. Click "**Type**" dropdown.
 
-![](static/img/downloads/03-assign-codifier-element_9.jpeg)
+![](/img/downloads/03-assign-codifier-element_9.jpeg)
 
 
 11\. The values of the codifier type, which were verified in the first steps of this document, will be displayed. Select the corresponding codifier value. For this example "**Bare Fiber Optical Splitter**" was selected.
 
-![](static/img/downloads/03-assign-codifier-element_10.jpeg)
+![](/img/downloads/03-assign-codifier-element_10.jpeg)
 
 
 12\. Click "**Apply**" button.
 
-![](static/img/downloads/03-assign-codifier-element_11.jpeg)
+![](/img/downloads/03-assign-codifier-element_11.jpeg)
 
 
 **Tip:** Codifier was assigned to elent

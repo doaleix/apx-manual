@@ -28,19 +28,19 @@ This guide will help you delete a **central node** in the programme.
 
 Click "**Select Project**" option.
 
-![](static/img/downloads/03-delete-central-node_1.jpeg)
+![](/img/downloads/03-delete-central-node_1.jpeg)
 
 
 3\. Select the project. For this example "**valls-project**" was selected.
 
-![](static/img/downloads/03-delete-central-node_2.jpeg)
+![](/img/downloads/03-delete-central-node_2.jpeg)
 
 
 4\. For this example, search bar will be used to find the element.
 
 Click the "**Search elements in All layers**" field.
 
-![](static/img/downloads/03-delete-central-node_3.jpeg)
+![](/img/downloads/03-delete-central-node_3.jpeg)
 
 
 5\. 1. Type in the search field the name of the item you are looking for.
@@ -48,28 +48,28 @@ Click the "**Search elements in All layers**" field.
 
 For this example, the element "**- central-node-valls-25**" was searched for and selected.
 
-![](static/img/downloads/03-delete-central-node_4.jpeg)
+![](/img/downloads/03-delete-central-node_4.jpeg)
 
 
 6\. A **pop up window** for the element you selected will be shown in the map.
 
 For this example " **central-node-valls-25**" pop up window was displayed and then clcked the **Central node description**.
 
-![](static/img/downloads/03-delete-central-node_5.jpeg)
+![](/img/downloads/03-delete-central-node_5.jpeg)
 
 
 7\. "**Central Node**" window will be displayed. 
 
 Click "**Delete**" button.
 
-![](static/img/downloads/03-delete-central-node_6.jpeg)
+![](/img/downloads/03-delete-central-node_6.jpeg)
 
 
 8\. Confirmation window will be displayed.
 
 Click "**Yes**" button.
 
-![](static/img/downloads/03-delete-central-node_7.jpeg)
+![](/img/downloads/03-delete-central-node_7.jpeg)
 
 
 **Tip:** Central Node deleted successfully.
