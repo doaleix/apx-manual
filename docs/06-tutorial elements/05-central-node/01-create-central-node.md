@@ -27,12 +27,12 @@ This guide will help you create a **central node** in the programme.
 
 Click "**Select Project**" option.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/0ab86168-c2c5-4b2a-a64e-d401bf080066/ascreenshot.jpeg?tl_px=0,0&br_px=825,461&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=345,-10)
+![](static/img/downloads/01-create-central-node_1.jpeg)
 
 
 3\. Select the project. For this example "**valls-project**" was selected.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/56eb979b-fa44-4225-983e-514baeed7d8e/ascreenshot.jpeg?tl_px=0,0&br_px=825,461&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=337,126)
+![](static/img/downloads/01-create-central-node_2.jpeg)
 
 
 4\. To place the elements in the project, there are two options available to do it:
@@ -44,19 +44,19 @@ Click "**Select Project**" option.
 
 For this example, click "**Operations**" option.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/080055e5-ede3-4612-a9b1-b1ceb477d9b7/ascreenshot.jpeg?tl_px=0,0&br_px=825,461&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=69,120)
+![](static/img/downloads/01-create-central-node_3.jpeg)
 
 
 5\. Click "**New Central Node**" option.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/e2a7bf35-f289-45c0-ae05-abc7ce6f3580/ascreenshot.jpeg?tl_px=0,0&br_px=952,769&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=106,369)
+![](static/img/downloads/01-create-central-node_4.jpeg)
 
 
 6\. The programme will send a message at the top ( \* ) requesting to define a location.
 
 Click the desired location.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/ca717483-b860-4677-8192-ce385c990c02/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=747,717&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=562,589)
+![](static/img/downloads/01-create-central-node_5.jpeg)
 
 
 7\. When creating an element, the basic fields must be filled:
@@ -69,44 +69,44 @@ Click the desired location.
 
 For this example the "**id**" field was automatically filled and for the description it was typed "**central-node-valls-25"**.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/0b4fc0ca-dc7f-40fc-8886-50ad32dd7d23/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=825,461&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=110,192)
+![](static/img/downloads/01-create-central-node_6.jpeg)
 
 
 8\. Click "**Layer**" field.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/248c4e9b-c5bc-4745-bf26-31084b719a4a/ascreenshot.jpeg?tl_px=0,0&br_px=952,549&force_format=png&width=983&wat_scale=87&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=193,247)
+![](static/img/downloads/01-create-central-node_7.jpeg)
 
 
 9\. Select the layer or layers you need to assign the element. For this example "**north-planning**" was selected.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/bdbb9fd0-f907-49ff-90b7-dbc56474ce7a/ascreenshot.jpeg?tl_px=0,143&br_px=952,692&force_format=png&width=983&wat_scale=87&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=217,252)
+![](static/img/downloads/01-create-central-node_8.jpeg)
 
 
 10\. Click "**Apply**" button.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/d18fdf79-f47b-4961-8a6a-39dc524f745e/ascreenshot.jpeg?tl_px=0,327&br_px=952,877&force_format=png&width=983&wat_scale=87&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=219,502)
+![](static/img/downloads/01-create-central-node_9.jpeg)
 
 
 11\. If the layer to which you are assigning the element is not active, the program will send you a message indicating that you will not be able to see the element unless you activate it. Click "**Close**" button.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/4481b772-074b-4f58-b672-fca00d982dc3/ascreenshot.jpeg?tl_px=0,0&br_px=952,640&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=788,304)
+![](static/img/downloads/01-create-central-node_10.jpeg)
 
 
 12\. If the layer was not selected, go to "**Maps-Layers-Types**" menu at the top right of the screen ans select the layer to wich the element was assigned. For this example "**north-planning**" layer was selected.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/ca16f750-ab7b-4e10-86bd-01f22c704b7f/ascreenshot.jpeg?tl_px=126,153&br_px=951,614&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=645,204)
+![](static/img/downloads/01-create-central-node_11.jpeg)
 
 
 13\. Up to this point the element only has the **minimum information,** from this point on we will provide more information to the element.
 
 Click the element that has been created.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/31719f3b-4dc9-4efe-938b-9c6c95585008/ascreenshot.jpeg?tl_px=0,0&br_px=952,640&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=534,308)
+![](static/img/downloads/01-create-central-node_12.jpeg)
 
 
 14\. The "**pop up elemen**t" window will open. Click the description of the element, for this example "**- central-node-valls-25**" was selected.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/204dca04-5bdd-4b17-bb2a-3609db43e3db/ascreenshot.jpeg?tl_px=0,0&br_px=825,461&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=381,196)
+![](static/img/downloads/01-create-central-node_13.jpeg)
 
 
 15\. Element window will be opened (Central node), click "**Status**" field and a drop down menu will be shown. The "**Status**" field is assigned to all elements. For this example "**Active**" status was selected.
@@ -117,12 +117,12 @@ To edit or add values to "**Status**" field follow the menu:
 
 Please refer to the documentation "**Element types &gt; Codifiers**".
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/36c736fc-453f-4232-920f-a0f9538ebc57/user_cropped_screenshot.jpeg?tl_px=0,31&br_px=859,512&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=593,212)
+![](static/img/downloads/01-create-central-node_14.jpeg)
 
 
 16\. To continue entering the element information click on "**Details**" option.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/14094e3c-71ec-4793-9034-d24a5ed116ee/ascreenshot.jpeg?tl_px=0,0&br_px=952,769&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=38,392)
+![](static/img/downloads/01-create-central-node_15.jpeg)
 
 
 17\. Within the information group "**Details**" the fields to be filled in are:
@@ -149,7 +149,7 @@ Please refer to the documentation (**Element types &gt; Codifiers**)
 
 - **Comments**: If you whish to add information for the Central node, you cas type it in this field.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/d63616a2-d8cc-4983-a183-19bda11fb8c6/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=952,877&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=669,551)
+![](static/img/downloads/01-create-central-node_16.jpeg)
 
 
 18\. If you have defined "**Custom Fields**" for the Central Node, the section will follow "**Details**" section.
@@ -158,21 +158,21 @@ Please refer to "**Element Types &gt; Custom Fields**" documentation.
 
 Click "**Custon fields**" option
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/47e13570-473d-42ef-8060-1056cc35da82/screenshot.jpeg?tl_px=0,0&br_px=1505,803&force_format=png&width=1120.0)
+![](static/img/downloads/01-create-central-node_17.jpeg)
 
 
 19\. For this example "**Installer's name**" was set up as a custom field. Youmay have other custom fields or need to configure some. Please refer to the "Element type &gt; Custom Fields" documentation.
 
 Click specific "**Custon field**" dropdown. For this example, "**Installer's name**" was clicked.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/07cd8b45-1991-48b4-8c8f-e5a81a0fb010/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1557,797&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=596,191)
+![](static/img/downloads/01-create-central-node_18.jpeg)
 
 
 20\. Next option is "**Connected ducts**".
 
 If there are connected ducts assigned to the Central Node, they will be shown at this point. For this example no ducts are connected.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/3471a1f4-d3d8-4e3b-bb13-2876f2aae95d/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1687,807&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=15,242)
+![](static/img/downloads/01-create-central-node_19.jpeg)
 
 
 21\. If you need to add specific documents to the central node, you may add documents by:
@@ -180,7 +180,7 @@ If there are connected ducts assigned to the Central Node, they will be shown at
 1. Clicking "**Documents**" dropdown.
 2. Clicking "**+ Choose**" button.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/8a7e99d6-5c00-419a-87c6-351af6ae6e0b/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1555,790&force_format=png&width=1120.0)
+![](static/img/downloads/01-create-central-node_20.jpeg)
 
 
 22\. If you need to add Joints or OLTs, you should:
@@ -188,7 +188,7 @@ If there are connected ducts assigned to the Central Node, they will be shown at
 1. Click "**Joints/OLT**s" dropdown and then
 2. Click "+**Add Joint**" or "+**Add Olt**" buttons.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/ab8730c6-8689-4942-ae92-5162a4c523f9/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1672,790&force_format=png&width=1120.0)
+![](static/img/downloads/01-create-central-node_21.jpeg)
 
 
 23\. If you need to add Network clients, you should:
@@ -196,12 +196,12 @@ If there are connected ducts assigned to the Central Node, they will be shown at
 1. Click "**Network clients**" dropdown and then,
 2. Click "+**Add**" button.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/7be31b25-f218-4543-92fd-4e42b27c75a4/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1668,790&force_format=png&width=1120.0)
+![](static/img/downloads/01-create-central-node_22.jpeg)
 
 
 24\. Click "**Apply**" button.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/947cc67c-b9ad-4ee3-ab6e-0435e7694bfe/ascreenshot.jpeg?tl_px=0,0&br_px=952,877&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=354,969)
+![](static/img/downloads/01-create-central-node_23.jpeg)
 
 
 **Tip:** Central node created with detailed information.

@@ -27,29 +27,29 @@ This guide will help you create a **chamber** in the programme.
 
 Click "**Select Project**" option.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/09f27dfa-43d8-4b91-9003-4db4bdd42163/ascreenshot.jpeg?tl_px=0,0&br_px=1238,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=470,-11)
+![](static/img/downloads/01-create-chamber_1.jpeg)
 
 
 3\. Select the project. For this example "**valls-project**" was selected.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/ac61a835-ae1d-4b19-ba63-18efd06e5c00/ascreenshot.jpeg?tl_px=0,0&br_px=1238,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=488,177)
+![](static/img/downloads/01-create-chamber_2.jpeg)
 
 
 4\. Click "Operations"
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/d7504196-3690-4900-9172-20f52e065b4d/ascreenshot.jpeg?tl_px=0,0&br_px=1238,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=98,163)
+![](static/img/downloads/01-create-chamber_3.jpeg)
 
 
 5\. Click "**New Chamber**" option.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/73d226c1-0ce3-4d5f-a183-77e69e141dd2/ascreenshot.jpeg?tl_px=0,0&br_px=1238,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=143,257)
+![](static/img/downloads/01-create-chamber_4.jpeg)
 
 
 6\. The programme will send a message at the top ( \* ) requestint to define a location.
 
 Click the desired location.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/9cc19713-c211-4dda-bb20-84531cd0feb3/user_cropped_screenshot.jpeg?tl_px=201,0&br_px=1920,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=710,281)
+![](static/img/downloads/01-create-chamber_5.jpeg)
 
 
 7\. When creating an element, the basic fields are requested:
@@ -65,34 +65,34 @@ Click the desired location.
 
 For this example the "**id**" field was automatically filled and for the "**Description**" it was typed "**Privately Owned"**.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/593ab914-f011-405c-846b-c636fb26e634/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1238,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=142,260)
+![](static/img/downloads/01-create-chamber_6.jpeg)
 
 
 8\. Click "**Layer**" field.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/313dcb8f-91ee-4fae-add7-535f2ab37322/ascreenshot.jpeg?tl_px=0,61&br_px=1238,754&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=249,277)
+![](static/img/downloads/01-create-chamber_7.jpeg)
 
 
 9\. Select the layer or layers you need to assign the element. For this example "**north-planning**" was selected.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/88e3ea68-3bef-4720-bab0-665d3c29f165/ascreenshot.jpeg?tl_px=0,98&br_px=1238,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=285,443)
+![](static/img/downloads/01-create-chamber_8.jpeg)
 
 
 10\. Click "**Apply**" button.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/021bffc7-58b1-4a82-9620-94ed4b5e9153/ascreenshot.jpeg?tl_px=0,98&br_px=1238,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=308,569)
+![](static/img/downloads/01-create-chamber_9.jpeg)
 
 
 11\. Up to this point the element only has the **minimum information,** from this point on we will provide more information to the element.
 
 Click the element that has been created.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/0ecd0015-b2ec-456e-b8e4-f80add708a09/ascreenshot.jpeg?tl_px=682,98&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=567,325)
+![](static/img/downloads/01-create-chamber_10.jpeg)
 
 
 12\. The "**pop up elemen**t" window will open. Click the description of the element, for this example "- **Privately Owned**" was selected.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/0e2d097a-cfa9-4a91-a945-cc98e365e4e7/ascreenshot.jpeg?tl_px=635,51&br_px=1874,744&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=524,277)
+![](static/img/downloads/01-create-chamber_11.jpeg)
 
 
 13\. Element window will be opened (Chamber), click "**Status**" field and a drop down menu will be shown. The "**Status**" field is assigned to all elements. For this example "**Active**" status was selected.
@@ -103,12 +103,12 @@ To edit or add values to "**Status**" field follow the menu:
 
 Please refer to the documentation "**Element types &gt; Codifiers**".
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/2d305838-1137-4568-b177-cfb2c4115821/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=860,549&force_format=png&width=983&wat_scale=87&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=663,281)
+![](static/img/downloads/01-create-chamber_12.jpeg)
 
 
 14\. To continue entering the element information click on "**Details**" option.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/271147c7-7e75-4716-8553-c41ec0af525e/ascreenshot.jpeg?tl_px=0,98&br_px=1238,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=49,367)
+![](static/img/downloads/01-create-chamber_13.jpeg)
 
 
 15\. Within the information group "**Details**" the fields to be filled in are:
@@ -135,19 +135,19 @@ Please refer to the documentation (**Element types &gt; Codifiers**)
 
 **Comments**: If you whish to add information for the Central node, you cas type it in this field.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/2c743336-c47b-4c11-82fe-5881fae9cb67/user_cropped_screenshot.jpeg?tl_px=47,0&br_px=1423,761&force_format=png&width=1120.0)
+![](static/img/downloads/01-create-chamber_14.jpeg)
 
 
 16\. Next option is "**Connected ducts**".
 
 If there are connected ducts assigned to the Chamber, they will be shown at this point. For this example no ducts are connected.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/406b1a2f-5d61-4390-a879-6b3c5986cff2/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=860,885&force_format=png&width=1088)
+![](static/img/downloads/01-create-chamber_15.jpeg)
 
 
 17\. If you need to assign the element to another project, click "**Projects**" dropdown and you will see the current project (Selected in the firsts steps of this document) click "**Add to project**" button.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/e442b20f-2d97-4f98-bdf2-9fe2396a07f2/user_cropped_screenshot.jpeg?tl_px=0,118&br_px=860,888&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=672,564)
+![](static/img/downloads/01-create-chamber_16.jpeg)
 
 
 18\. If you need to add specific documents to the central node, you may add documents by:
@@ -155,22 +155,22 @@ If there are connected ducts assigned to the Chamber, they will be shown at this
 1. Clicking "**Documents**" dropdown.
 2. Clicking "**+ Choose**" button.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/16b1eb7e-6319-4a11-a84b-eeb8bdd0e7d6/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=860,886&force_format=png&width=1088)
+![](static/img/downloads/01-create-chamber_17.jpeg)
 
 
 19\. Click "**Sections / Prisms**" to upload pictures from different angles of the chamber.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/bbd62cab-590a-425a-b23d-b79cef0bec3e/ascreenshot.jpeg?tl_px=0,67&br_px=1238,760&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=84,277)
+![](static/img/downloads/01-create-chamber_18.jpeg)
 
 
 20\. Click "**+Choose**" button for C(Center), N(North), S(South ), E(East), W(West).
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/bbb3129b-62dd-4a72-956b-cdcc799b0ef7/screenshot.jpeg?tl_px=0,0&br_px=860,887&force_format=png&width=1086)
+![](static/img/downloads/01-create-chamber_19.jpeg)
 
 
 21\. Click "**Joints/Splitter Boxes**" dropdown option.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/03a03fee-232e-4a9a-a1f3-c38df6bbcb5d/ascreenshot.jpeg?tl_px=0,0&br_px=1719,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=69,313)
+![](static/img/downloads/01-create-chamber_20.jpeg)
 
 
 22\. If you need to add Joints or Splitter boxes, you should:
@@ -178,26 +178,26 @@ If there are connected ducts assigned to the Chamber, they will be shown at this
 1. Click "**Joints/Splitter Boxes**" dropdown and then
 2. Click "**+Add Joint**" or "**Add Splitter Box**" button and a window,  corresponding to the element you wish to add, will be displayed and you must introduce the basic info of the element (Id, description and Layer).
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/dfa10bb7-10d9-42e9-8991-2619595b6f21/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1528,790&force_format=png&width=1120.0)
+![](static/img/downloads/01-create-chamber_21.jpeg)
 
 23\. If you need to add "**Network clients**", you should:
 
 1. Click "**Network clients**" dropdown and then,
 2. Click "+**Add**" button.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/2b204a63-03da-4b45-b301-693074aa4767/user_cropped_screenshot.jpeg?tl_px=0,59&br_px=840,829&force_format=png&width=1120.0)
+![](static/img/downloads/01-create-chamber_22.jpeg)
 
 
 24\. Since you are creating a new Chamber, no microducts are passing though at this point. If you click "**Microducts**" dropdown option you will see message:
 
 "No microducts passing though".
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/a58bb09a-cbb4-46e7-a4b4-58e7b76b299a/ascreenshot.jpeg?tl_px=0,98&br_px=1238,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=421,560)
+![](static/img/downloads/01-create-chamber_23.jpeg)
 
 
 25\. Click "**Apply**" button.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/c3102868-a795-430f-8f13-7fad16e75482/File.jpeg?tl_px=0,98&br_px=1238,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=421,560)
+![](static/img/downloads/01-create-chamber_24.jpeg)
 
 
 **Tip:** Chamber created with detailed information.

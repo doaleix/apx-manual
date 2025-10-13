@@ -35,7 +35,7 @@ This guide will help you delete an **Element Type**.
 ![](/img/MNG-LMT-DEL-01/MNG-LMT-DEL-01-STP-04.png)
 
 
-5\. It is important that the "**Times used**" field is equal to **0,** that is to say, no element type to be deleted exists in the projects, otherwise all elements in the various projects would have to be deleted for the element to be finally deleted.
+5\. It is important that the "**Times used**" field is equal to **0** that is to say, no element of the type type to be deleted exists in any project, otherwise all elements in the various projects would have to be deleted for the element to be finally deleted.
 
 ![](/img/MNG-LMT-DEL-01/MNG-LMT-DEL-01-STP-05.png)
 

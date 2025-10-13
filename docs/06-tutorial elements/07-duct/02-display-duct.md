@@ -28,12 +28,12 @@ This guide will help you display a **duct** in the programme.
 
 Click "**Select Project**" option.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/83c7ae41-2922-4224-baae-18c9c3bcfb93/ascreenshot.jpeg?tl_px=0,0&br_px=825,461&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=336,-10)
+![](static/img/downloads/02-display-duct_1.jpeg)
 
 
 3\. Select the project. For this example "**valls-project**" was selected.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/c16c5b2d-a1fd-4b48-a0ab-375590586e1a/ascreenshot.jpeg?tl_px=0,0&br_px=825,461&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=368,123)
+![](static/img/downloads/02-display-duct_2.jpeg)
 
 
 4\. For this example we will use the **search bar** to find the element.
@@ -43,19 +43,19 @@ Click "**Select Project**" option.
 
 For this example, the element "**Duct-vall-035**" was searched for and selected.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/265dc7ab-d017-446d-aaab-9d29a79b1af4/user_cropped_screenshot.jpeg?tl_px=133,0&br_px=959,461&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=429,63)
+![](static/img/downloads/02-display-duct_3.jpeg)
 
 
 5\. A **pop up window** for the element you selected will be shown in the map.
 
 For this example "- **Duct-vall-035**" pop up window was displayed and then clcked the **Duct description**.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/f27a51c0-5af3-44e6-9b73-ca5f1c5ef7ec/ascreenshot.jpeg?tl_px=0,143&br_px=825,604&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=368,204)
+![](static/img/downloads/02-display-duct_4.jpeg)
 
 
 6\. The "**Duct**" form will be displayed. From this point you can navigate to see the details and any other duct information.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-30/de36c0a9-c34c-4315-b83e-b0e48f9855c2/ascreenshot.jpeg?tl_px=0,0&br_px=959,879&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=105,466)
+![](static/img/downloads/02-display-duct_5.jpeg)
 
 
 **Outcome:** Duct displayed successfully.
