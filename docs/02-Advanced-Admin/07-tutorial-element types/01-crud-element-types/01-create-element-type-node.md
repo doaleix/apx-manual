@@ -81,61 +81,14 @@ Select "**Node**" type.
 
 ![](/img/downloads/01-create-element-type-node_9.jpeg)
 
+11\. In this section you can select how the element type will be drawn in the map. More information about styles in the **Map styles** section
 
-11\. Click "**default**" &gt; "**Style**".
-
-We need to specify to the system how we want the element type to appear when it is placed on the map. In other words, we are defining a **Style** for a **default** Theme. (See Themes documentation).
-
-![](/img/downloads/01-create-element-type-node_10.jpeg)
-
-
-12\. **One way to assign a Map Style is:**
-
-**Option 1:** Type the name of the **Map style** that represents the style for the new element type you are creating and hit **&lt;Enter&gt;**. All Map styles are available on the route:
-
-**Administration &gt; Map Styles** (See Map Styles documentation)
-
-For this example "**default triangle**" was typed.
-
-![](/img/downloads/01-create-element-type-node_11.jpeg)
-
-
-13\. **Another way to assign a Map Style is:**
-
-**Option 2:** If you do not want to assign a predefined Map Style, you are able to do it on the way. Click on the "**default Style**" field and type a name for the map. For this example "**major cabinet**" was typed.
-
-![](/img/downloads/01-create-element-type-node_12.jpeg)
-
-
-14\. **Option 2:** Click "**Edit**" button.
-
-![](/img/downloads/01-create-element-type-node_13.jpeg)
-
-
-15\. **Option 2:** The new Map Style window will open. Click "**Type**" dropdown and select **Node**.
-
-![](/img/downloads/01-create-element-type-node_14.jpeg)
-
-
-16\. **Option 2:** Click "**icon**" field and select an icon. The selected icon is the one that will be posted on the map anytime a new element type is created.
-
-![](/img/downloads/01-create-element-type-node_15.jpeg)
-
-
-17\. **Option 2:** Click "**apply**" button.
-
-![](/img/downloads/01-create-element-type-node_16.jpeg)
-
-
-**Tip:** At this point the default style has been assigned.
-
-
-18\. Click "**Add/Edit**" option.
+12\. Click "**Add/Edit**" option.
 
 ![](/img/downloads/01-create-element-type-node_17.jpeg)
 
 
-19\. Remember that an element can be added to the project and layer by right clicking on the map or by following the menu "**Operations &gt; New element**". When creating a new element type, in this section you define where the element can be added from:
+13\. Remember that an element can be added to the project and layer by right clicking on the map or by following the menu "**Operations &gt; New element**". When creating a new element type, in this section you define where the element can be added from:
 
 Map, menu or both options.
 
@@ -148,7 +101,7 @@ Map, menu or both options.
 ![](/img/downloads/01-create-element-type-node_18.jpeg)
 
 
-20\. Click "**Relations**" option.As a node element type, the relations that can be defined are:
+14\. Click "**Relations**" option.As a node element type, the relations that can be defined are:
 
 - Maximum conected links -
 - Can be end of -
@@ -156,17 +109,17 @@ Map, menu or both options.
 ![](/img/downloads/01-create-element-type-node_19.jpeg)
 
 
-21\. Click "**Apply**" button.
+15\. Click "**Apply**" button.
 
 ![](/img/downloads/01-create-element-type-node_20.jpeg)
 
 
-22\. A program message will apear, indicating the changes are running in the background. Click "**Close**" button.
+16\. A program message will apear, indicating the changes are running in the background. Click "**Close**" button.
 
 ![](/img/downloads/01-create-element-type-node_21.jpeg)
 
 
-23\. Click "**Close**" button.
+17\. Click "**Close**" button.
 
 ![](/img/downloads/01-create-element-type-node_22.jpeg)
 

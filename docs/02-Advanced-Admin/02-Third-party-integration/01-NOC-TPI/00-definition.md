@@ -3,7 +3,7 @@ sidebar_position: 0
 ---
 # Definition
 
-This guide will help you understand **Thid party integrations** with NOC in APX GIS programme.
+This guide will help you understand **Third party integrations** with NOC in APX GIS programme.
 
 ------------
 

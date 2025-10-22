@@ -3,7 +3,7 @@ sidebar_position: 0
 ---
 # Basic Setup
 
-This guide will help you understand the different **Screens** for thid party integrations in APX.
+This guide will help you understand the different **Screens** for third party integrations in APX.
 
 ------------
 
