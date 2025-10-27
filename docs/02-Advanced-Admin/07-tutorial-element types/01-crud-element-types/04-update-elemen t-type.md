@@ -13,8 +13,8 @@ This guide will help you delete an **Element type** in the programme.
 
 ------------
 
-**Version**: 00
-**Date**: January-2024
+**Version**: 5.4
+**Date**: October 2025
 
 ------------
 ## **Step by Step**
@@ -37,47 +37,19 @@ This guide will help you delete an **Element type** in the programme.
 ![](/img/downloads/04-update-element-type_3.jpeg)
 
 
-5\. The element type window will show al the chracteristics set for the element type.
+5\. The element type window will show all the catacteristics set for the element type.
 
-You can edit the enabled fields. These fields may vary somewhat depending on the element type.
+Modify all fields and checkboxes as required.
 
-For this example the **default Theme Style** under "**Map options**" is being modifyed
-
-![](/img/downloads/04-update-element-type_4.jpeg)
-
-
-6\. Click the **default Theme Style**. For this example "default facade" was clicked.
-
-![](/img/downloads/04-update-element-type_5.jpeg)
-
-
-7\. Type the name of the Map style you need to use and hit &lt;Enter&gt;.  For this example  "**canalization**" style was typed.
-
-\
- All **Map style**s are available on the route: **Administration &gt; Map Styles** (See Map Styles documentation)
-
-![](/img/downloads/04-update-element-type_6.jpeg)
-
-
-8\. If you need to edith the title, click "**Title**" field. 
-
-![](/img/downloads/04-update-element-type_7.jpeg)
-
-
-9\. Type the new **Title**. For this example "north-link-special" was typed.
-
-![](/img/downloads/04-update-element-type_8.jpeg)
-
-
-10\. Click "**Apply**" button.
+6\. Click "**Apply**" button.
 
 ![](/img/downloads/04-update-element-type_9.jpeg)
 
-11\. If any changes were made to the style, a pop up will apear, indicating that a resource consuming recalculation map styles of all elements of this type will start running in the background. Click "**Close**" button.
+7\. If any changes were made to the style, a pop up will apear, indicating that a resource consuming recalculation map styles of all elements of this type will start running in the background. Click "**Close**" button.
 
 ![](/img/downloads/01-create-element-type-node_21.jpeg)
 
-12\. Then you can click "**Close**" button.
+8\. Then you can click "**Close**" button.
 
 ![](/img/downloads/04-update-element-type_11.jpeg)
 
