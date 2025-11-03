@@ -141,3 +141,5 @@ This option works the same as the previous one but the dropdown will show all AP
 ### Custom function
 
 In APX it is also possible to have more complex conditions. Please contact our support team if you want a custom function to be created to exactly fit your needs.
+
+![](/img/9.Styles/cond-styles15.png)
