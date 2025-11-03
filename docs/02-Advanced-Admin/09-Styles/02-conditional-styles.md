@@ -19,13 +19,11 @@ All conditional styles are managed from the screen of each element type **Admini
 
 ![](/img/downloads/01-create-element-type-node_2.jpeg)
 
-In this example we will look at a splicebox but all conditional styles work the same way for any element type.
+In this example we will look at a Central node, but all conditional styles work the same way for any element type.
 
-To manage conditional styles go to the "**Map options**" tab:
+To manage conditional styles go to the "**Map options**" tab and tick the "_Show in map_" check box.
 
-![](/img/9.Styles/cond-styles01.png)
-
-A table will be displayed showing a row for each theme and the following collumns:
+A table will be displayed showing a row for each theme and the following columns:
 
 * [Style](#style)
 * [S. with elements](#s-with-elements)
@@ -62,7 +60,7 @@ Type a map style in this cell just as described above.
 
 If an element of this type has elements inside, will be drawn in this style instead of the first column.
 
-In this case a central node with elements inside will be displayed with the map style _"cpd_cpd_with_elements"_ instead of the style _"cpd"_
+In this case a central node with elements inside will be displayed with the map style _"cpd_with_elements"_ instead of the style _"cpd"_
 
 As an example, following the styles used so far this is how a cpd would look like empty:
 
@@ -76,7 +74,7 @@ And as soon as you put an element inside like a Joint for instance, the style wi
 
 As expected there is the reversed conditional style for the times the element is inside other elements.
 
-It works the same way, if the element is found inside another element will take the style definded here however, a usual practice is to use the keyword "**hidden**"
+It works the same way, if the element is found inside another element, it will take the style definded there however, a usual practice is to use the keyword "**hidden**"
 
 "**Hidden**" is not a map style per se, but when used in this situation will make the program not draw the element while still being there.
 
@@ -114,13 +112,13 @@ Click the "**add**" button as many times as key-style pairs you want to have. Th
 
 ![](/img/9.Styles/cond-styles12.png)
 
-In this case, Central Nodes will be yellow when they have the status "Planned", orange when they have the status "Installed, light green when they have the status "Tested" and dark green when they have the status "Live". If it doesn't have a status, or another status other than the previously mentioned, it will be black.
+In this case, Central Nodes will be yellow when they have the status "Planned", orange when they have the status "Installed", light green when they have the status "Tested" and dark green when they have the status "Live". If it doesn't have a status, or another status other than the previously mentioned, it will be black.
 
 **Tip**: To make sure you type the correct "_code_" of the status check under Administration &gt Codifiers &gt Element State.
 
 ![](/img/9.Styles/cond-styles13.png)
 
-**Note**: Sometimes the "_code_" of a status is not what you see on the dropdown of the element, so make sure you type it correctly.
+**Note**: Sometimes the "_code_" of a status is not what you see on the dropdown of the element, so make sure you check the value in the column "_code_".
 
 ### By Ufield
 
