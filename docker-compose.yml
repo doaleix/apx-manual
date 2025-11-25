@@ -1,0 +1,12 @@
+version: '3.3'
+
+services:
+
+   apx_manual:
+     image: nginx:alpine
+     container_name: apx-manual
+     restart: always
+     ports:
+       - "81:81"
+     volumes:
+       - ./5.3:/usr/share/nginx/html/5.3
