@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktesting_one=globalThis.webpackChunktesting_one||[]).push([[7224],{1674:e=>{e.exports=JSON.parse('{"permalink":"/user-manual/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
