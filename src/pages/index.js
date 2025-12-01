@@ -1,9 +1,10 @@
-import React from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import  { Redirect } from 'react-router-dom';
+import Layout from '@theme/Layout';
+import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
+import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 function HomepageHeader() {
@@ -11,7 +12,9 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
+        <Heading as="h1" className="hero__title">
+          {siteConfig.title}
+        </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
@@ -25,9 +28,16 @@ function HomepageHeader() {
   );
 }
 
-
-
 export default function Home() {
-  return <Redirect to='/docs/intro' />;
+  return (
+    <Layout title="APX-GIS Manual" description="APX-GIS Documentation">
+      <main style={{padding: '2rem'}}>
+        <h1>APX-GIS Manuals</h1>
+        <ul>
+          <li><a href="/user-manual/5.3/">Version 5.3</a></li>
+          <li><a href="/user-manual/5.4/">Version 5.4</a></li>
+        </ul>
+      </main>
+    </Layout>
+  );
 }
-
