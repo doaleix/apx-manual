@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunktesting_one=globalThis.webpackChunktesting_one||[]).push([[9817],{34485:e=>{e.exports=JSON.parse('{"permalink":"/user-manual/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
