@@ -72,6 +72,10 @@ f. **Projects**
 
 * [Select All]
     
-**Note**: If the user has been created automatically via OpenID Connect the credentials will be ReadOnly and can't be modified in APX. See <u>[Sing in chapter](../../../01-tutorial-fundamentals/sign-in.md#introduction)</u> for more information about OIDC.
+**Note1**: If the user has been created automatically via OpenID Connect the credentials will be ReadOnly and can't be modified in APX. See <u>[Sing in chapter](../../../01-tutorial-fundamentals/sign-in.md#introduction)</u> for more information about OIDC.
 
 ![](/img/2.Users/UsersUpdate5.png)
+
+**Note2**: If the user has been created automatically via the API token management there will be no login associated to it.
+
+![](/img/2.Users/UsersUpdate6.png)
