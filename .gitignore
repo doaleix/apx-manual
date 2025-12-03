@@ -16,6 +16,7 @@ package-lock.json
 .env.test.local
 .env.production.local
 download_images.py
+deploy.sh
 
 npm-debug.log*
 yarn-debug.log*
