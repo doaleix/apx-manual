@@ -36,6 +36,7 @@ export default function Home() {
         <ul>
           <li><a href="/user-manual/5.3/">Version 5.3</a></li>
           <li><a href="/user-manual/5.4/">Version 5.4</a></li>
+          <li><a href="/user-manual/5.5/">Version 5.5</a></li>
         </ul>
       </main>
     </Layout>
