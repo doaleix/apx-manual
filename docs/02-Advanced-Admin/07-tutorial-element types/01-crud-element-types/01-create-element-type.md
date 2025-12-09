@@ -13,8 +13,8 @@ This guide will help you create a new **Element type** in the programme.
 
 ------------
 
-**Version**: 5.4
-**Date**: October 2025
+**Version**: 5.5
+**Date**: December 2025
 
 ------------
 
@@ -126,6 +126,21 @@ Map, menu or both options.
 
 ![](/img/downloads/01-create-element-type-node_19.jpeg)
 
+### Icons Size
+
+Only when creating an element type of **node** type that have the descriptive icon option selected, the Icons Size tab will be available.
+
+This tab allows to set the icon size of each element type individually, so that every element type can have a different size for each zoom level, divided into smSize, mdSize, and lgSize.
+
+![](/img/downloads/iconSize.png)
+
+The component includes a preview showing how the selected size will look at different zoom levels, and a button called "Set Default Icon Size". This button applies the values from the parameter used for the global size of all icons, making the element type subject to that parameter. If the parameter value changes, the size of that element type will also change accordingly.
+
+The parameters mentioned are:
+
+* style.map.node.lg.size
+* style.map.node.md.size
+* style.map.node.sm.size
 
 15\. Click "**Apply**" button.
 
@@ -136,13 +151,10 @@ Map, menu or both options.
 ![](/img/downloads/01-create-element-type-node_22.jpeg)
 
 
-**Tip:** Node element type created.
-
-
 **Important:** At this point you have created the element type that can only be used in the general layer. 
 
 
 To be able to use this element type in other layers, you have to assign it to the layer via the menu: **Administration > Admin Layers > "Layer" > Allowed Element Types**.
 
 
-See "**Add element type to a layer**" procedure.
+See [**Add element type to a layer**](../../04-tutorial-layers/02-add-elemtype-layer.md) procedure.

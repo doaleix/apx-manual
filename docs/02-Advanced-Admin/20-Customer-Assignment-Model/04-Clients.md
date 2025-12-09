@@ -29,6 +29,6 @@ The screen will show the list of existing clients, simply click on one of the cl
 The five fields of the form are free text, the "**ID**" and the "**Name**" fields are mandatory, but only the "**ID**" must be unique.
 When filled up the "**Apply**" button will illuminate allowing to save the new client.
 
-The **ID** field is auto-populated using a counter but can be modified as required. To learn more about counters check the documentation about <u>[counters](../07-tutorial-element%20types/08-counters/08-counters.md)</u>
+The **ID** field is auto-populated using a counter but can be modified as required. To learn more about counters check the documentation about <u>[counters](../08-counters/08-counters.md)</u>
 
 ![](/img/Customer-Assignment-Model/CAM-client07.png)

@@ -64,7 +64,7 @@ Click on the icon field box to see all available icons:
 
 ![](/img/9.Styles/styles04.png)
 
-More information on how to manage icons can be found in the <u>[icons section](../07-tutorial-element%20types/06-Icons/02add-new-icon.md)</u>
+More information on how to manage icons can be found in the <u>[icons section](../06-Icons/02add-new-icon.md)</u>
 
 "**Icon ancor**" is a read-only field, defined in the System styles explained below on this page.
 

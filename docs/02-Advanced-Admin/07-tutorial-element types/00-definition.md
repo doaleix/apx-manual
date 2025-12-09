@@ -6,13 +6,14 @@ sidebar_position: 0
 
 # Element types
 
-**Element types** represent parts of the fibre optic network to be included in the projects. When APXGIS is installed or accessed for the first time from the Cloud, default elements are set up.
+**Element types** represent the different categories of elements found in a fibre optic network. When APXGIS is installed or accessed for the first time from the Cloud, default elements types are already created.
 
-Different elements can be created at any time via the menu 
+New element types can be created at any time via the menu 
 
 **Administration > Element Types > +Add**.
 
-## **Prerequisites**
+**Prerequisites**
+
 1.	No prerequisites.
 
 ------------

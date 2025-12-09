@@ -7,11 +7,11 @@ sidebar_position: 3
 This guide will help you manage **Element counters** for the whole installation.
 
 ## **Prerequisites**
-1.	**User ID** and **Password** to access APXGIS programme.
+**User ID** and **Password** to access APXGIS programme.
 
 ** Standard roles allowed to perform the following steps in the programme **
 
-1.	**Administrator**
+**Administrator**
 
 ------------
 
@@ -28,7 +28,7 @@ The menu item is located under the administration section. Once inside, several 
 ![](/img/Counters/counters1.png)
 ---
 
-## 1 Add Counter Button
+## 1. Add Counter Button
 Clicking this button will open the counter creation form, which includes the fields: **name**, **format**, and **last**. Additionally, a help message will be displayed to explain how the counter works.  
 
 As a restriction, the initial value of the counter (**last**) is set to **1** by default and cannot be lower. The counter's name is completely independent of the entity name and serves purely as an identifier for the user. The **name** and **format** fields are optional.
@@ -36,7 +36,7 @@ As a restriction, the initial value of the counter (**last**) is set to **1** by
 ![](/img/Counters/counters2.png)
 ---
 
-## Entity Filter
+## 2. Entity Filter
 The entity filter is a multi-selector that displays counters linked to specific entities. By default, the filter is preselected with all entities when the form is opened and updates dynamically when counter-entity relationships are modified.  
 
 To search for counters that are not linked to any entity, all options must be selected.
@@ -44,7 +44,7 @@ To search for counters that are not linked to any entity, all options must be se
 ![](/img/Counters/counters3.png)
 ---
 
-## Counter Table
+## 3. Counter Table
 The counter table displays the records resulting from applying the entity filter. Each record includes four elements:  
 1. **Counter Name**  
 2. **A section displaying the referencing entities** via tags  
@@ -61,7 +61,7 @@ Additionally, there is an extra restriction: if the counter is linked to an enti
 
 ---
 
-## Entity Edit Button
+## 4. Entity Edit Button
 Clicking the **Entity Edit** button opens a modal displaying the entities linked to the counter.  
 
 Users can:  
@@ -76,7 +76,7 @@ To exit the entity edit modal, users must click the **X** in the top-right corne
 
 ---
 
-## Form Footer
+## 5. Form Footer
 The footer displays:  
 - A **Save Changes** button for updating counter-entity relationships.  
 - A **Cancel** button.  
