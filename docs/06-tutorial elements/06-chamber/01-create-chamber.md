@@ -90,7 +90,7 @@ Click the element that has been created.
 ![](/img/downloads/01-create-chamber_10.jpeg)
 
 
-12\. The "**pop up elemen**t" window will open. Click the description of the element, for this example "- **Privately Owned**" was selected.
+12\. The pop-up window will open. Click the description of the element, for this example "- **Privately Owned**" was selected.
 
 ![](/img/downloads/01-create-chamber_11.jpeg)
 

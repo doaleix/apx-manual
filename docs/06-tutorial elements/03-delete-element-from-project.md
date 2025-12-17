@@ -2,50 +2,29 @@
 sidebar_position: 4
 ---
 
-# Delete element from project
+# Delete element
 
-This guide will help you delete an **Element** from a project.
+This guide will help you delete an **Element** from a APX.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.
 
 ------------
 
-**Version**: 00
-**Date**: February-2024
+**Version**: 5.5
+**Date**: December-2025
 
 ------------
 ## **Step by Step**
 
-1\. Navigate to [https://app.apx-gis.net/#/](https://app.apx-gis.net/#/)
+1\. Navigate to where the element is.
 
-
-2\. Click "**Select Project**" dropdown.
-
-![](/img/downloads/03-delete-element-from-project_1.jpeg)
-
-
-3\. Select the project. For this example "**north-project**" was selected.
-
-![](/img/downloads/03-delete-element-from-project_2.jpeg)
-
-
-4\. The project area and the close projects will be displayed on the map. To hide the close project area (grey area) click  "**Tools**" option.
-
-![](/img/downloads/03-delete-element-from-project_3.jpeg)
-
-
-5\. Select "**Hide close project area**" option.
-
-![](/img/downloads/03-delete-element-from-project_4.jpeg)
-
-
-6\. Click over the element you wish to delete. For this example a chamber was clicked.
+2\. Click over the element you wish to delete. For this example a chamber was clicked.
 
 ![](/img/downloads/03-delete-element-from-project_5.jpeg)
 
 
-7\. Click the description of the element you wish to delete. For this example, "**- north chamber 04**" was selected.
+7\. Click the element hyperlink. For this example, "**- north chamber 04**" was selected.
 
 ![](/img/downloads/03-delete-element-from-project_6.jpeg)
 
@@ -60,4 +39,4 @@ This guide will help you delete an **Element** from a project.
 ![](/img/downloads/03-delete-element-from-project_8.jpeg)
 
 
-**Tip:** Element was removed from the project.
+**Outcome:** Element was removed from the project.
