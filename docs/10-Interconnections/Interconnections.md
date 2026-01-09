@@ -23,3 +23,73 @@ In fiber optic network management, understanding and managing the interconnectio
 ## Distribution
 
 The layout of the interconnexions screen has been designed to have an intuitive behaviour and improve the user experience. The header takes the full width of the screen to properly display the element type and code, the interconnections at the parent level and the last changes. Moreover, the view mode selector can be found in this header. 
+
+![](/img/downloads/intercon-01.png)
+
+The distribution of the screen is composed of:
+
+1. **Header**: Interconnection element type and code, last changes, parent element interconnection and view mode selector
+
+2. **Interactive whiteboard**: Interactive zone where users can interact with the interconnection elements, performing actions like dragging, connecting, rearranging…
+
+3. **Whiteboard options**: Template management and whiteboard general options like zoom, background colour, opacity and the show info button (which displays the connector, tray and the service if they are set in a floating label near the interconnection). This section is only available while in visual schema mode.
+
+4. **Elements list**: List of the interconnection elements, users can filter the elements, check/uncheck the elements or perform the “center” or “move to” actions in specific elements.
+
+![](/img/downloads/intercon-02.png)
+
+## Templates
+
+The interconnections feature has it's own template system to allow users saving different configurations for the same interconnection view. By default, when users enter the screen, the “default” configuration is selected and they can select among the multiple templates previously stored for that element. This template section offers a set of different actions:
+
+1. **New**: Create a new template, only available while no template is selected
+2. **Save** a preexisting template
+3. **Create** a new template given another template
+4. **Rename**: Change the template name
+5. **Delete** the template
+
+The preexisting template for each element, takes the name of “ICX”. The fields stored for each template are:
+* Zoom
+* Background color
+* Opacity
+* Elements UI
+  * Position
+  * Visibility
+  * Rotated (if possible)
+  * Stacked (if possible)
+
+![](/img/downloads/intercon-03.png)
+
+## Functionalities
+
+### Patch panel
+
+This is a built-in networkclient functionality and a type named patch panel. Network clients with this functionality have their connectors arranged in a single dimension (x or y axis) depending on the rotation value.
+
+![](/img/downloads/intercon-04.png)
+
+### Rotate
+
+**Cables, distribution points, ducts, microducts, olts and patch panels** have a semi-circular button that changes the orientation of the element and the connectors.
+
+![](/img/downloads/intercon-05.png)
+
+### Stack
+
+**Cables, distribution points, ducts and microducts** have an inverted triangle to collapse and stack the connectors by shrinking their size and hiding the connector name.
+
+![](/img/downloads/intercon-06.png)
+
+### Colorpattern tubes
+
+The colorpattern tubes are visually displayed with a small gap to allow users to recognise in an easier way the colorpattern distribution of the cable.
+
+![](/img/downloads/intercon-07.png)
+
+## Screenshots
+
+Visual Schema
+
+![](/img/downloads/intercon-08.png)
+![](/img/downloads/intercon-09.png)
+![](/img/downloads/intercon-10.png)
