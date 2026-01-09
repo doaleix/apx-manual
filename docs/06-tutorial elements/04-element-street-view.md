@@ -15,7 +15,7 @@ This guide will help you understand how the Street view of an **Element** from a
 **Date**: December-2025
 
 ------------
-## **Introduciont**
+## **Introducion**
 
  Starting with version 5.5 in the element form as a new tab that displays the surrounding street view area of the element. In this version, we introduce two modes: dynamic, where users can navigate through the street view using the move, pan, and zoom functions, while displaying a 3D representation of the elements on the screen. On the other hand, the static mode just offers an image of the surrounding area. As a
  limitation, the polygon element types do not provide support for this new functionality.
