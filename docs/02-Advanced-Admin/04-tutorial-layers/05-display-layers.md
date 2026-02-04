@@ -14,8 +14,8 @@ This guide will help you **display elements of a layer** in the programme.
 
 ------------
 
-**Version**: 00
-**Date**: March 2024
+**Version**: 5.6
+**Date**: February 2026
 
 ------------
 ## **Step by Step**
@@ -42,7 +42,21 @@ This guide will help you **display elements of a layer** in the programme.
 
 ![](/img/downloads/05-display_layers_4.jpeg)
 
-6
+
+### Find Layers
+
+In every element form the Find Layers component displays dynamic layers using the same icons described in the previous section. Depending on the context, dynamic layers may appear as read-only or selectable:
+
+  * **Assign mode**: When the component is used to directly assign elements to layers (e.g., on element forms or during imports), dynamic layers are read-only. Users cannot assign elements manually to dynamic layers, since these are computed automatically.
+
+  * **Search mode**: When the component is used for filtering or searching (e.g., on SED or search element components), dynamic layers are selectable, allowing users to include them as search criteria.
+
+![](/img/GEN-LAY-DEF/dynamic-layer02.png)
+
+Additionally, in element forms, if there are dynamic layers with a filterset of the same element type processing a task, the component displays a warning message.
+
+![](/img/GEN-LAY-DEF/dynamic-layer03.png)
+
 **Outcome:** Layers selected and elements belonging to those layers displayed.
 
 

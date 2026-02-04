@@ -13,8 +13,8 @@ This guide will help you **add a layer** in the programme.
 
 ------------
 
-**Version**: 5.3
-**Date**: June 2025
+**Version**: 5.6
+**Date**: February 2026
 
 ------------
 ## **Step by Step**
@@ -88,15 +88,27 @@ Different options will be shown in the dropdown:
 
 ![](/img/downloads/01-add-layer_11.jpeg)
 
+## Layer attributes
 
-13\. Click "**Apply**" button.
+At the end of the form there are severa checkbox to give different attributes to the layers. Most of them are self-explanatory but the dynamic attribute is worth diving in a little more depth.
 
-![](/img/downloads/01-add-layer_12.jpeg)
+In APX, elements can belong to one or multiple layers. Traditionally, this association is always created manually, either by editing an element in the APX interface, using bulk operations, or importing data. Once assigned, the relationship remains unchanged unless a user explicitly modifies it.
 
+A Dynamic Layer is a special type of layer that automatically determines which elements belong to it based on element type filters. Instead of manually assigning or removing elements, the system continuously evaluates these rules and keeps the layer up to date.
 
-14\. Click "**Close**" button.
+When an element matches the filtersets defined for a Dynamic Layer, it is automatically added to that layer. If it no longer matches, it is automatically removed. This evaluation is handled in the background, ensuring that the layer content always reflects the current state of the data.
 
-![](/img/downloads/01-add-layer_13.jpeg)
+### Manual Layers
 
+This layers are assigned explicitly. Elements are added or removed directly by the user through the APX interface, bulk operations, or imports.
 
-**Tip:** The layer has been created.
+### Dynamic Layers
+
+Only **Normal** and **APX WMS** layers can have this attribute. When enabled, they  cannot have elements assigned directly. Instead, elements are automatically included or excluded based on whether they meet the criteria defined by the layer’s filtersets. Users can manage the filtersets themselves to control which elements belong to the dynamic layer.
+
+Dynamic layers are marked in the component with a bolt icon. There are two possible statuses for the dynamic layer:
+
+  1. **OK**: The dynamic layer does not have any broken filterset and is displayed in blue.
+  2. **Broken**: The dynamic layer has at least one broken filterset and needs manual intervention. The icon is displayed in red.
+
+![](/img/GEN-LAY-DEF/dynamic-layer01.png)

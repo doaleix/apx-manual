@@ -33,7 +33,7 @@ This guide will help you **add element type to layer** in the programme.
 ![](/img/downloads/02-add-elemtype-layer_2.jpeg)
 
 
-4\. Select the layer to whick the element type will de added- For this example "north-design" layer is selected.
+4\. Select the layer to which the element type will de added- For this example "north-design" layer is selected.
 
 ![](/img/downloads/02-add-elemtype-layer_3.jpeg)
 
