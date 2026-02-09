@@ -14,7 +14,7 @@ const config = {
   url: 'https://app.apx-gis.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/user-manual/5.5/',
+  baseUrl: '/user-manual/5.6/',
   trailingSlash: true,
 
   // GitHub pages deployment config.
