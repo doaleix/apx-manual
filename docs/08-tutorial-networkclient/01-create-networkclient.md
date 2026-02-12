@@ -2,17 +2,19 @@
 sidebar_position: 1
 ---
 
-# Add Networkclient
+# Add new Networkclient type
 
 This guide will help you create a **networkclient** in the programme.
 
-## **Prerequisites**
-1.	**User ID** and **Password** to access APXGIS programme.
+**Standard roles allowed to perform the following steps in the programme**
+
+1.	**Administrator**
+2.  **Planner**
 
 ------------
 
-**Version**: 00
-**Date**: February-2024
+**Version**: 5.6
+**Date**: February-2026
 
 ------------
 ## **Step by Step**
@@ -34,26 +36,8 @@ This guide will help you create a **networkclient** in the programme.
 
 5\. **Networkclient** type window will open. Click "**Name**" field and type the networkclient name. For this example "**main-splitter**" was typed.
 
-![](/img/downloads/01-create-networkclient_4.jpeg)
+![](/img/downloads/01-create-networkclient_4.png)
 
-6\. Click "**Custom fields table name**" checkbox.
+7\. Click "**Icon**" field, select an icon and click "**Apply**" to save the new networkclient type.
 
-![](/img/downloads/01-create-networkclient_5.jpeg)
-
-7\. Click "**Icon**" field.
-
-![](/img/downloads/01-create-networkclient_6.jpeg)
-
-8\. Select an icon. 
-
-![](/img/downloads/01-create-networkclient_7.jpeg)
-
-9\. Click "**Apply**" button.
-
-![](/img/downloads/01-create-networkclient_8.jpeg)
-
-10\. Click "**Close**" button.
-
-![](/img/downloads/01-create-networkclient_9.jpeg)
-
-**Tip:** Networkclient created successfully.
+Once created, any element that can hold interconnections will have the option to add this networkclient inside it.

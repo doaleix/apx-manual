@@ -86,6 +86,25 @@ The colorpattern tubes are visually displayed with a small gap to allow users to
 
 ![](/img/downloads/intercon-07.png)
 
+### Port labels
+
+Within the visual schema, interconnection objects are created including labels for each corresponding port. These labels are displayed with a dashed outline and grey color.
+This visual representation makes port labels clearly identifiable while keeping them visually secondary to the main objects.
+
+![](/img/downloads/intercon-11.png)
+
+On the right-hand side of the interface, a toggle button allows users to activate or deactivate port labels.
+
+
+When the toggle state changes, the page is refreshed and Interconnection objects are recreated with labels enabled/disabled.
+
+This provides flexibility to switch between a more detailed or a cleaner visual representation as needed.
+
+![](/img/downloads/intercon-12.png)
+
+Additionally, in the **Operator View** screen Port labels are displayed in parentheses next to the port name within the table.
+This ensures that port labeling information is consistently available to operators, both in the visual schema and in the tabular representation.
+
 ## Screenshots
 
 Visual Schema

@@ -5,15 +5,19 @@ set -e
 
 TARGET_DIR=""
 SKIP_BUILD=false
+ADD_LANDING_MOD=false
 
 # Parse arguments (order does not matter)
 for arg in "$@"; do
     if [ "$arg" = "--sb" ]; then
         SKIP_BUILD=true
+    elif [ "$arg" = "--al" ]; then
+        ADD_LANDING_MOD=true
     else
         TARGET_DIR="$arg"
     fi
 done
+
 if [ -z "$TARGET_DIR" ]; then
     echo "❌ TARGET_DIR is required"
     exit 1
@@ -55,3 +59,16 @@ echo "📁 Copying build/ to newapx"
 scp -r "$BUILD_DIR"/* "newapx:$REMOTE_PATH"
 
 echo "✅ Deployment complete!"
+
+if [ "$ADD_LANDING_MOD" = true ]; then
+    echo "🔨 Deploying landing site mod..."
+    git checkout landing-site
+    echo "✏️  Updating href tag"
+    sed -i -E "s|return <li><a href=\"/user-manual/5.6/\">Version 5.6</a></li>;|return <Redirect to='/user-manual/$TARGET_DIR/intro' />;|g" "$INDEX_FILE"
+    ./deploy-landing.sh
+else
+    echo "⏭️  Skipping landing site mod deployment"
+fi
+
+
+
