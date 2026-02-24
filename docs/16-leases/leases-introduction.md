@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Leases introduction
+# Introduction
 
 This guide will help you undestand how to **lease** infrastructure in APX.
 
@@ -19,7 +19,7 @@ This functionality provides a clearer and more structured way to understand how 
 
 The system improves operational clarity by making it easier to identify which elements are leased, their current status, and their validity period. It also strengthens traceability and governance, helping users ensure that leasing decisions are consistent, well-documented, and aligned with operational rules.
 
-##  Admin Leases Components
+##  Components
 
 This menu entry can be found on Operations &gt Admin Leases. This screen shows the list of all the leases in the system. Leases can be filtered to create sublists and can be exported.
 

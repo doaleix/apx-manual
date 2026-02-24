@@ -1,6 +1,19 @@
-## Element Lease
+---
+sidebar_position: 2
+---
 
-This tab can be found on  ducts, subducts, cables and fibre  forms. The tab contains a history of all the leases assigned to the element (ordered by active leases first), a section to include the element in a lease if the element is leasable (check the validation rules section) and finally, two buttons, one to navigate to the Admin Leases screen and another to directly create a new lease. In case the lease is not leasable, a warning with the reason will be displayed.
+# Element Lease
+
+This tab can be found on  ducts, subducts, cables and fibre  forms. 
+
+------------
+
+**Version**: 5.6
+**Date**: February 2026
+
+------------
+
+The tab contains a history of all the leases assigned to the element (ordered by active leases first), a section to include the element in a lease if the element is leasable (check the validation rules section) and finally, two buttons, one to navigate to the Admin Leases screen and another to directly create a new lease. In case the lease is not leasable, a warning with the reason will be displayed.
 
 ![](/img/leases/image_9.png)
 

@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'APX-Gis Manual v5.5',
+  title: 'APX-Gis Manual v5.6',
   tagline: 'Your best GIS solution',
   favicon: 'img/favicon.ico',
 
