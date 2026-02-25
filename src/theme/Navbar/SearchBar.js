@@ -1,29 +1,33 @@
 import React, { useEffect, useState } from 'react';
-import { Index } from 'flexsearch';
+import FlexSearch from 'flexsearch';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 export default function SearchBar() {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState([]);
   const [index, setIndex] = useState(null);
-  const [documents, setDocuments] = useState({});
+  const [docs, setDocs] = useState([]);
+
+  const searchJsonUrl = useBaseUrl('search-index.json');
 
   useEffect(() => {
-    fetch('/search-index.json')
-      .then((r) => r.json())
-      .then((data) => {
-        // data = { index: ..., docs: ... }
-        const idx = new Index(data.options);
-        idx.import(data.index);
-
+    fetch(searchJsonUrl)
+      .then(r => r.json())
+      .then(data => {
+        const idx = new FlexSearch.Document({
+          document: {
+            id: 'id',
+            index: ['title', 'content'],
+          },
+        });
+        data.docs.forEach(doc => idx.add(doc));
         setIndex(idx);
-        setDocuments(data.docs);
+        setDocs(data.docs);
       })
-      .catch((e) => {
-        console.error('Search index load failed', e);
-      });
-  }, []);
+      .catch(e => console.error('Search index failed to load', e));
+  }, [searchJsonUrl]);
 
-  function onChange(e) {
+  const onChange = e => {
     const q = e.target.value;
     setQuery(q);
 
@@ -32,36 +36,48 @@ export default function SearchBar() {
       return;
     }
 
-    const ids = index.search(q, 10);
-    const docs = ids.map((id) => documents[id]).filter(Boolean);
+    // Search across all indexed fields
+    const fieldResults = index.search(q, { index: ['title', 'content'] });
 
-    setResults(docs);
-  }
+    // Flatten results and extract unique IDs
+    const uniqueIds = new Set();
+    fieldResults.forEach(fieldArray => {
+      fieldArray.forEach(r => {
+        if (r && r.id != null) uniqueIds.add(r.id);
+      });
+    });
+
+    // Map IDs to original docs
+    const matchedDocs = Array.from(uniqueIds)
+      .map(id => docs.find(d => d.id === id))
+      .filter(Boolean);
+
+    setResults(matchedDocs);
+  };
 
   return (
     <div style={{ position: 'relative' }}>
       <input
         type="search"
-        placeholder="Search…"
+        placeholder="Search docs…"
         value={query}
         onChange={onChange}
         style={{
+          minWidth: 220,
           height: 32,
           padding: '0 8px',
           borderRadius: 6,
           border: '1px solid #ccc',
-          minWidth: 220,
         }}
       />
-
       {results.length > 0 && (
         <div
           style={{
             position: 'absolute',
             right: 0,
             top: 36,
-            background: 'var(--ifm-background-surface-color)',
-            border: '1px solid var(--ifm-color-emphasis-300)',
+            background: 'white',
+            border: '1px solid #ccc',
             borderRadius: 6,
             minWidth: 260,
             zIndex: 9999,
@@ -69,7 +85,7 @@ export default function SearchBar() {
             overflowY: 'auto',
           }}
         >
-          {results.map((r) => (
+          {results.map(r => (
             <a
               key={r.id}
               href={r.url}

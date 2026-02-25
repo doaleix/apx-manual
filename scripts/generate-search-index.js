@@ -1,19 +1,18 @@
 const fs = require('fs');
 const path = require('path');
-const { Index } = require('flexsearch');
+const FlexSearch = require('flexsearch');
 
 const docsDir = path.join(__dirname, '../docs');
 const outFile = path.join(__dirname, '../static/search-index.json');
 
-const indexOptions = {
-  tokenize: 'forward',
-  cache: true,
-  context: true,
-};
+const index = new FlexSearch.Document({
+  document: {
+    id: 'id',
+    index: ['content', 'title'], // search on content and title
+  },
+});
 
-const index = new Index(indexOptions);
-const docs = {};
-
+const docs = [];
 let id = 0;
 
 function walk(dir) {
@@ -40,27 +39,28 @@ function walk(dir) {
 
     const url = `/docs/${rel}`;
 
-    index.add(id, raw);
-
-    docs[id] = {
+    const doc = {
       id,
       title,
+      content: raw,
       url,
     };
 
+    index.add(doc);
+    docs.push(doc);
     id++;
   }
 }
 
 walk(docsDir);
 
-const exported = {
-  index: index.export(),
-  docs,
-  options: indexOptions,
-};
-
 fs.mkdirSync(path.dirname(outFile), { recursive: true });
-fs.writeFileSync(outFile, JSON.stringify(exported));
+fs.writeFileSync(
+  outFile,
+  JSON.stringify({
+    docs,
+  }),
+  'utf8'
+);
 
-console.log('Search index written to', outFile);
+console.log('✅ Search index written to', outFile);
