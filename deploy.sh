@@ -32,6 +32,9 @@ sed -i -E "s|return <Redirect to=['\"]/user-manual/[0-9]+\.[0-9]+/intro['\"] />;
 echo "✏️  Updating baseUrl in $CONFIG_FILE"
 sed -i "s|baseUrl:[[:space:]]*['\"][^'\"]*['\"]|baseUrl: '/user-manual/$TARGET_DIR/'|g" "$CONFIG_FILE"
 
+echo "✏️  Updating title in $CONFIG_FILE"
+sed -i "s|title:[[:space:]]*'APX-Gis Manual v[^']*'|title: 'APX-Gis Manual v$TARGET_DIR'|g" "$CONFIG_FILE"
+
 # Build unless --skip-build was passed
 if [ "$SKIP_BUILD" = false ]; then
     echo "🔨 Building Docusaurus site..."
