@@ -41,9 +41,11 @@ export default function SearchBar() {
 
     // Flatten results and extract unique IDs
     const uniqueIds = new Set();
+    if (!Array.isArray(fieldResults)) fieldResults = [fieldResults];
+    console.log(fieldResults); // Ensure it's an array of arrays
     fieldResults.forEach(fieldArray => {
-      fieldArray.forEach(r => {
-        if (r && r.id != null) uniqueIds.add(r.id);
+      fieldArray.result.forEach(r => {
+        if (r != null) uniqueIds.add(r);
       });
     });
 
