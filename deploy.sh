@@ -13,15 +13,15 @@ for arg in "$@"; do
     if [ "$arg" = "--help" ] || [ "$arg" = "-h" ]; then
         echo "Usage: $0 [options] <target_dir>"
         echo "Options:"
-        echo "  --sb, --skip-build    Skip the build step"
-        echo "  --sd, --skip-deploy   Skip the deploy step"
-        echo "  --al, --add-landing   Deploy landing site mod after main deployment"
+        echo "  -sb, --skip-build    Skip the build step"
+        echo "  -sd, --skip-deploy   Skip the deploy step"
+        echo "  -al, --add-landing   Deploy landing site mod after main deployment"
         exit 0
-    elif [ "$arg" = "--sb" ]; then
+    elif [ "$arg" = "-sb" ] || [ "$arg" = "--skip-build" ]; then
         SKIP_BUILD=true
-    elif [ "$arg" = "--sd" ]; then
+    elif [ "$arg" = "-sd" ] || [ "$arg" = "--skip-deploy" ]; then
         SKIP_DEPLOY=true
-    elif [ "$arg" = "--al" ]; then
+    elif [ "$arg" = "-al" ] || [ "$arg" = "--add-landing" ]; then
         ADD_LANDING_MOD=true
     else
         TARGET_DIR="$arg"
@@ -44,9 +44,6 @@ if [ "$SKIP_DEPLOY" = false ]; then
     echo "✏️  Updating title in $CONFIG_FILE"
     sed -i "s|title:[[:space:]]*'APX-Gis Manual v[^']*'|title: 'APX-Gis Manual v$TARGET_DIR'|g" "$CONFIG_FILE"
 fi
-
-echo "✏️  Updating title in $CONFIG_FILE"
-sed -i "s|title:[[:space:]]*'APX-Gis Manual v[^']*'|title: 'APX-Gis Manual v$TARGET_DIR'|g" "$CONFIG_FILE"
 
 # Build unless --skip-build was passed
 if [ "$SKIP_BUILD" = false ]; then
