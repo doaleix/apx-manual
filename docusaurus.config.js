@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'APX-Gis Manual v5.6',
+  title: 'APX-Gis Manual v5.6-beta',
   tagline: 'Your best GIS solution',
   favicon: 'img/favicon.ico',
 
@@ -14,7 +14,7 @@ const config = {
   url: 'https://app.apx-gis.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/user-manual/5.6/',
+  baseUrl: '/user-manual/5.6-beta/',
   trailingSlash: true,
 
   // GitHub pages deployment config.

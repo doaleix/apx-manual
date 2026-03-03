@@ -28,6 +28,6 @@ function HomepageHeader() {
 
 
 export default function Home() {
-  return <Redirect to='/user-manual/5.6/intro' />;
+  return <Redirect to='/user-manual/5.6-beta/intro' />;
 }
 
